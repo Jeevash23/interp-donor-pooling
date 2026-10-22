@@ -1,0 +1,168 @@
+{
+  "adjectives": [
+    "quiet",
+    "calm",
+    "clever",
+    "tired",
+    "proud",
+    "kind",
+    "brave",
+    "polite",
+    "friendly",
+    "busy",
+    "careful",
+    "patient",
+    "curious",
+    "tall",
+    "short",
+    "new",
+    "eager",
+    "gentle",
+    "bright",
+    "honest",
+    "cheerful",
+    "modest",
+    "nervous",
+    "serious",
+    "silent",
+    "wealthy",
+    "hungry",
+    "thirsty",
+    "happy",
+    "sleepy",
+    "lonely",
+    "helpful",
+    "playful"
+  ],
+  "balanced_donor_composition_across_doses": true,
+  "bank_size": 8,
+  "constant_prefix_across_doses_within_donor_context": true,
+  "constant_prompt_length_within_group_per_model": true,
+  "counts": {
+    "calibration": 4,
+    "development": 8,
+    "test": 64
+  },
+  "created_utc": "2026-10-02T09:21:20Z",
+  "cross_split_exact_overlap": {
+    "calibration/development": 0,
+    "calibration/test": 0,
+    "development/test": 0
+  },
+  "distinct_end_tokens": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "grid_shape": [
+    8,
+    8
+  ],
+  "models": [
+    "gpt2-small",
+    "qwen3-0.6b"
+  ],
+  "nouns": [
+    "pilot",
+    "guard",
+    "teacher",
+    "doctor",
+    "farmer",
+    "lawyer",
+    "driver",
+    "nurse",
+    "singer",
+    "artist",
+    "dancer",
+    "sailor",
+    "worker",
+    "actor",
+    "student",
+    "soldier",
+    "chef",
+    "player",
+    "writer",
+    "friend",
+    "cousin",
+    "officer",
+    "leader",
+    "captain",
+    "owner",
+    "author",
+    "reader",
+    "parent",
+    "boy",
+    "girl",
+    "guest"
+  ],
+  "old_exact_overlap": {
+    "calibration": 0,
+    "development": 0,
+    "test": 0
+  },
+  "old_unique_strings": 14548,
+  "previous_files": [
+    "submission-study/data/calibration.json",
+    "submission-study/data/development.json",
+    "submission-study/data/test.json",
+    "data/calibration.json",
+    "data/evaluation.json"
+  ],
+  "rejections": {
+    "calibration": {
+      "overlap": 0,
+      "tokenization": 0
+    },
+    "development": {
+      "overlap": 0,
+      "tokenization": 0
+    },
+    "test": {
+      "overlap": 7,
+      "tokenization": 0
+    }
+  },
+  "rotations_per_dose": 8,
+  "scope": "Randomized partition policy of a fixed 64-donor grid changes within-bank lexical diversity and dispersion; global donor composition and global resample mean are exactly constant across doses. Not a pure token-identity mechanism.",
+  "templates": [
+    "At the station, the {adj} {head} near the {distr}",
+    "At the office, the {adj} {head} beside the {distr}"
+  ],
+  "unique_prompts_per_bank": 8,
+  "unique_strings": {
+    "calibration": 520,
+    "development": 1040,
+    "test": 8164
+  },
+  "unit_of_inference": "recipient group, averaging eight correlated partition banks per dose; rotations and donors are not independent observations",
+  "within_split_reuse": {
+    "calibration": {
+      "all_prompt_duplicate_occurrences": 0,
+      "donor_prompt_duplicate_occurrences": 0,
+      "maximum_donor_prompt_multiplicity": 1,
+      "recipient_donor_overlap_unique_strings": 0,
+      "recipient_pair_duplicates": 0,
+      "recipient_prompt_duplicate_occurrences": 0,
+      "unique_donor_prompts_reused": 0
+    },
+    "development": {
+      "all_prompt_duplicate_occurrences": 0,
+      "donor_prompt_duplicate_occurrences": 0,
+      "maximum_donor_prompt_multiplicity": 1,
+      "recipient_donor_overlap_unique_strings": 0,
+      "recipient_pair_duplicates": 0,
+      "recipient_prompt_duplicate_occurrences": 0,
+      "unique_donor_prompts_reused": 0
+    },
+    "test": {
+      "all_prompt_duplicate_occurrences": 156,
+      "donor_prompt_duplicate_occurrences": 154,
+      "maximum_donor_prompt_multiplicity": 2,
+      "recipient_donor_overlap_unique_strings": 2,
+      "recipient_pair_duplicates": 0,
+      "recipient_prompt_duplicate_occurrences": 0,
+      "unique_donor_prompts_reused": 154
+    }
+  }
+}

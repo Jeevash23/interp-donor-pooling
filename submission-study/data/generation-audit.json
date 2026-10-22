@@ -1,0 +1,47 @@
+{
+  "all_targets_single_appended_token": true,
+  "counts": {
+    "calibration": 12,
+    "development": 48,
+    "test": 288
+  },
+  "created_utc": "2026-09-12T04:06:43Z",
+  "cross_split_overlap": {
+    "calibration/development": 0,
+    "calibration/test": 0,
+    "development/test": 0
+  },
+  "pilot_overlap": {
+    "calibration": 0,
+    "development": 0,
+    "test": 0
+  },
+  "rejections": {
+    "calibration": {
+      "overlap": 0,
+      "tokenization": 3
+    },
+    "development": {
+      "overlap": 8,
+      "tokenization": 19
+    },
+    "test": {
+      "overlap": 52,
+      "tokenization": 76
+    }
+  },
+  "tokenizers": [
+    "gpt2-small",
+    "gpt2-medium",
+    "gpt2-large",
+    "pythia-410m",
+    "tinyllama-1.1b",
+    "qwen3-0.6b",
+    "qwen3-1.7b"
+  ],
+  "unique_strings": {
+    "calibration": 408,
+    "development": 1632,
+    "test": 9792
+  }
+}

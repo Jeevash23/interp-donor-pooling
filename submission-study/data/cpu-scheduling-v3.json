@@ -1,0 +1,7 @@
+{
+  "created_utc": "2026-09-12T06:06:52Z",
+  "files": {
+    "scripts/cpu_blimp_batch_v3.py": "319cdc92f34461989d31ecec83ed00ecc913e7a40a0a0f5bfc22f4f918376eb0"
+  },
+  "scope": "Pythia CPU calibration failed the original duplicate-donor tolerance before any BLiMP data. Pythia BLiMP returns to its validated GPU configuration; all other BLiMP panels remain CPU. Scientific scripts, data and tolerances unchanged."
+}

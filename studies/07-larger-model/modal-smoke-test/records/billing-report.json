@@ -1,0 +1,30 @@
+{
+  "source": "modal billing report --for today --show-resources --json, filtered to this study's apps, 2026-10-17 (after both apps stopped)",
+  "apps": {
+    "ai03-study5-modal-smoke": {
+      "app_id": "ap-[redacted]",
+      "by_resource": {
+        "Memory": 0.00176995,
+        "A10G": 0.02303645,
+        "CPU": 0.02030396,
+        "Network Egress": 0.00790741,
+        "T4": 0.04228458,
+        "L40S": 0.05831973,
+        "L4": 0.061779
+      },
+      "total_usd": 0.21540108
+    },
+    "ai03-study5-modal-profile": {
+      "app_id": "ap-[redacted]",
+      "by_resource": {
+        "A10G": 0.05835356,
+        "CPU": 0.00504874,
+        "Memory": 0.00043049
+      },
+      "total_usd": 0.06383279
+    }
+  },
+  "total_usd": 0.2792,
+  "workspace_month_summary": "Metered Cost:                1.24  \n    Ephemeral Apps:            1.24  \n  Credits:                    -1.22  \n  Network Egress Allowance:   -0.02  \n  Billed Cost:                $0.00",
+  "note": "ai03-study5-modal-smoke: reproduction (T4) and timing (L4, A10G, L40S); ai03-study5-modal-profile: profiling addendum (A10G). The workspace summary covers every app this month, including AI-01 Study 7."
+}

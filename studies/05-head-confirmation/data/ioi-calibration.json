@@ -1,0 +1,7220 @@
+[
+  {
+    "donors": [
+      {
+        "ids": [
+          2215,
+          5335,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          3899,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Mike",
+          "Michael"
+        ],
+        "object": "toy",
+        "place": "office",
+        "text": "When Mary and Mike went to the office, Michael gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          22695,
+          290,
+          15984,
+          1816,
+          284,
+          262,
+          10481,
+          11,
+          4502,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Helen",
+          "Rachel",
+          "George"
+        ],
+        "object": "key",
+        "place": "beach",
+        "text": "When Helen and Rachel went to the beach, George gave a key to"
+      },
+      {
+        "ids": [
+          2215,
+          10443,
+          290,
+          7939,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          22300,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Edward",
+          "Kevin",
+          "Julia"
+        ],
+        "object": "ball",
+        "place": "office",
+        "text": "When Edward and Kevin went to the office, Julia gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          9925,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          3271,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Patrick",
+          "David"
+        ],
+        "object": "ball",
+        "place": "store",
+        "text": "When Victor and Patrick went to the store, David gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          1757,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          3952,
+          11,
+          14200,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "John",
+          "Mike",
+          "Maria"
+        ],
+        "object": "necklace",
+        "place": "park",
+        "text": "When John and Mike went to the park, Maria gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          6542,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          14919,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Steve",
+          "Rose",
+          "Susan"
+        ],
+        "object": "bag",
+        "place": "hotel",
+        "text": "When Steve and Rose went to the hotel, Susan gave a bag to"
+      },
+      {
+        "ids": [
+          2215,
+          2940,
+          290,
+          5335,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          8049,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Mark",
+          "Mary",
+          "Rose"
+        ],
+        "object": "box",
+        "place": "garden",
+        "text": "When Mark and Mary went to the garden, Rose gave a box to"
+      },
+      {
+        "ids": [
+          2215,
+          21776,
+          290,
+          4186,
+          1816,
+          284,
+          262,
+          2156,
+          11,
+          5780,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Linda",
+          "Tom",
+          "Martin"
+        ],
+        "object": "flower",
+        "place": "house",
+        "text": "When Linda and Tom went to the house, Martin gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          14919,
+          290,
+          5199,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          5278,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Susan",
+          "Robert",
+          "Frank"
+        ],
+        "object": "ball",
+        "place": "hotel",
+        "text": "When Susan and Robert went to the hotel, Frank gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          16753,
+          290,
+          18966,
+          1816,
+          284,
+          262,
+          2156,
+          11,
+          15819,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "names": [
+          "Laura",
+          "Emma",
+          "Walter"
+        ],
+        "object": "ticket",
+        "place": "house",
+        "text": "When Laura and Emma went to the house, Walter gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          15819,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          5780,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Michael",
+          "Martin"
+        ],
+        "object": "drink",
+        "place": "museum",
+        "text": "When Walter and Michael went to the museum, Martin gave a drink to"
+      },
+      {
+        "ids": [
+          2215,
+          5335,
+          290,
+          4186,
+          1816,
+          284,
+          262,
+          3952,
+          11,
+          12622,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Tom",
+          "Victor"
+        ],
+        "object": "letter",
+        "place": "park",
+        "text": "When Mary and Tom went to the park, Victor gave a letter to"
+      },
+      {
+        "ids": [
+          2215,
+          3409,
+          290,
+          8832,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          5780,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Sam",
+          "Tony",
+          "Martin"
+        ],
+        "object": "book",
+        "place": "library",
+        "text": "When Sam and Tony went to the library, Martin gave a book to"
+      },
+      {
+        "ids": [
+          2215,
+          8616,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          16753,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Michael",
+          "Laura"
+        ],
+        "object": "snack",
+        "place": "museum",
+        "text": "When Henry and Michael went to the museum, Laura gave a snack to"
+      },
+      {
+        "ids": [
+          2215,
+          12091,
+          290,
+          5335,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          5780,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Jane",
+          "Mary",
+          "Martin"
+        ],
+        "object": "toy",
+        "place": "library",
+        "text": "When Jane and Mary went to the library, Martin gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          12091,
+          290,
+          22695,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          5811,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Jane",
+          "Helen",
+          "Bob"
+        ],
+        "object": "key",
+        "place": "school",
+        "text": "When Jane and Helen went to the school, Bob gave a key to"
+      },
+      {
+        "ids": [
+          2215,
+          8832,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          3952,
+          11,
+          5689,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Jack",
+          "Joe"
+        ],
+        "object": "cup",
+        "place": "park",
+        "text": "When Tony and Jack went to the park, Joe gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          3932,
+          290,
+          6219,
+          1816,
+          284,
+          262,
+          2156,
+          11,
+          4995,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Ben",
+          "Richard",
+          "Mike"
+        ],
+        "object": "map",
+        "place": "house",
+        "text": "When Ben and Richard went to the house, Mike gave a map to"
+      },
+      {
+        "ids": [
+          2215,
+          3932,
+          290,
+          4186,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          4502,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Ben",
+          "Tom",
+          "George"
+        ],
+        "object": "necklace",
+        "place": "theater",
+        "text": "When Ben and Tom went to the theater, George gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          5278,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          14200,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Frank",
+          "Martin",
+          "Maria"
+        ],
+        "object": "bottle",
+        "place": "restaurant",
+        "text": "When Frank and Martin went to the restaurant, Maria gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          18496,
+          290,
+          15416,
+          1816,
+          284,
+          262,
+          2156,
+          11,
+          22300,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Nancy",
+          "Oliver",
+          "Julia"
+        ],
+        "object": "flower",
+        "place": "house",
+        "text": "When Nancy and Oliver went to the house, Julia gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          15378,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          4186,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Lisa",
+          "Tom"
+        ],
+        "object": "kiss",
+        "place": "restaurant",
+        "text": "When Victor and Lisa went to the restaurant, Tom gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          22695,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Rebecca",
+          "Helen"
+        ],
+        "object": "kiss",
+        "place": "school",
+        "text": "When Victor and Rebecca went to the school, Helen gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          5811,
+          290,
+          13637,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          5658,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Bob",
+          "Roger",
+          "Thomas"
+        ],
+        "object": "necklace",
+        "place": "restaurant",
+        "text": "When Bob and Roger went to the restaurant, Thomas gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          1757,
+          290,
+          11336,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          12622,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "John",
+          "Luke",
+          "Victor"
+        ],
+        "object": "hat",
+        "place": "store",
+        "text": "When John and Luke went to the store, Victor gave a hat to"
+      },
+      {
+        "ids": [
+          2215,
+          22300,
+          290,
+          5335,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          9925,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Julia",
+          "Mary",
+          "Patrick"
+        ],
+        "object": "kiss",
+        "place": "museum",
+        "text": "When Julia and Mary went to the museum, Patrick gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          16156,
+          290,
+          3700,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          5074,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Grace",
+          "James",
+          "Carol"
+        ],
+        "object": "ring",
+        "place": "library",
+        "text": "When Grace and James went to the library, Carol gave a ring to"
+      },
+      {
+        "ids": [
+          2215,
+          28314,
+          290,
+          5199,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          11336,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Wendy",
+          "Robert",
+          "Luke"
+        ],
+        "object": "drink",
+        "place": "garden",
+        "text": "When Wendy and Robert went to the garden, Luke gave a drink to"
+      },
+      {
+        "ids": [
+          2215,
+          15819,
+          290,
+          14919,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          14200,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Susan",
+          "Maria"
+        ],
+        "object": "key",
+        "place": "theater",
+        "text": "When Walter and Susan went to the theater, Maria gave a key to"
+      },
+      {
+        "ids": [
+          2215,
+          3409,
+          290,
+          18966,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          22695,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Sam",
+          "Emma",
+          "Helen"
+        ],
+        "object": "hat",
+        "place": "theater",
+        "text": "When Sam and Emma went to the theater, Helen gave a hat to"
+      },
+      {
+        "ids": [
+          2215,
+          16156,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          12622,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Grace",
+          "Rose",
+          "Victor"
+        ],
+        "object": "kiss",
+        "place": "school",
+        "text": "When Grace and Rose went to the school, Victor gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          18966,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          7939,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Emma",
+          "Jack",
+          "Kevin"
+        ],
+        "object": "flower",
+        "place": "restaurant",
+        "text": "When Emma and Jack went to the restaurant, Kevin gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          18496,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          12091,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Nancy",
+          "Jane"
+        ],
+        "object": "flower",
+        "place": "hotel",
+        "text": "When Victor and Nancy went to the hotel, Jane gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          18966,
+          290,
+          15819,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          12091,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Emma",
+          "Walter",
+          "Jane"
+        ],
+        "object": "box",
+        "place": "museum",
+        "text": "When Emma and Walter went to the museum, Jane gave a box to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          10481,
+          11,
+          8616,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Mike",
+          "Henry"
+        ],
+        "object": "flower",
+        "place": "beach",
+        "text": "When Victor and Mike went to the beach, Henry gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          13637,
+          290,
+          3409,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          3619,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Roger",
+          "Sam",
+          "Jack"
+        ],
+        "object": "flower",
+        "place": "station",
+        "text": "When Roger and Sam went to the station, Jack gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          7939,
+          290,
+          3977,
+          1816,
+          284,
+          262,
+          3952,
+          11,
+          15416,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Kevin",
+          "William",
+          "Oliver"
+        ],
+        "object": "key",
+        "place": "park",
+        "text": "When Kevin and William went to the park, Oliver gave a key to"
+      },
+      {
+        "ids": [
+          2215,
+          3271,
+          290,
+          5689,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          16156,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "David",
+          "Joe",
+          "Grace"
+        ],
+        "object": "necklace",
+        "place": "station",
+        "text": "When David and Joe went to the station, Grace gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          6219,
+          290,
+          8047,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          3619,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "names": [
+          "Richard",
+          "Nick",
+          "Jack"
+        ],
+        "object": "ticket",
+        "place": "theater",
+        "text": "When Richard and Nick went to the theater, Jack gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          6542,
+          290,
+          9925,
+          1816,
+          284,
+          262,
+          4436,
+          11,
+          5199,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Steve",
+          "Patrick",
+          "Robert"
+        ],
+        "object": "letter",
+        "place": "hospital",
+        "text": "When Steve and Patrick went to the hospital, Robert gave a letter to"
+      },
+      {
+        "ids": [
+          2215,
+          22695,
+          290,
+          12091,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          11735,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Helen",
+          "Jane",
+          "Anna"
+        ],
+        "object": "hat",
+        "place": "office",
+        "text": "When Helen and Jane went to the office, Anna gave a hat to"
+      },
+      {
+        "ids": [
+          2215,
+          2940,
+          290,
+          18496,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          16753,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Mark",
+          "Nancy",
+          "Laura"
+        ],
+        "object": "book",
+        "place": "museum",
+        "text": "When Mark and Nancy went to the museum, Laura gave a book to"
+      },
+      {
+        "ids": [
+          2215,
+          22162,
+          290,
+          11288,
+          1816,
+          284,
+          262,
+          10481,
+          11,
+          12622,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Lucy",
+          "Simon",
+          "Victor"
+        ],
+        "object": "drink",
+        "place": "beach",
+        "text": "When Lucy and Simon went to the beach, Victor gave a drink to"
+      },
+      {
+        "ids": [
+          2215,
+          5689,
+          290,
+          18966,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          10490,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Joe",
+          "Emma",
+          "Sarah"
+        ],
+        "object": "letter",
+        "place": "museum",
+        "text": "When Joe and Emma went to the museum, Sarah gave a letter to"
+      },
+      {
+        "ids": [
+          2215,
+          8239,
+          290,
+          22300,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          8832,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Steven",
+          "Julia",
+          "Tony"
+        ],
+        "object": "toy",
+        "place": "store",
+        "text": "When Steven and Julia went to the store, Tony gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          8616,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          11336,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Jack",
+          "Luke"
+        ],
+        "object": "bag",
+        "place": "garden",
+        "text": "When Henry and Jack went to the garden, Luke gave a bag to"
+      },
+      {
+        "ids": [
+          2215,
+          16156,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          10490,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Grace",
+          "Michael",
+          "Sarah"
+        ],
+        "object": "map",
+        "place": "library",
+        "text": "When Grace and Michael went to the library, Sarah gave a map to"
+      },
+      {
+        "ids": [
+          2215,
+          28314,
+          290,
+          13637,
+          1816,
+          284,
+          262,
+          2156,
+          11,
+          22300,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Wendy",
+          "Roger",
+          "Julia"
+        ],
+        "object": "snack",
+        "place": "house",
+        "text": "When Wendy and Roger went to the house, Julia gave a snack to"
+      },
+      {
+        "ids": [
+          2215,
+          5199,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          10490,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Robert",
+          "Martin",
+          "Sarah"
+        ],
+        "object": "flower",
+        "place": "station",
+        "text": "When Robert and Martin went to the station, Sarah gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          5811,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          6219,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Bob",
+          "Mike",
+          "Richard"
+        ],
+        "object": "bone",
+        "place": "church",
+        "text": "When Bob and Mike went to the church, Richard gave a bone to"
+      },
+      {
+        "ids": [
+          2215,
+          5199,
+          290,
+          3977,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          12091,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Robert",
+          "William",
+          "Jane"
+        ],
+        "object": "computer",
+        "place": "office",
+        "text": "When Robert and William went to the office, Jane gave a computer to"
+      },
+      {
+        "ids": [
+          2215,
+          6219,
+          290,
+          22695,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          7939,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "names": [
+          "Richard",
+          "Helen",
+          "Kevin"
+        ],
+        "object": "ticket",
+        "place": "theater",
+        "text": "When Richard and Helen went to the theater, Kevin gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          5335,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          3952,
+          11,
+          14200,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Michael",
+          "Maria"
+        ],
+        "object": "ring",
+        "place": "park",
+        "text": "When Mary and Michael went to the park, Maria gave a ring to"
+      },
+      {
+        "ids": [
+          2215,
+          16693,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          16156,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Kate",
+          "John",
+          "Grace"
+        ],
+        "object": "cup",
+        "place": "library",
+        "text": "When Kate and John went to the library, Grace gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          22695,
+          290,
+          4186,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          6219,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Helen",
+          "Tom",
+          "Richard"
+        ],
+        "object": "computer",
+        "place": "office",
+        "text": "When Helen and Tom went to the office, Richard gave a computer to"
+      },
+      {
+        "ids": [
+          2215,
+          1757,
+          290,
+          22695,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          15416,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "John",
+          "Helen",
+          "Oliver"
+        ],
+        "object": "bag",
+        "place": "store",
+        "text": "When John and Helen went to the store, Oliver gave a bag to"
+      },
+      {
+        "ids": [
+          2215,
+          3899,
+          290,
+          5278,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          35331,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Michael",
+          "Frank",
+          "Sophie"
+        ],
+        "object": "bag",
+        "place": "school",
+        "text": "When Michael and Frank went to the school, Sophie gave a bag to"
+      },
+      {
+        "ids": [
+          2215,
+          10490,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          8047,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Sarah",
+          "Rose",
+          "Nick"
+        ],
+        "object": "necklace",
+        "place": "library",
+        "text": "When Sarah and Rose went to the library, Nick gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          15819,
+          290,
+          8616,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          10490,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Henry",
+          "Sarah"
+        ],
+        "object": "bone",
+        "place": "church",
+        "text": "When Walter and Henry went to the church, Sarah gave a bone to"
+      },
+      {
+        "ids": [
+          2215,
+          13637,
+          290,
+          14862,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          15416,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Roger",
+          "Alice",
+          "Oliver"
+        ],
+        "object": "map",
+        "place": "school",
+        "text": "When Roger and Alice went to the school, Oliver gave a map to"
+      },
+      {
+        "ids": [
+          2215,
+          5658,
+          290,
+          22695,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          5278,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Thomas",
+          "Helen",
+          "Frank"
+        ],
+        "object": "letter",
+        "place": "garden",
+        "text": "When Thomas and Helen went to the garden, Frank gave a letter to"
+      },
+      {
+        "ids": [
+          2215,
+          3409,
+          290,
+          5689,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          8832,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Sam",
+          "Joe",
+          "Tony"
+        ],
+        "object": "bottle",
+        "place": "school",
+        "text": "When Sam and Joe went to the school, Tony gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          4502,
+          290,
+          5689,
+          1816,
+          284,
+          262,
+          2156,
+          11,
+          4186,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "George",
+          "Joe",
+          "Tom"
+        ],
+        "object": "toy",
+        "place": "house",
+        "text": "When George and Joe went to the house, Tom gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          23489,
+          290,
+          3700,
+          1816,
+          284,
+          262,
+          2156,
+          11,
+          9925,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Rebecca",
+          "James",
+          "Patrick"
+        ],
+        "object": "bottle",
+        "place": "house",
+        "text": "When Rebecca and James went to the house, Patrick gave a bottle to"
+      }
+    ],
+    "family": "O",
+    "group": 0,
+    "id": "ioi-calibration-ioi-00000",
+    "object": "basketball",
+    "order": "ABBA",
+    "place": "market",
+    "recipient": {
+      "contrast_id": 7806,
+      "end": 13,
+      "ids": [
+        2215,
+        3362,
+        290,
+        7806,
+        1816,
+        284,
+        262,
+        1910,
+        11,
+        7806,
+        2921,
+        257,
+        9669,
+        284
+      ],
+      "io": 1,
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 9,
+      "target_id": 3362,
+      "text": "When Paul and Daniel went to the market, Daniel gave a basketball to"
+    },
+    "s2_tokens": [
+      3899,
+      4502,
+      22300,
+      3271,
+      14200,
+      14919,
+      8049,
+      5780,
+      5278,
+      15819,
+      5780,
+      12622,
+      5780,
+      16753,
+      5780,
+      5811,
+      5689,
+      4995,
+      4502,
+      14200,
+      22300,
+      4186,
+      22695,
+      5658,
+      12622,
+      9925,
+      5074,
+      11336,
+      14200,
+      22695,
+      12622,
+      7939,
+      12091,
+      12091,
+      8616,
+      3619,
+      15416,
+      16156,
+      3619,
+      5199,
+      11735,
+      16753,
+      12622,
+      10490,
+      8832,
+      11336,
+      10490,
+      22300,
+      10490,
+      6219,
+      12091,
+      7939,
+      14200,
+      16156,
+      6219,
+      15416,
+      35331,
+      8047,
+      10490,
+      15416,
+      5278,
+      8832,
+      4186,
+      9925
+    ],
+    "selection_priority": "95ce95052ca2d9868e4a80ca8412a9b0127af2ad1f1d6d9a5e3fbcbb04af2c3a",
+    "split": "ioi-calibration",
+    "stratum": "O0-ABBA",
+    "subject": "Daniel",
+    "target": "Paul",
+    "template": "O0"
+  },
+  {
+    "donors": [
+      {
+        "ids": [
+          2215,
+          3409,
+          290,
+          7806,
+          1816,
+          284,
+          262,
+          3952,
+          11,
+          15819,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Sam",
+          "Daniel",
+          "Walter"
+        ],
+        "object": "kiss",
+        "place": "park",
+        "text": "When Sam and Daniel went to the park, Walter gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          28314,
+          290,
+          8239,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          8832,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Wendy",
+          "Steven",
+          "Tony"
+        ],
+        "object": "ring",
+        "place": "store",
+        "text": "When Wendy and Steven went to the store, Tony gave a ring to"
+      },
+      {
+        "ids": [
+          2215,
+          6542,
+          290,
+          35331,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          5199,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Steve",
+          "Sophie",
+          "Robert"
+        ],
+        "object": "snack",
+        "place": "station",
+        "text": "When Steve and Sophie went to the station, Robert gave a snack to"
+      },
+      {
+        "ids": [
+          2215,
+          6219,
+          290,
+          8047,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          22162,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Richard",
+          "Nick",
+          "Lucy"
+        ],
+        "object": "snack",
+        "place": "theater",
+        "text": "When Richard and Nick went to the theater, Lucy gave a snack to"
+      },
+      {
+        "ids": [
+          2215,
+          11735,
+          290,
+          28314,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          6542,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Anna",
+          "Wendy",
+          "Steve"
+        ],
+        "object": "key",
+        "place": "museum",
+        "text": "When Anna and Wendy went to the museum, Steve gave a key to"
+      },
+      {
+        "ids": [
+          2215,
+          10443,
+          290,
+          3977,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          3700,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Edward",
+          "William",
+          "James"
+        ],
+        "object": "basketball",
+        "place": "station",
+        "text": "When Edward and William went to the station, James gave a basketball to"
+      },
+      {
+        "ids": [
+          2215,
+          5689,
+          290,
+          6219,
+          1816,
+          284,
+          262,
+          1910,
+          11,
+          3362,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Joe",
+          "Richard",
+          "Paul"
+        ],
+        "object": "toy",
+        "place": "market",
+        "text": "When Joe and Richard went to the market, Paul gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          13637,
+          290,
+          12622,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          21776,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Roger",
+          "Victor",
+          "Linda"
+        ],
+        "object": "kiss",
+        "place": "garden",
+        "text": "When Roger and Victor went to the garden, Linda gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          15984,
+          290,
+          11735,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          3932,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Rachel",
+          "Anna",
+          "Ben"
+        ],
+        "object": "map",
+        "place": "garden",
+        "text": "When Rachel and Anna went to the garden, Ben gave a map to"
+      },
+      {
+        "ids": [
+          2215,
+          5658,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          16156,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Thomas",
+          "Mike",
+          "Grace"
+        ],
+        "object": "ball",
+        "place": "church",
+        "text": "When Thomas and Mike went to the church, Grace gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          11288,
+          290,
+          5658,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          6542,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Simon",
+          "Thomas",
+          "Steve"
+        ],
+        "object": "ball",
+        "place": "church",
+        "text": "When Simon and Thomas went to the church, Steve gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          5689,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          8047,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Joe",
+          "Kate",
+          "Nick"
+        ],
+        "object": "bone",
+        "place": "garden",
+        "text": "When Joe and Kate went to the garden, Nick gave a bone to"
+      },
+      {
+        "ids": [
+          2215,
+          16693,
+          290,
+          4502,
+          1816,
+          284,
+          262,
+          1910,
+          11,
+          7939,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Kate",
+          "George",
+          "Kevin"
+        ],
+        "object": "kiss",
+        "place": "market",
+        "text": "When Kate and George went to the market, Kevin gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          15416,
+          290,
+          3362,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          11336,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Oliver",
+          "Paul",
+          "Luke"
+        ],
+        "object": "snack",
+        "place": "school",
+        "text": "When Oliver and Paul went to the school, Luke gave a snack to"
+      },
+      {
+        "ids": [
+          2215,
+          3932,
+          290,
+          3362,
+          1816,
+          284,
+          262,
+          1910,
+          11,
+          13637,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Ben",
+          "Paul",
+          "Roger"
+        ],
+        "object": "ring",
+        "place": "market",
+        "text": "When Ben and Paul went to the market, Roger gave a ring to"
+      },
+      {
+        "ids": [
+          2215,
+          21776,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          16156,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Linda",
+          "Michael",
+          "Grace"
+        ],
+        "object": "ball",
+        "place": "office",
+        "text": "When Linda and Michael went to the office, Grace gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          22162,
+          290,
+          21776,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          13637,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Lucy",
+          "Linda",
+          "Roger"
+        ],
+        "object": "hat",
+        "place": "hotel",
+        "text": "When Lucy and Linda went to the hotel, Roger gave a hat to"
+      },
+      {
+        "ids": [
+          2215,
+          11336,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          10443,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Luke",
+          "Rose",
+          "Edward"
+        ],
+        "object": "computer",
+        "place": "station",
+        "text": "When Luke and Rose went to the station, Edward gave a computer to"
+      },
+      {
+        "ids": [
+          2215,
+          5335,
+          290,
+          5658,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          14862,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Thomas",
+          "Alice"
+        ],
+        "object": "toy",
+        "place": "school",
+        "text": "When Mary and Thomas went to the school, Alice gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          7806,
+          290,
+          4502,
+          1816,
+          284,
+          262,
+          4436,
+          11,
+          16753,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Daniel",
+          "George",
+          "Laura"
+        ],
+        "object": "book",
+        "place": "hospital",
+        "text": "When Daniel and George went to the hospital, Laura gave a book to"
+      },
+      {
+        "ids": [
+          2215,
+          15416,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          8616,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Oliver",
+          "Peter",
+          "Henry"
+        ],
+        "object": "letter",
+        "place": "church",
+        "text": "When Oliver and Peter went to the church, Henry gave a letter to"
+      },
+      {
+        "ids": [
+          2215,
+          18496,
+          290,
+          6542,
+          1816,
+          284,
+          262,
+          10481,
+          11,
+          3409,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Nancy",
+          "Steve",
+          "Sam"
+        ],
+        "object": "ball",
+        "place": "beach",
+        "text": "When Nancy and Steve went to the beach, Sam gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          3932,
+          290,
+          10490,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          11336,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Ben",
+          "Sarah",
+          "Luke"
+        ],
+        "object": "necklace",
+        "place": "church",
+        "text": "When Ben and Sarah went to the church, Luke gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          4186,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          22162,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Tom",
+          "John",
+          "Lucy"
+        ],
+        "object": "basketball",
+        "place": "restaurant",
+        "text": "When Tom and John went to the restaurant, Lucy gave a basketball to"
+      },
+      {
+        "ids": [
+          2215,
+          8832,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          1910,
+          11,
+          4995,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Rebecca",
+          "Mike"
+        ],
+        "object": "snack",
+        "place": "market",
+        "text": "When Tony and Rebecca went to the market, Mike gave a snack to"
+      },
+      {
+        "ids": [
+          2215,
+          7939,
+          290,
+          12091,
+          1816,
+          284,
+          262,
+          1524,
+          11,
+          4995,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Kevin",
+          "Jane",
+          "Mike"
+        ],
+        "object": "ring",
+        "place": "school",
+        "text": "When Kevin and Jane went to the school, Mike gave a ring to"
+      },
+      {
+        "ids": [
+          2215,
+          8049,
+          290,
+          3977,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          2940,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Rose",
+          "William",
+          "Mark"
+        ],
+        "object": "necklace",
+        "place": "office",
+        "text": "When Rose and William went to the office, Mark gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          15819,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          7939,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Kate",
+          "Kevin"
+        ],
+        "object": "book",
+        "place": "store",
+        "text": "When Walter and Kate went to the store, Kevin gave a book to"
+      },
+      {
+        "ids": [
+          2215,
+          15416,
+          290,
+          15378,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          7939,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Oliver",
+          "Lisa",
+          "Kevin"
+        ],
+        "object": "flower",
+        "place": "museum",
+        "text": "When Oliver and Lisa went to the museum, Kevin gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          11288,
+          290,
+          8832,
+          1816,
+          284,
+          262,
+          1910,
+          11,
+          14862,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Simon",
+          "Tony",
+          "Alice"
+        ],
+        "object": "computer",
+        "place": "market",
+        "text": "When Simon and Tony went to the market, Alice gave a computer to"
+      },
+      {
+        "ids": [
+          2215,
+          3362,
+          290,
+          18966,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          16693,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Paul",
+          "Emma",
+          "Kate"
+        ],
+        "object": "basketball",
+        "place": "hotel",
+        "text": "When Paul and Emma went to the hotel, Kate gave a basketball to"
+      },
+      {
+        "ids": [
+          2215,
+          28314,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          18496,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Wendy",
+          "Michael",
+          "Nancy"
+        ],
+        "object": "cup",
+        "place": "store",
+        "text": "When Wendy and Michael went to the store, Nancy gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          22695,
+          290,
+          4502,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          11336,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Helen",
+          "George",
+          "Luke"
+        ],
+        "object": "bottle",
+        "place": "garden",
+        "text": "When Helen and George went to the garden, Luke gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          5335,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          18496,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Mary",
+          "John",
+          "Nancy"
+        ],
+        "object": "computer",
+        "place": "museum",
+        "text": "When Mary and John went to the museum, Nancy gave a computer to"
+      },
+      {
+        "ids": [
+          2215,
+          14919,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          5278,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Susan",
+          "Peter",
+          "Frank"
+        ],
+        "object": "kiss",
+        "place": "library",
+        "text": "When Susan and Peter went to the library, Frank gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          14862,
+          290,
+          5658,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          2940,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Alice",
+          "Thomas",
+          "Mark"
+        ],
+        "object": "ball",
+        "place": "station",
+        "text": "When Alice and Thomas went to the station, Mark gave a ball to"
+      },
+      {
+        "ids": [
+          2215,
+          4502,
+          290,
+          14862,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          23489,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "names": [
+          "George",
+          "Alice",
+          "Rebecca"
+        ],
+        "object": "ticket",
+        "place": "church",
+        "text": "When George and Alice went to the church, Rebecca gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          15416,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          1910,
+          11,
+          22162,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Oliver",
+          "Jack",
+          "Lucy"
+        ],
+        "object": "kiss",
+        "place": "market",
+        "text": "When Oliver and Jack went to the market, Lucy gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          5613,
+          290,
+          3700,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          5199,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Peter",
+          "James",
+          "Robert"
+        ],
+        "object": "hat",
+        "place": "theater",
+        "text": "When Peter and James went to the theater, Robert gave a hat to"
+      },
+      {
+        "ids": [
+          2215,
+          22300,
+          290,
+          3409,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          4995,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Julia",
+          "Sam",
+          "Mike"
+        ],
+        "object": "toy",
+        "place": "garden",
+        "text": "When Julia and Sam went to the garden, Mike gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          11336,
+          1816,
+          284,
+          262,
+          4928,
+          11,
+          18966,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Luke",
+          "Emma"
+        ],
+        "object": "hat",
+        "place": "church",
+        "text": "When Victor and Luke went to the church, Emma gave a hat to"
+      },
+      {
+        "ids": [
+          2215,
+          16156,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          8832,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Grace",
+          "John",
+          "Tony"
+        ],
+        "object": "box",
+        "place": "store",
+        "text": "When Grace and John went to the store, Tony gave a box to"
+      },
+      {
+        "ids": [
+          2215,
+          22300,
+          290,
+          28314,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          9925,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Julia",
+          "Wendy",
+          "Patrick"
+        ],
+        "object": "letter",
+        "place": "museum",
+        "text": "When Julia and Wendy went to the museum, Patrick gave a letter to"
+      },
+      {
+        "ids": [
+          2215,
+          16156,
+          290,
+          15378,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          8832,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Grace",
+          "Lisa",
+          "Tony"
+        ],
+        "object": "box",
+        "place": "office",
+        "text": "When Grace and Lisa went to the office, Tony gave a box to"
+      },
+      {
+        "ids": [
+          2215,
+          5689,
+          290,
+          21776,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          18496,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Joe",
+          "Linda",
+          "Nancy"
+        ],
+        "object": "flower",
+        "place": "museum",
+        "text": "When Joe and Linda went to the museum, Nancy gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          8047,
+          290,
+          8832,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          7806,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Nick",
+          "Tony",
+          "Daniel"
+        ],
+        "object": "necklace",
+        "place": "theater",
+        "text": "When Nick and Tony went to the theater, Daniel gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          8616,
+          290,
+          8047,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          13637,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Nick",
+          "Roger"
+        ],
+        "object": "kiss",
+        "place": "hotel",
+        "text": "When Henry and Nick went to the hotel, Roger gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          3899,
+          290,
+          15984,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          22300,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Michael",
+          "Rachel",
+          "Julia"
+        ],
+        "object": "bone",
+        "place": "store",
+        "text": "When Michael and Rachel went to the store, Julia gave a bone to"
+      },
+      {
+        "ids": [
+          2215,
+          22162,
+          290,
+          14200,
+          1816,
+          284,
+          262,
+          4429,
+          11,
+          15378,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Lucy",
+          "Maria",
+          "Lisa"
+        ],
+        "object": "computer",
+        "place": "station",
+        "text": "When Lucy and Maria went to the station, Lisa gave a computer to"
+      },
+      {
+        "ids": [
+          2215,
+          23489,
+          290,
+          6219,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          21776,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Rebecca",
+          "Richard",
+          "Linda"
+        ],
+        "object": "box",
+        "place": "library",
+        "text": "When Rebecca and Richard went to the library, Linda gave a box to"
+      },
+      {
+        "ids": [
+          2215,
+          12091,
+          290,
+          12622,
+          1816,
+          284,
+          262,
+          3952,
+          11,
+          22162,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Jane",
+          "Victor",
+          "Lucy"
+        ],
+        "object": "flower",
+        "place": "park",
+        "text": "When Jane and Victor went to the park, Lucy gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          3409,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          3932,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Sam",
+          "Rebecca",
+          "Ben"
+        ],
+        "object": "basketball",
+        "place": "library",
+        "text": "When Sam and Rebecca went to the library, Ben gave a basketball to"
+      },
+      {
+        "ids": [
+          2215,
+          35331,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          11336,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Sophie",
+          "Kate",
+          "Luke"
+        ],
+        "object": "flower",
+        "place": "restaurant",
+        "text": "When Sophie and Kate went to the restaurant, Luke gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          10490,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          3700,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Sarah",
+          "Mike",
+          "James"
+        ],
+        "object": "bottle",
+        "place": "library",
+        "text": "When Sarah and Mike went to the library, James gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          12091,
+          290,
+          14862,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          21776,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Jane",
+          "Alice",
+          "Linda"
+        ],
+        "object": "key",
+        "place": "museum",
+        "text": "When Jane and Alice went to the museum, Linda gave a key to"
+      },
+      {
+        "ids": [
+          2215,
+          4186,
+          290,
+          15819,
+          1816,
+          284,
+          262,
+          4436,
+          11,
+          18496,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Tom",
+          "Walter",
+          "Nancy"
+        ],
+        "object": "toy",
+        "place": "hospital",
+        "text": "When Tom and Walter went to the hospital, Nancy gave a toy to"
+      },
+      {
+        "ids": [
+          2215,
+          22162,
+          290,
+          8047,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          3271,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Lucy",
+          "Nick",
+          "David"
+        ],
+        "object": "flower",
+        "place": "museum",
+        "text": "When Lucy and Nick went to the museum, David gave a flower to"
+      },
+      {
+        "ids": [
+          2215,
+          5199,
+          290,
+          3977,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          16753,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Robert",
+          "William",
+          "Laura"
+        ],
+        "object": "necklace",
+        "place": "hotel",
+        "text": "When Robert and William went to the hotel, Laura gave a necklace to"
+      },
+      {
+        "ids": [
+          2215,
+          8616,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          13257,
+          11,
+          18496,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Rebecca",
+          "Nancy"
+        ],
+        "object": "kiss",
+        "place": "museum",
+        "text": "When Henry and Rebecca went to the museum, Nancy gave a kiss to"
+      },
+      {
+        "ids": [
+          2215,
+          21776,
+          290,
+          10443,
+          1816,
+          284,
+          262,
+          5888,
+          11,
+          15378,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Linda",
+          "Edward",
+          "Lisa"
+        ],
+        "object": "cup",
+        "place": "library",
+        "text": "When Linda and Edward went to the library, Lisa gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          10443,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          11376,
+          11,
+          5658,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Edward",
+          "Mike",
+          "Thomas"
+        ],
+        "object": "basketball",
+        "place": "garden",
+        "text": "When Edward and Mike went to the garden, Thomas gave a basketball to"
+      },
+      {
+        "ids": [
+          2215,
+          1757,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          13766,
+          11,
+          5658,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "John",
+          "Rebecca",
+          "Thomas"
+        ],
+        "object": "basketball",
+        "place": "theater",
+        "text": "When John and Rebecca went to the theater, Thomas gave a basketball to"
+      },
+      {
+        "ids": [
+          2215,
+          18496,
+          290,
+          2940,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          15819,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Nancy",
+          "Mark",
+          "Walter"
+        ],
+        "object": "hat",
+        "place": "restaurant",
+        "text": "When Nancy and Mark went to the restaurant, Walter gave a hat to"
+      },
+      {
+        "ids": [
+          2215,
+          4502,
+          290,
+          5074,
+          1816,
+          284,
+          262,
+          3650,
+          11,
+          10490,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "George",
+          "Carol",
+          "Sarah"
+        ],
+        "object": "map",
+        "place": "store",
+        "text": "When George and Carol went to the store, Sarah gave a map to"
+      }
+    ],
+    "family": "O",
+    "group": 1,
+    "id": "ioi-calibration-ioi-00001",
+    "object": "bag",
+    "order": "BABA",
+    "place": "house",
+    "recipient": {
+      "contrast_id": 5780,
+      "end": 13,
+      "ids": [
+        2215,
+        5780,
+        290,
+        5811,
+        1816,
+        284,
+        262,
+        2156,
+        11,
+        5780,
+        2921,
+        257,
+        6131,
+        284
+      ],
+      "io": 3,
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 9,
+      "target_id": 5811,
+      "text": "When Martin and Bob went to the house, Martin gave a bag to"
+    },
+    "s2_tokens": [
+      15819,
+      8832,
+      5199,
+      22162,
+      6542,
+      3700,
+      3362,
+      21776,
+      3932,
+      16156,
+      6542,
+      8047,
+      7939,
+      11336,
+      13637,
+      16156,
+      13637,
+      10443,
+      14862,
+      16753,
+      8616,
+      3409,
+      11336,
+      22162,
+      4995,
+      4995,
+      2940,
+      7939,
+      7939,
+      14862,
+      16693,
+      18496,
+      11336,
+      18496,
+      5278,
+      2940,
+      23489,
+      22162,
+      5199,
+      4995,
+      18966,
+      8832,
+      9925,
+      8832,
+      18496,
+      7806,
+      13637,
+      22300,
+      15378,
+      21776,
+      22162,
+      3932,
+      11336,
+      3700,
+      21776,
+      18496,
+      3271,
+      16753,
+      18496,
+      15378,
+      5658,
+      5658,
+      15819,
+      10490
+    ],
+    "selection_priority": "6931dbd7fe32de802a189ebc3f631d4a9802f8cc6963a372d4116eb8a3a0abd4",
+    "split": "ioi-calibration",
+    "stratum": "O0-BABA",
+    "subject": "Martin",
+    "target": "Bob",
+    "template": "O0"
+  },
+  {
+    "donors": [
+      {
+        "ids": [
+          6423,
+          11,
+          5780,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          15984,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Martin",
+          "Jack",
+          "Rachel"
+        ],
+        "object": "key",
+        "place": "theater",
+        "text": "Then, Martin and Jack went to the theater. Rachel gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          16156,
+          290,
+          22695,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          15819,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Grace",
+          "Helen",
+          "Walter"
+        ],
+        "object": "toy",
+        "place": "house",
+        "text": "Then, Grace and Helen went to the house. Walter gave a toy to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11288,
+          290,
+          6219,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          1757,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Simon",
+          "Richard",
+          "John"
+        ],
+        "object": "ring",
+        "place": "hotel",
+        "text": "Then, Simon and Richard went to the hotel. John gave a ring to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3362,
+          290,
+          22162,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          3899,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Paul",
+          "Lucy",
+          "Michael"
+        ],
+        "object": "kiss",
+        "place": "church",
+        "text": "Then, Paul and Lucy went to the church. Michael gave a kiss to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15819,
+          290,
+          6542,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          18496,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Steve",
+          "Nancy"
+        ],
+        "object": "cup",
+        "place": "park",
+        "text": "Then, Walter and Steve went to the park. Nancy gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5613,
+          290,
+          14200,
+          1816,
+          284,
+          262,
+          1524,
+          13,
+          9925,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Peter",
+          "Maria",
+          "Patrick"
+        ],
+        "object": "bone",
+        "place": "school",
+        "text": "Then, Peter and Maria went to the school. Patrick gave a bone to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          22300,
+          290,
+          11735,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          6542,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Julia",
+          "Anna",
+          "Steve"
+        ],
+        "object": "cup",
+        "place": "park",
+        "text": "Then, Julia and Anna went to the park. Steve gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          7939,
+          290,
+          15819,
+          1816,
+          284,
+          262,
+          7072,
+          13,
+          3362,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Kevin",
+          "Walter",
+          "Paul"
+        ],
+        "object": "letter",
+        "place": "restaurant",
+        "text": "Then, Kevin and Walter went to the restaurant. Paul gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15984,
+          290,
+          22300,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          1757,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Rachel",
+          "Julia",
+          "John"
+        ],
+        "object": "hat",
+        "place": "beach",
+        "text": "Then, Rachel and Julia went to the beach. John gave a hat to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5780,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          9925,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Martin",
+          "Michael",
+          "Patrick"
+        ],
+        "object": "snack",
+        "place": "church",
+        "text": "Then, Martin and Michael went to the church. Patrick gave a snack to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8616,
+          290,
+          5199,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          5658,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Robert",
+          "Thomas"
+        ],
+        "object": "letter",
+        "place": "park",
+        "text": "Then, Henry and Robert went to the park. Thomas gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          16753,
+          290,
+          7806,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          15378,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "Laura",
+          "Daniel",
+          "Lisa"
+        ],
+        "object": "toy",
+        "place": "museum",
+        "text": "Then, Laura and Daniel went to the museum. Lisa gave a toy to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          4502,
+          290,
+          14200,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          35331,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "George",
+          "Maria",
+          "Sophie"
+        ],
+        "object": "ball",
+        "place": "hotel",
+        "text": "Then, George and Maria went to the hotel. Sophie gave a ball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15819,
+          290,
+          5335,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          2940,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Mary",
+          "Mark"
+        ],
+        "object": "kiss",
+        "place": "station",
+        "text": "Then, Walter and Mary went to the station. Mark gave a kiss to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8832,
+          290,
+          22300,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          5613,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Julia",
+          "Peter"
+        ],
+        "object": "kiss",
+        "place": "church",
+        "text": "Then, Tony and Julia went to the church. Peter gave a kiss to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8832,
+          290,
+          12622,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          11735,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Victor",
+          "Anna"
+        ],
+        "object": "key",
+        "place": "station",
+        "text": "Then, Tony and Victor went to the station. Anna gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11735,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          13637,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Anna",
+          "Rose",
+          "Roger"
+        ],
+        "object": "cup",
+        "place": "station",
+        "text": "Then, Anna and Rose went to the station. Roger gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5780,
+          290,
+          5074,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          12622,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Martin",
+          "Carol",
+          "Victor"
+        ],
+        "object": "ring",
+        "place": "garden",
+        "text": "Then, Martin and Carol went to the garden. Victor gave a ring to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5658,
+          290,
+          14200,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          16156,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Thomas",
+          "Maria",
+          "Grace"
+        ],
+        "object": "map",
+        "place": "park",
+        "text": "Then, Thomas and Maria went to the park. Grace gave a map to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8832,
+          290,
+          5658,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          3619,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Thomas",
+          "Jack"
+        ],
+        "object": "basketball",
+        "place": "beach",
+        "text": "Then, Tony and Thomas went to the beach. Jack gave a basketball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          14200,
+          290,
+          5689,
+          1816,
+          284,
+          262,
+          1524,
+          13,
+          3977,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Maria",
+          "Joe",
+          "William"
+        ],
+        "object": "bag",
+        "place": "school",
+        "text": "Then, Maria and Joe went to the school. William gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          2940,
+          290,
+          6542,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          3899,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Mark",
+          "Steve",
+          "Michael"
+        ],
+        "object": "hat",
+        "place": "garden",
+        "text": "Then, Mark and Steve went to the garden. Michael gave a hat to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5658,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          15984,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Thomas",
+          "Michael",
+          "Rachel"
+        ],
+        "object": "bottle",
+        "place": "theater",
+        "text": "Then, Thomas and Michael went to the theater. Rachel gave a bottle to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          28314,
+          290,
+          18496,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          14862,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "names": [
+          "Wendy",
+          "Nancy",
+          "Alice"
+        ],
+        "object": "ticket",
+        "place": "station",
+        "text": "Then, Wendy and Nancy went to the station. Alice gave a ticket to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3362,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          4502,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Paul",
+          "John",
+          "George"
+        ],
+        "object": "cup",
+        "place": "theater",
+        "text": "Then, Paul and John went to the theater. George gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3899,
+          290,
+          12622,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          4186,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Michael",
+          "Victor",
+          "Tom"
+        ],
+        "object": "kiss",
+        "place": "theater",
+        "text": "Then, Michael and Victor went to the theater. Tom gave a kiss to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5199,
+          290,
+          14919,
+          1816,
+          284,
+          262,
+          2607,
+          13,
+          3619,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Robert",
+          "Susan",
+          "Jack"
+        ],
+        "object": "cup",
+        "place": "office",
+        "text": "Then, Robert and Susan went to the office. Jack gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8616,
+          290,
+          6219,
+          1816,
+          284,
+          262,
+          7072,
+          13,
+          3409,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Richard",
+          "Sam"
+        ],
+        "object": "book",
+        "place": "restaurant",
+        "text": "Then, Henry and Richard went to the restaurant. Sam gave a book to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15819,
+          290,
+          8047,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          3362,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Nick",
+          "Paul"
+        ],
+        "object": "box",
+        "place": "station",
+        "text": "Then, Walter and Nick went to the station. Paul gave a box to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          4186,
+          290,
+          9925,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          7806,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Tom",
+          "Patrick",
+          "Daniel"
+        ],
+        "object": "necklace",
+        "place": "theater",
+        "text": "Then, Tom and Patrick went to the theater. Daniel gave a necklace to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          4186,
+          290,
+          2940,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          7806,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Tom",
+          "Mark",
+          "Daniel"
+        ],
+        "object": "letter",
+        "place": "park",
+        "text": "Then, Tom and Mark went to the park. Daniel gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15819,
+          290,
+          28314,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          8616,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Walter",
+          "Wendy",
+          "Henry"
+        ],
+        "object": "letter",
+        "place": "market",
+        "text": "Then, Walter and Wendy went to the market. Henry gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          7939,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          3977,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Kevin",
+          "Peter",
+          "William"
+        ],
+        "object": "map",
+        "place": "market",
+        "text": "Then, Kevin and Peter went to the market. William gave a map to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8239,
+          290,
+          14919,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          11336,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Steven",
+          "Susan",
+          "Luke"
+        ],
+        "object": "book",
+        "place": "museum",
+        "text": "Then, Steven and Susan went to the museum. Luke gave a book to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          18496,
+          290,
+          12622,
+          1816,
+          284,
+          262,
+          2607,
+          13,
+          3409,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Nancy",
+          "Victor",
+          "Sam"
+        ],
+        "object": "letter",
+        "place": "office",
+        "text": "Then, Nancy and Victor went to the office. Sam gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5335,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          1757,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Peter",
+          "John"
+        ],
+        "object": "box",
+        "place": "beach",
+        "text": "Then, Mary and Peter went to the beach. John gave a box to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          10490,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          15416,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Sarah",
+          "Martin",
+          "Oliver"
+        ],
+        "object": "snack",
+        "place": "hotel",
+        "text": "Then, Sarah and Martin went to the hotel. Oliver gave a snack to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5613,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          6219,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Peter",
+          "Rebecca",
+          "Richard"
+        ],
+        "object": "bone",
+        "place": "station",
+        "text": "Then, Peter and Rebecca went to the station. Richard gave a bone to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3899,
+          290,
+          8239,
+          1816,
+          284,
+          262,
+          7072,
+          13,
+          21776,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Michael",
+          "Steven",
+          "Linda"
+        ],
+        "object": "necklace",
+        "place": "restaurant",
+        "text": "Then, Michael and Steven went to the restaurant. Linda gave a necklace to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          6219,
+          290,
+          5658,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          12091,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Richard",
+          "Thomas",
+          "Jane"
+        ],
+        "object": "key",
+        "place": "station",
+        "text": "Then, Richard and Thomas went to the station. Jane gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8616,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          5689,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Kate",
+          "Joe"
+        ],
+        "object": "drink",
+        "place": "hotel",
+        "text": "Then, Henry and Kate went to the hotel. Joe gave a drink to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          7806,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          1524,
+          13,
+          13637,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Daniel",
+          "John",
+          "Roger"
+        ],
+        "object": "bottle",
+        "place": "school",
+        "text": "Then, Daniel and John went to the school. Roger gave a bottle to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5199,
+          290,
+          11288,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          5278,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Robert",
+          "Simon",
+          "Frank"
+        ],
+        "object": "book",
+        "place": "museum",
+        "text": "Then, Robert and Simon went to the museum. Frank gave a book to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15984,
+          290,
+          3932,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          11735,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Rachel",
+          "Ben",
+          "Anna"
+        ],
+        "object": "box",
+        "place": "market",
+        "text": "Then, Rachel and Ben went to the market. Anna gave a box to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5335,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          7072,
+          13,
+          23489,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Mary",
+          "John",
+          "Rebecca"
+        ],
+        "object": "key",
+        "place": "restaurant",
+        "text": "Then, Mary and John went to the restaurant. Rebecca gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5335,
+          290,
+          5811,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          5199,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Bob",
+          "Robert"
+        ],
+        "object": "kiss",
+        "place": "park",
+        "text": "Then, Mary and Bob went to the park. Robert gave a kiss to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3700,
+          290,
+          8239,
+          1816,
+          284,
+          262,
+          1524,
+          13,
+          21776,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "James",
+          "Steven",
+          "Linda"
+        ],
+        "object": "box",
+        "place": "school",
+        "text": "Then, James and Steven went to the school. Linda gave a box to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          14862,
+          290,
+          15378,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          15416,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Alice",
+          "Lisa",
+          "Oliver"
+        ],
+        "object": "box",
+        "place": "church",
+        "text": "Then, Alice and Lisa went to the church. Oliver gave a box to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5811,
+          290,
+          2940,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          10443,
+          2921,
+          257,
+          9245,
+          284
+        ],
+        "names": [
+          "Bob",
+          "Mark",
+          "Edward"
+        ],
+        "object": "kiss",
+        "place": "garden",
+        "text": "Then, Bob and Mark went to the garden. Edward gave a kiss to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11735,
+          290,
+          4995,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          15416,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Anna",
+          "Mike",
+          "Oliver"
+        ],
+        "object": "bag",
+        "place": "garden",
+        "text": "Then, Anna and Mike went to the garden. Oliver gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11336,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          5689,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "names": [
+          "Luke",
+          "Kate",
+          "Joe"
+        ],
+        "object": "ticket",
+        "place": "market",
+        "text": "Then, Luke and Kate went to the market. Joe gave a ticket to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5335,
+          290,
+          14200,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          5199,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Maria",
+          "Robert"
+        ],
+        "object": "key",
+        "place": "museum",
+        "text": "Then, Mary and Maria went to the museum. Robert gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          13637,
+          290,
+          15378,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          7806,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Roger",
+          "Lisa",
+          "Daniel"
+        ],
+        "object": "hat",
+        "place": "museum",
+        "text": "Then, Roger and Lisa went to the museum. Daniel gave a hat to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11336,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          5278,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Luke",
+          "Michael",
+          "Frank"
+        ],
+        "object": "cup",
+        "place": "museum",
+        "text": "Then, Luke and Michael went to the museum. Frank gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          10490,
+          290,
+          5335,
+          1816,
+          284,
+          262,
+          1524,
+          13,
+          1757,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Sarah",
+          "Mary",
+          "John"
+        ],
+        "object": "map",
+        "place": "school",
+        "text": "Then, Sarah and Mary went to the school. John gave a map to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5074,
+          290,
+          16753,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          15984,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Carol",
+          "Laura",
+          "Rachel"
+        ],
+        "object": "bottle",
+        "place": "station",
+        "text": "Then, Carol and Laura went to the station. Rachel gave a bottle to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          14862,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          3650,
+          13,
+          5074,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Alice",
+          "Martin",
+          "Carol"
+        ],
+        "object": "hat",
+        "place": "store",
+        "text": "Then, Alice and Martin went to the store. Carol gave a hat to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5658,
+          290,
+          3932,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          15984,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Thomas",
+          "Ben",
+          "Rachel"
+        ],
+        "object": "ball",
+        "place": "market",
+        "text": "Then, Thomas and Ben went to the market. Rachel gave a ball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          22300,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          5613,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Julia",
+          "Martin",
+          "Peter"
+        ],
+        "object": "drink",
+        "place": "theater",
+        "text": "Then, Julia and Martin went to the theater. Peter gave a drink to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          10443,
+          290,
+          15819,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          5335,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Edward",
+          "Walter",
+          "Mary"
+        ],
+        "object": "basketball",
+        "place": "house",
+        "text": "Then, Edward and Walter went to the house. Mary gave a basketball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          18496,
+          290,
+          11735,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          22695,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "Nancy",
+          "Anna",
+          "Helen"
+        ],
+        "object": "necklace",
+        "place": "museum",
+        "text": "Then, Nancy and Anna went to the museum. Helen gave a necklace to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15378,
+          290,
+          14862,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          18496,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Lisa",
+          "Alice",
+          "Nancy"
+        ],
+        "object": "key",
+        "place": "park",
+        "text": "Then, Lisa and Alice went to the park. Nancy gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          12622,
+          290,
+          3362,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          10490,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Paul",
+          "Sarah"
+        ],
+        "object": "book",
+        "place": "station",
+        "text": "Then, Victor and Paul went to the station. Sarah gave a book to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5689,
+          290,
+          16753,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          3932,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Joe",
+          "Laura",
+          "Ben"
+        ],
+        "object": "drink",
+        "place": "park",
+        "text": "Then, Joe and Laura went to the park. Ben gave a drink to"
+      }
+    ],
+    "family": "W",
+    "group": 2,
+    "id": "ioi-calibration-ioi-00002",
+    "object": "computer",
+    "order": "ABBA",
+    "place": "library",
+    "recipient": {
+      "contrast_id": 3271,
+      "end": 14,
+      "ids": [
+        6423,
+        11,
+        18966,
+        290,
+        3271,
+        1816,
+        284,
+        262,
+        5888,
+        13,
+        3271,
+        2921,
+        257,
+        3644,
+        284
+      ],
+      "io": 2,
+      "s1": 4,
+      "s1_plus1": 5,
+      "s2": 10,
+      "target_id": 18966,
+      "text": "Then, Emma and David went to the library. David gave a computer to"
+    },
+    "s2_tokens": [
+      15984,
+      15819,
+      1757,
+      3899,
+      18496,
+      9925,
+      6542,
+      3362,
+      1757,
+      9925,
+      5658,
+      15378,
+      35331,
+      2940,
+      5613,
+      11735,
+      13637,
+      12622,
+      16156,
+      3619,
+      3977,
+      3899,
+      15984,
+      14862,
+      4502,
+      4186,
+      3619,
+      3409,
+      3362,
+      7806,
+      7806,
+      8616,
+      3977,
+      11336,
+      3409,
+      1757,
+      15416,
+      6219,
+      21776,
+      12091,
+      5689,
+      13637,
+      5278,
+      11735,
+      23489,
+      5199,
+      21776,
+      15416,
+      10443,
+      15416,
+      5689,
+      5199,
+      7806,
+      5278,
+      1757,
+      15984,
+      5074,
+      15984,
+      5613,
+      5335,
+      22695,
+      18496,
+      10490,
+      3932
+    ],
+    "selection_priority": "91c19e9024056cd9adc0bf19b6a1a5df7a0eed2a8906635de0211ab7f9ffe5f6",
+    "split": "ioi-calibration",
+    "stratum": "W0-ABBA",
+    "subject": "David",
+    "target": "Emma",
+    "template": "W0"
+  },
+  {
+    "donors": [
+      {
+        "ids": [
+          6423,
+          11,
+          3932,
+          290,
+          22300,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          3409,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Ben",
+          "Julia",
+          "Sam"
+        ],
+        "object": "bone",
+        "place": "house",
+        "text": "Then, Ben and Julia went to the house. Sam gave a bone to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3977,
+          290,
+          13637,
+          1816,
+          284,
+          262,
+          3650,
+          13,
+          5278,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "William",
+          "Roger",
+          "Frank"
+        ],
+        "object": "drink",
+        "place": "store",
+        "text": "Then, William and Roger went to the store. Frank gave a drink to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3619,
+          290,
+          3362,
+          1816,
+          284,
+          262,
+          5888,
+          13,
+          5074,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Jack",
+          "Paul",
+          "Carol"
+        ],
+        "object": "snack",
+        "place": "library",
+        "text": "Then, Jack and Paul went to the library. Carol gave a snack to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3271,
+          290,
+          15378,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          5811,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "David",
+          "Lisa",
+          "Bob"
+        ],
+        "object": "toy",
+        "place": "beach",
+        "text": "Then, David and Lisa went to the beach. Bob gave a toy to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5278,
+          290,
+          8616,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          3362,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Frank",
+          "Henry",
+          "Paul"
+        ],
+        "object": "snack",
+        "place": "church",
+        "text": "Then, Frank and Henry went to the church. Paul gave a snack to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          16156,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          5780,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Grace",
+          "Michael",
+          "Martin"
+        ],
+        "object": "drink",
+        "place": "hotel",
+        "text": "Then, Grace and Michael went to the hotel. Martin gave a drink to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          7939,
+          290,
+          11735,
+          1816,
+          284,
+          262,
+          5888,
+          13,
+          5689,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "Kevin",
+          "Anna",
+          "Joe"
+        ],
+        "object": "flower",
+        "place": "library",
+        "text": "Then, Kevin and Anna went to the library. Joe gave a flower to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8832,
+          290,
+          6219,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          5335,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Richard",
+          "Mary"
+        ],
+        "object": "ball",
+        "place": "market",
+        "text": "Then, Tony and Richard went to the market. Mary gave a ball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          22300,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          16156,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Julia",
+          "Rebecca",
+          "Grace"
+        ],
+        "object": "map",
+        "place": "market",
+        "text": "Then, Julia and Rebecca went to the market. Grace gave a map to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8616,
+          290,
+          15984,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          8047,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Henry",
+          "Rachel",
+          "Nick"
+        ],
+        "object": "ball",
+        "place": "park",
+        "text": "Then, Henry and Rachel went to the park. Nick gave a ball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3409,
+          290,
+          2940,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          5074,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Sam",
+          "Mark",
+          "Carol"
+        ],
+        "object": "ring",
+        "place": "beach",
+        "text": "Then, Sam and Mark went to the beach. Carol gave a ring to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5074,
+          290,
+          21776,
+          1816,
+          284,
+          262,
+          4436,
+          13,
+          5658,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Carol",
+          "Linda",
+          "Thomas"
+        ],
+        "object": "ball",
+        "place": "hospital",
+        "text": "Then, Carol and Linda went to the hospital. Thomas gave a ball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          9925,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          3271,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Patrick",
+          "Rose",
+          "David"
+        ],
+        "object": "drink",
+        "place": "garden",
+        "text": "Then, Patrick and Rose went to the garden. David gave a drink to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          35331,
+          290,
+          12091,
+          1816,
+          284,
+          262,
+          7072,
+          13,
+          12622,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Sophie",
+          "Jane",
+          "Victor"
+        ],
+        "object": "letter",
+        "place": "restaurant",
+        "text": "Then, Sophie and Jane went to the restaurant. Victor gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8047,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          7072,
+          13,
+          5780,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Nick",
+          "Peter",
+          "Martin"
+        ],
+        "object": "computer",
+        "place": "restaurant",
+        "text": "Then, Nick and Peter went to the restaurant. Martin gave a computer to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3271,
+          290,
+          3700,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          13637,
+          2921,
+          257,
+          13373,
+          284
+        ],
+        "names": [
+          "David",
+          "James",
+          "Roger"
+        ],
+        "object": "toy",
+        "place": "garden",
+        "text": "Then, David and James went to the garden. Roger gave a toy to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5199,
+          290,
+          14862,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          3977,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Robert",
+          "Alice",
+          "William"
+        ],
+        "object": "bag",
+        "place": "market",
+        "text": "Then, Robert and Alice went to the market. William gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5199,
+          290,
+          3932,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          18966,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Robert",
+          "Ben",
+          "Emma"
+        ],
+        "object": "basketball",
+        "place": "beach",
+        "text": "Then, Robert and Ben went to the beach. Emma gave a basketball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          21776,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          8616,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Linda",
+          "Martin",
+          "Henry"
+        ],
+        "object": "basketball",
+        "place": "station",
+        "text": "Then, Linda and Martin went to the station. Henry gave a basketball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3932,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          5780,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Ben",
+          "Peter",
+          "Martin"
+        ],
+        "object": "bag",
+        "place": "station",
+        "text": "Then, Ben and Peter went to the station. Martin gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15984,
+          290,
+          3977,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          14200,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Rachel",
+          "William",
+          "Maria"
+        ],
+        "object": "cup",
+        "place": "station",
+        "text": "Then, Rachel and William went to the station. Maria gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8832,
+          290,
+          8047,
+          1816,
+          284,
+          262,
+          3650,
+          13,
+          6219,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Nick",
+          "Richard"
+        ],
+        "object": "bag",
+        "place": "store",
+        "text": "Then, Tony and Nick went to the store. Richard gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          23489,
+          290,
+          10443,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          18496,
+          2921,
+          257,
+          3975,
+          284
+        ],
+        "names": [
+          "Rebecca",
+          "Edward",
+          "Nancy"
+        ],
+        "object": "map",
+        "place": "church",
+        "text": "Then, Rebecca and Edward went to the church. Nancy gave a map to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          1757,
+          290,
+          8616,
+          1816,
+          284,
+          262,
+          2607,
+          13,
+          15984,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "John",
+          "Henry",
+          "Rachel"
+        ],
+        "object": "bag",
+        "place": "office",
+        "text": "Then, John and Henry went to the office. Rachel gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5278,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          7072,
+          13,
+          4995,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Frank",
+          "Kate",
+          "Mike"
+        ],
+        "object": "letter",
+        "place": "restaurant",
+        "text": "Then, Frank and Kate went to the restaurant. Mike gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3899,
+          290,
+          5074,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          4502,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Michael",
+          "Carol",
+          "George"
+        ],
+        "object": "bottle",
+        "place": "park",
+        "text": "Then, Michael and Carol went to the park. George gave a bottle to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          35331,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          18966,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Sophie",
+          "Rose",
+          "Emma"
+        ],
+        "object": "bone",
+        "place": "garden",
+        "text": "Then, Sophie and Rose went to the garden. Emma gave a bone to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8239,
+          290,
+          3899,
+          1816,
+          284,
+          262,
+          5888,
+          13,
+          3932,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Steven",
+          "Michael",
+          "Ben"
+        ],
+        "object": "basketball",
+        "place": "library",
+        "text": "Then, Steven and Michael went to the library. Ben gave a basketball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          18966,
+          290,
+          9925,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          14200,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Emma",
+          "Patrick",
+          "Maria"
+        ],
+        "object": "key",
+        "place": "theater",
+        "text": "Then, Emma and Patrick went to the theater. Maria gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5689,
+          290,
+          4186,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          2940,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "names": [
+          "Joe",
+          "Tom",
+          "Mark"
+        ],
+        "object": "ticket",
+        "place": "house",
+        "text": "Then, Joe and Tom went to the house. Mark gave a ticket to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          10490,
+          290,
+          3271,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          8047,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Sarah",
+          "David",
+          "Nick"
+        ],
+        "object": "ring",
+        "place": "garden",
+        "text": "Then, Sarah and David went to the garden. Nick gave a ring to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5811,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          21776,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Bob",
+          "Peter",
+          "Linda"
+        ],
+        "object": "bottle",
+        "place": "church",
+        "text": "Then, Bob and Peter went to the church. Linda gave a bottle to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5689,
+          290,
+          18966,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          4995,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "Joe",
+          "Emma",
+          "Mike"
+        ],
+        "object": "snack",
+        "place": "house",
+        "text": "Then, Joe and Emma went to the house. Mike gave a snack to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          2940,
+          290,
+          18966,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          7939,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Mark",
+          "Emma",
+          "Kevin"
+        ],
+        "object": "bag",
+        "place": "beach",
+        "text": "Then, Mark and Emma went to the beach. Kevin gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          18496,
+          290,
+          11336,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          1757,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Nancy",
+          "Luke",
+          "John"
+        ],
+        "object": "cup",
+        "place": "church",
+        "text": "Then, Nancy and Luke went to the church. John gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5658,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          16693,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Thomas",
+          "Martin",
+          "Kate"
+        ],
+        "object": "computer",
+        "place": "beach",
+        "text": "Then, Thomas and Martin went to the beach. Kate gave a computer to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          14200,
+          290,
+          16753,
+          1816,
+          284,
+          262,
+          4436,
+          13,
+          3977,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Maria",
+          "Laura",
+          "William"
+        ],
+        "object": "key",
+        "place": "hospital",
+        "text": "Then, Maria and Laura went to the hospital. William gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          18496,
+          290,
+          3700,
+          1816,
+          284,
+          262,
+          5888,
+          13,
+          5199,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Nancy",
+          "James",
+          "Robert"
+        ],
+        "object": "book",
+        "place": "library",
+        "text": "Then, Nancy and James went to the library. Robert gave a book to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3271,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          13257,
+          13,
+          8832,
+          2921,
+          257,
+          38987,
+          284
+        ],
+        "names": [
+          "David",
+          "Jack",
+          "Tony"
+        ],
+        "object": "necklace",
+        "place": "museum",
+        "text": "Then, David and Jack went to the museum. Tony gave a necklace to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          16693,
+          290,
+          5689,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          3271,
+          2921,
+          257,
+          9669,
+          284
+        ],
+        "names": [
+          "Kate",
+          "Joe",
+          "David"
+        ],
+        "object": "basketball",
+        "place": "theater",
+        "text": "Then, Kate and Joe went to the theater. David gave a basketball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5278,
+          290,
+          5199,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          8832,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Frank",
+          "Robert",
+          "Tony"
+        ],
+        "object": "key",
+        "place": "church",
+        "text": "Then, Frank and Robert went to the church. Tony gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5074,
+          290,
+          11336,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          3409,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Carol",
+          "Luke",
+          "Sam"
+        ],
+        "object": "computer",
+        "place": "house",
+        "text": "Then, Carol and Luke went to the house. Sam gave a computer to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11336,
+          290,
+          22300,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          12622,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Luke",
+          "Julia",
+          "Victor"
+        ],
+        "object": "cup",
+        "place": "theater",
+        "text": "Then, Luke and Julia went to the theater. Victor gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          1757,
+          290,
+          5811,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          14862,
+          2921,
+          257,
+          26906,
+          284
+        ],
+        "names": [
+          "John",
+          "Bob",
+          "Alice"
+        ],
+        "object": "snack",
+        "place": "station",
+        "text": "Then, John and Bob went to the station. Alice gave a snack to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          18966,
+          290,
+          18496,
+          1816,
+          284,
+          262,
+          1910,
+          13,
+          7806,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Emma",
+          "Nancy",
+          "Daniel"
+        ],
+        "object": "box",
+        "place": "market",
+        "text": "Then, Emma and Nancy went to the market. Daniel gave a box to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          4995,
+          290,
+          8239,
+          1816,
+          284,
+          262,
+          5888,
+          13,
+          5780,
+          2921,
+          257,
+          2613,
+          284
+        ],
+        "names": [
+          "Mike",
+          "Steven",
+          "Martin"
+        ],
+        "object": "ball",
+        "place": "library",
+        "text": "Then, Mike and Steven went to the library. Martin gave a ball to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          4502,
+          290,
+          16156,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          5074,
+          2921,
+          257,
+          15061,
+          284
+        ],
+        "names": [
+          "George",
+          "Grace",
+          "Carol"
+        ],
+        "object": "flower",
+        "place": "station",
+        "text": "Then, George and Grace went to the station. Carol gave a flower to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5278,
+          290,
+          5613,
+          1816,
+          284,
+          262,
+          4429,
+          13,
+          3409,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Frank",
+          "Peter",
+          "Sam"
+        ],
+        "object": "key",
+        "place": "station",
+        "text": "Then, Frank and Peter went to the station. Sam gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11336,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          13637,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Luke",
+          "Jack",
+          "Roger"
+        ],
+        "object": "key",
+        "place": "hotel",
+        "text": "Then, Luke and Jack went to the hotel. Roger gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          35331,
+          290,
+          8239,
+          1816,
+          284,
+          262,
+          11376,
+          13,
+          7939,
+          2921,
+          257,
+          1492,
+          284
+        ],
+        "names": [
+          "Sophie",
+          "Steven",
+          "Kevin"
+        ],
+        "object": "book",
+        "place": "garden",
+        "text": "Then, Sophie and Steven went to the garden. Kevin gave a book to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          13637,
+          290,
+          3977,
+          1816,
+          284,
+          262,
+          5888,
+          13,
+          8832,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Roger",
+          "William",
+          "Tony"
+        ],
+        "object": "bottle",
+        "place": "library",
+        "text": "Then, Roger and William went to the library. Tony gave a bottle to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5074,
+          290,
+          8239,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          11336,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "names": [
+          "Carol",
+          "Steven",
+          "Luke"
+        ],
+        "object": "cup",
+        "place": "beach",
+        "text": "Then, Carol and Steven went to the beach. Luke gave a cup to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          11336,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          6542,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Luke",
+          "Kate",
+          "Steve"
+        ],
+        "object": "key",
+        "place": "house",
+        "text": "Then, Luke and Kate went to the house. Steve gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5335,
+          290,
+          5658,
+          1816,
+          284,
+          262,
+          3650,
+          13,
+          8832,
+          2921,
+          257,
+          9970,
+          284
+        ],
+        "names": [
+          "Mary",
+          "Thomas",
+          "Tony"
+        ],
+        "object": "bone",
+        "place": "store",
+        "text": "Then, Mary and Thomas went to the store. Tony gave a bone to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          15984,
+          290,
+          22695,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          18496,
+          2921,
+          257,
+          3091,
+          284
+        ],
+        "names": [
+          "Rachel",
+          "Helen",
+          "Nancy"
+        ],
+        "object": "box",
+        "place": "church",
+        "text": "Then, Rachel and Helen went to the church. Nancy gave a box to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          12091,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          3899,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "Jane",
+          "Jack",
+          "Michael"
+        ],
+        "object": "ring",
+        "place": "hotel",
+        "text": "Then, Jane and Jack went to the hotel. Michael gave a ring to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          10490,
+          290,
+          10443,
+          1816,
+          284,
+          262,
+          3952,
+          13,
+          3899,
+          2921,
+          257,
+          6877,
+          284
+        ],
+        "names": [
+          "Sarah",
+          "Edward",
+          "Michael"
+        ],
+        "object": "hat",
+        "place": "park",
+        "text": "Then, Sarah and Edward went to the park. Michael gave a hat to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          8832,
+          290,
+          3362,
+          1816,
+          284,
+          262,
+          4928,
+          13,
+          22300,
+          2921,
+          257,
+          3850,
+          284
+        ],
+        "names": [
+          "Tony",
+          "Paul",
+          "Julia"
+        ],
+        "object": "letter",
+        "place": "church",
+        "text": "Then, Tony and Paul went to the church. Julia gave a letter to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          5811,
+          290,
+          8616,
+          1816,
+          284,
+          262,
+          4436,
+          13,
+          4502,
+          2921,
+          257,
+          3644,
+          284
+        ],
+        "names": [
+          "Bob",
+          "Henry",
+          "George"
+        ],
+        "object": "computer",
+        "place": "hospital",
+        "text": "Then, Bob and Henry went to the hospital. George gave a computer to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          22695,
+          290,
+          3271,
+          1816,
+          284,
+          262,
+          13766,
+          13,
+          12622,
+          2921,
+          257,
+          1994,
+          284
+        ],
+        "names": [
+          "Helen",
+          "David",
+          "Victor"
+        ],
+        "object": "key",
+        "place": "theater",
+        "text": "Then, Helen and David went to the theater. Victor gave a key to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          1757,
+          290,
+          15984,
+          1816,
+          284,
+          262,
+          2156,
+          13,
+          14200,
+          2921,
+          257,
+          5858,
+          284
+        ],
+        "names": [
+          "John",
+          "Rachel",
+          "Maria"
+        ],
+        "object": "ring",
+        "place": "house",
+        "text": "Then, John and Rachel went to the house. Maria gave a ring to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          12622,
+          290,
+          5278,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          1757,
+          2921,
+          257,
+          6131,
+          284
+        ],
+        "names": [
+          "Victor",
+          "Frank",
+          "John"
+        ],
+        "object": "bag",
+        "place": "hotel",
+        "text": "Then, Victor and Frank went to the hotel. John gave a bag to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          3362,
+          290,
+          14200,
+          1816,
+          284,
+          262,
+          7541,
+          13,
+          9925,
+          2921,
+          257,
+          4144,
+          284
+        ],
+        "names": [
+          "Paul",
+          "Maria",
+          "Patrick"
+        ],
+        "object": "drink",
+        "place": "hotel",
+        "text": "Then, Paul and Maria went to the hotel. Patrick gave a drink to"
+      },
+      {
+        "ids": [
+          6423,
+          11,
+          22695,
+          290,
+          10490,
+          1816,
+          284,
+          262,
+          10481,
+          13,
+          11336,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "names": [
+          "Helen",
+          "Sarah",
+          "Luke"
+        ],
+        "object": "bottle",
+        "place": "beach",
+        "text": "Then, Helen and Sarah went to the beach. Luke gave a bottle to"
+      }
+    ],
+    "family": "W",
+    "group": 3,
+    "id": "ioi-calibration-ioi-00003",
+    "object": "kiss",
+    "order": "BABA",
+    "place": "school",
+    "recipient": {
+      "contrast_id": 15416,
+      "end": 14,
+      "ids": [
+        6423,
+        11,
+        15416,
+        290,
+        11288,
+        1816,
+        284,
+        262,
+        1524,
+        13,
+        15416,
+        2921,
+        257,
+        9245,
+        284
+      ],
+      "io": 4,
+      "s1": 2,
+      "s1_plus1": 3,
+      "s2": 10,
+      "target_id": 11288,
+      "text": "Then, Oliver and Simon went to the school. Oliver gave a kiss to"
+    },
+    "s2_tokens": [
+      3409,
+      5278,
+      5074,
+      5811,
+      3362,
+      5780,
+      5689,
+      5335,
+      16156,
+      8047,
+      5074,
+      5658,
+      3271,
+      12622,
+      5780,
+      13637,
+      3977,
+      18966,
+      8616,
+      5780,
+      14200,
+      6219,
+      18496,
+      15984,
+      4995,
+      4502,
+      18966,
+      3932,
+      14200,
+      2940,
+      8047,
+      21776,
+      4995,
+      7939,
+      1757,
+      16693,
+      3977,
+      5199,
+      8832,
+      3271,
+      8832,
+      3409,
+      12622,
+      14862,
+      7806,
+      5780,
+      5074,
+      3409,
+      13637,
+      7939,
+      8832,
+      11336,
+      6542,
+      8832,
+      18496,
+      3899,
+      3899,
+      22300,
+      4502,
+      12622,
+      14200,
+      1757,
+      9925,
+      11336
+    ],
+    "selection_priority": "21be334ff7f424f1df26326915131fdd8d22ad645704f6384712eae1dcf98533",
+    "split": "ioi-calibration",
+    "stratum": "W0-BABA",
+    "subject": "Oliver",
+    "target": "Simon",
+    "template": "W0"
+  }
+]

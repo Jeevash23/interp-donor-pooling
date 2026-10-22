@@ -1,0 +1,7 @@
+{
+  "created_utc": "2026-09-12T05:45:05Z",
+  "files": {
+    "scripts/cpu_blimp_batch.py": "84ff5d36939d8a8943d6f779906fbdcd04b7aa241e7ac65301acec636d7411c6"
+  },
+  "scope": "Scheduling only: keep BLiMP on CPU; all heads on GPU. Original frozen wrappers and scientific scripts are unchanged. No head outcome exists at this time."
+}

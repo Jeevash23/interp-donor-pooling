@@ -1,0 +1,43 @@
+{
+  "models": [
+    {
+      "architecture": [
+        "GPT2LMHeadModel"
+      ],
+      "bytes_on_disk": 554329898,
+      "local_path": "models/gpt2-small",
+      "name": "gpt2-small",
+      "parameters_reported_by_config": {
+        "attention_heads": 12,
+        "hidden_width": 768,
+        "layers": 12,
+        "vocabulary_size": 50257
+      },
+      "repo_id": "openai-community/gpt2",
+      "revision": "607a30d783dfa663caf39e06633721c8d4cfcd7e",
+      "weight_files": [
+        "model.safetensors"
+      ]
+    },
+    {
+      "architecture": [
+        "GPT2LMHeadModel"
+      ],
+      "bytes_on_disk": 1526209315,
+      "local_path": "models/gpt2-medium",
+      "name": "gpt2-medium",
+      "parameters_reported_by_config": {
+        "attention_heads": 16,
+        "hidden_width": 1024,
+        "layers": 24,
+        "vocabulary_size": 50257
+      },
+      "repo_id": "openai-community/gpt2-medium",
+      "revision": "6dcaa7a952f72f9298047fd5137cd6e4f05f41da",
+      "weight_files": [
+        "model.safetensors"
+      ]
+    }
+  ],
+  "source": "Predecessor model-manifest.json; current actual files are separately hashed in model-manifest.json"
+}

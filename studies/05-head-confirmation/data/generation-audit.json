@@ -1,0 +1,175 @@
+{
+  "created_utc": "2026-10-05T17:06:03Z",
+  "files": {
+    "ioi-calibration.json": "07889e662d7b513d2e7fe06fe5ab8659cc4279e1f5d0efcfbf1db919dd40106f",
+    "ioi-development.json": "fea081512ce65d7545d494f0b745f0569b270903e90faded1e8c914f1002dd76",
+    "ioi-test.json": "17cdc5b889d0ef56af30e9773e43ff644ed014338895605b6422fa6793793db0",
+    "sva-calibration.json": "3fccef039c082b87b3ab607753be463e4eb5fbadc34c5e4298deab3b7f294761",
+    "sva-development.json": "019ced4b80c3b50fb0fa7b2584db7e08907dcabaf3ff0a611af0412cc98a0efc",
+    "sva-test.json": "45b4918d7fccd9b49b9a749558a01afd75fbc64e40d2f899ff2842cf22f7e4fa"
+  },
+  "ioi_templates": {
+    "O0": "When {n1} and {n2} went to the {place}, {s} gave a {obj} to",
+    "W0": "Then, {n1} and {n2} went to the {place}. {s} gave a {obj} to"
+  },
+  "prior_files": [
+    "studies/01-pilot/data/calibration.json",
+    "studies/01-pilot/data/checkpoint-provenance.json",
+    "studies/01-pilot/data/consolidation-source-relocations.json",
+    "studies/01-pilot/data/evaluation.json",
+    "studies/01-pilot/data/freeze.json",
+    "studies/01-pilot/data/model-manifest.json",
+    "studies/01-pilot/data/pools.json",
+    "submission-study/data/bfloat16-batching-amendment.json",
+    "submission-study/data/bfloat16-readout-amendment.json",
+    "submission-study/data/blimp-audit.json",
+    "submission-study/data/blimp.json",
+    "submission-study/data/calibration.json",
+    "submission-study/data/checkpoints.json",
+    "submission-study/data/consolidation-source-relocations.json",
+    "submission-study/data/cpu-assay-freeze.json",
+    "submission-study/data/cpu-scheduling-v2.json",
+    "submission-study/data/cpu-scheduling-v3.json",
+    "submission-study/data/development.json",
+    "submission-study/data/freeze.json",
+    "submission-study/data/generation-audit.json",
+    "submission-study/data/hardware.json",
+    "submission-study/data/pilot-calibration.json",
+    "submission-study/data/pilot-evaluation.json",
+    "submission-study/data/pilot-exclusion-provenance.json",
+    "submission-study/data/rank-audit-timing.json",
+    "submission-study/data/supplement-freeze.json",
+    "submission-study/data/test.json",
+    "studies/03-grouping-and-circuit/token/data/calibration.json",
+    "studies/03-grouping-and-circuit/token/data/development.json",
+    "studies/03-grouping-and-circuit/token/data/freeze.json",
+    "studies/03-grouping-and-circuit/token/data/generation-audit.json",
+    "studies/03-grouping-and-circuit/token/data/test.json",
+    "studies/03-grouping-and-circuit/circuit/data/calibration.json",
+    "studies/03-grouping-and-circuit/circuit/data/development-verification.json",
+    "studies/03-grouping-and-circuit/circuit/data/development.json",
+    "studies/03-grouping-and-circuit/circuit/data/freeze.json",
+    "studies/03-grouping-and-circuit/circuit/data/generation-audit.json",
+    "studies/03-grouping-and-circuit/circuit/data/independent-review-analysis-check.json",
+    "studies/03-grouping-and-circuit/circuit/data/screen.json",
+    "studies/03-grouping-and-circuit/circuit/data/selected-test.json",
+    "studies/04-reference-and-sweeps/data/freeze.json",
+    "studies/04-reference-and-sweeps/data/generation-audit.json",
+    "studies/04-reference-and-sweeps/data/ioi-calibration.json",
+    "studies/04-reference-and-sweeps/data/ioi-development.json",
+    "studies/04-reference-and-sweeps/data/ioi-screen.json",
+    "studies/04-reference-and-sweeps/data/ioi-selected-test.json",
+    "studies/04-reference-and-sweeps/data/ioi-sweep.json",
+    "studies/04-reference-and-sweeps/data/sva-calibration.json",
+    "studies/04-reference-and-sweeps/data/sva-development.json",
+    "studies/04-reference-and-sweeps/data/sva-test.json",
+    "studies/04-reference-and-sweeps/results/reference/donor-banks-selected.json.gz"
+  ],
+  "prior_unique_strings": 509688,
+  "splits": {
+    "ioi-calibration": {
+      "donors_per_row": 64,
+      "rejections": {},
+      "rows": 4
+    },
+    "ioi-development": {
+      "donors_per_row": 64,
+      "rejections": {},
+      "rows": 8
+    },
+    "ioi-test": {
+      "donors_per_row": 64,
+      "rejections": {
+        "overlap": 1
+      },
+      "rows": 64
+    },
+    "sva-calibration": {
+      "groups": 4,
+      "rejections": {
+        "overlap": 6
+      }
+    },
+    "sva-development": {
+      "groups": 4,
+      "rejections": {
+        "overlap": 13
+      }
+    },
+    "sva-test": {
+      "groups": 64,
+      "rejections": {
+        "overlap": 342
+      }
+    }
+  },
+  "sva_adjectives": [
+    "quiet",
+    "calm",
+    "clever",
+    "tired",
+    "proud",
+    "kind",
+    "brave",
+    "polite",
+    "friendly",
+    "busy",
+    "careful",
+    "patient",
+    "curious",
+    "tall",
+    "short",
+    "new",
+    "eager",
+    "gentle",
+    "bright",
+    "honest",
+    "cheerful",
+    "modest",
+    "nervous",
+    "serious",
+    "silent",
+    "wealthy",
+    "hungry",
+    "thirsty",
+    "happy",
+    "sleepy",
+    "lonely",
+    "helpful",
+    "playful"
+  ],
+  "sva_nouns": [
+    "pilot",
+    "guard",
+    "teacher",
+    "doctor",
+    "farmer",
+    "lawyer",
+    "driver",
+    "nurse",
+    "singer",
+    "artist",
+    "dancer",
+    "sailor",
+    "worker",
+    "actor",
+    "student",
+    "soldier",
+    "chef",
+    "player",
+    "writer",
+    "friend",
+    "cousin",
+    "officer",
+    "leader",
+    "captain",
+    "owner",
+    "author",
+    "reader",
+    "parent",
+    "boy",
+    "girl",
+    "guest"
+  ],
+  "uses_model_outputs": false
+}

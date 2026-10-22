@@ -1,0 +1,20 @@
+{
+  "clusters": 31,
+  "disjoint_cluster_prefixes": true,
+  "donors_per_recipient": 8,
+  "eligible_unique": 303,
+  "license": "CC-BY, as stated in upstream README; attribution retained in manuscript and vendor/README.md",
+  "prefixes": 279,
+  "rejected": {
+    "contrast": 677,
+    "duplicate_prefix": 20
+  },
+  "source": {
+    "bytes": 525650,
+    "sha256": "37c1553f4c6594b162256edce0f6b40bad1898b311c8aaa69605b526b6494a34",
+    "url": "https://raw.githubusercontent.com/alexwarstadt/blimp/master/data/distractor_agreement_relational_noun.jsonl"
+  },
+  "source_records": 1000,
+  "unused_bucket_remainders": 24,
+  "within_cluster_recipients": 9
+}

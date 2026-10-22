@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "groups": 32,
+  "source_sha256": "e6d0ce1c183f861078e52e6899d1d2b53422dcb7d609f8314752603cf3445ce7",
+  "numerical_errors": {
+    "identity_logit_error": 4.57763671875e-05,
+    "all_kept_logit_error": 0.0
+  },
+  "all_hook_write_locality_errors_zero": true,
+  "all_metric_arrays_finite": true,
+  "review_snapshot_sha256": "71388ba8028fd55a45b3558861c4587fdb3a9a962f2d171897034eb5f0b69553"
+}

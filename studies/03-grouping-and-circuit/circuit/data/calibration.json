@@ -1,0 +1,3754 @@
+[
+  {
+    "donor_names": [
+      [
+        "Maria",
+        "Steven",
+        "Roger"
+      ],
+      [
+        "Wendy",
+        "Rose",
+        "Sophie"
+      ],
+      [
+        "Victor",
+        "Anna",
+        "Lisa"
+      ],
+      [
+        "Simon",
+        "Mark",
+        "Helen"
+      ],
+      [
+        "Tony",
+        "Patrick",
+        "Joe"
+      ],
+      [
+        "Kevin",
+        "Jack",
+        "Daniel"
+      ],
+      [
+        "Edward",
+        "Julia",
+        "Kevin"
+      ],
+      [
+        "Sarah",
+        "Rebecca",
+        "Grace"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          2215,
+          14200,
+          290,
+          8239,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          13637,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Maria and Steven went to the restaurant, Roger gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          28314,
+          290,
+          8049,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          35331,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Wendy and Rose went to the restaurant, Sophie gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          11735,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          15378,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Victor and Anna went to the restaurant, Lisa gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          11288,
+          290,
+          2940,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          22695,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Simon and Mark went to the restaurant, Helen gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          8832,
+          290,
+          9925,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          5689,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Tony and Patrick went to the restaurant, Joe gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          7939,
+          290,
+          3619,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          7806,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Kevin and Jack went to the restaurant, Daniel gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          10443,
+          290,
+          22300,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          7939,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Edward and Julia went to the restaurant, Kevin gave a bottle to"
+      },
+      {
+        "ids": [
+          2215,
+          10490,
+          290,
+          23489,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          16156,
+          2921,
+          257,
+          9294,
+          284
+        ],
+        "text": "When Sarah and Rebecca went to the restaurant, Grace gave a bottle to"
+      }
+    ],
+    "group": 0,
+    "id": "calibration-circuit-0000",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "bottle",
+    "order": "ABBA",
+    "place": "restaurant",
+    "recipient": {
+      "contrast_id": 15416,
+      "end": 13,
+      "ids": [
+        2215,
+        21776,
+        290,
+        15416,
+        1816,
+        284,
+        262,
+        7072,
+        11,
+        15416,
+        2921,
+        257,
+        9294,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 9,
+      "target_id": 21776,
+      "text": "When Linda and Oliver went to the restaurant, Oliver gave a bottle to"
+    },
+    "selection_priority": "1f2a9043d971513e0255a232e70f4d29251dc9917f36ff29b0f29522ea278781",
+    "split": "calibration",
+    "stratum": "t0-o0",
+    "subject": "Oliver",
+    "target": "Linda",
+    "template": 0
+  },
+  {
+    "donor_names": [
+      [
+        "Roger",
+        "Linda",
+        "Mike"
+      ],
+      [
+        "Walter",
+        "Luke",
+        "Carol"
+      ],
+      [
+        "Peter",
+        "Julia",
+        "Maria"
+      ],
+      [
+        "Thomas",
+        "Frank",
+        "Bob"
+      ],
+      [
+        "Laura",
+        "Simon",
+        "Ben"
+      ],
+      [
+        "William",
+        "Robert",
+        "Linda"
+      ],
+      [
+        "Tom",
+        "Oliver",
+        "Anna"
+      ],
+      [
+        "Steven",
+        "David",
+        "Jack"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3260,
+          13637,
+          290,
+          21776,
+          8672,
+          262,
+          13766,
+          11,
+          4995,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After Roger and Linda visited the theater, Mike handed a cup to"
+      },
+      {
+        "ids": [
+          3260,
+          15819,
+          290,
+          11336,
+          8672,
+          262,
+          13766,
+          11,
+          5074,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After Walter and Luke visited the theater, Carol handed a cup to"
+      },
+      {
+        "ids": [
+          3260,
+          5613,
+          290,
+          22300,
+          8672,
+          262,
+          13766,
+          11,
+          14200,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After Peter and Julia visited the theater, Maria handed a cup to"
+      },
+      {
+        "ids": [
+          3260,
+          5658,
+          290,
+          5278,
+          8672,
+          262,
+          13766,
+          11,
+          5811,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After Thomas and Frank visited the theater, Bob handed a cup to"
+      },
+      {
+        "ids": [
+          3260,
+          16753,
+          290,
+          11288,
+          8672,
+          262,
+          13766,
+          11,
+          3932,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After Laura and Simon visited the theater, Ben handed a cup to"
+      },
+      {
+        "ids": [
+          3260,
+          3977,
+          290,
+          5199,
+          8672,
+          262,
+          13766,
+          11,
+          21776,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After William and Robert visited the theater, Linda handed a cup to"
+      },
+      {
+        "ids": [
+          3260,
+          4186,
+          290,
+          15416,
+          8672,
+          262,
+          13766,
+          11,
+          11735,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After Tom and Oliver visited the theater, Anna handed a cup to"
+      },
+      {
+        "ids": [
+          3260,
+          8239,
+          290,
+          3271,
+          8672,
+          262,
+          13766,
+          11,
+          3619,
+          10158,
+          257,
+          6508,
+          284
+        ],
+        "text": "After Steven and David visited the theater, Jack handed a cup to"
+      }
+    ],
+    "group": 1,
+    "id": "calibration-circuit-0001",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "cup",
+    "order": "ABBA",
+    "place": "theater",
+    "recipient": {
+      "contrast_id": 15378,
+      "end": 12,
+      "ids": [
+        3260,
+        3409,
+        290,
+        15378,
+        8672,
+        262,
+        13766,
+        11,
+        15378,
+        10158,
+        257,
+        6508,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 8,
+      "target_id": 3409,
+      "text": "After Sam and Lisa visited the theater, Lisa handed a cup to"
+    },
+    "selection_priority": "5afc708af435aa5cb59bd4c7a2e7464a56b3cb6b290ad040de35410fae9da026",
+    "split": "calibration",
+    "stratum": "t1-o0",
+    "subject": "Lisa",
+    "target": "Sam",
+    "template": 1
+  },
+  {
+    "donor_names": [
+      [
+        "Henry",
+        "Daniel",
+        "Luke"
+      ],
+      [
+        "Jane",
+        "Alice",
+        "Mike"
+      ],
+      [
+        "Helen",
+        "Michael",
+        "Alice"
+      ],
+      [
+        "Anna",
+        "Tony",
+        "Jane"
+      ],
+      [
+        "Sarah",
+        "Laura",
+        "Rachel"
+      ],
+      [
+        "Kevin",
+        "Jane",
+        "Lisa"
+      ],
+      [
+        "Mike",
+        "Kevin",
+        "Paul"
+      ],
+      [
+        "Patrick",
+        "Steven",
+        "William"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3633,
+          8616,
+          290,
+          7806,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          11336,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Henry and Daniel were at the market, Luke passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          12091,
+          290,
+          14862,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          4995,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Jane and Alice were at the market, Mike passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          22695,
+          290,
+          3899,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          14862,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Helen and Michael were at the market, Alice passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          11735,
+          290,
+          8832,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          12091,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Anna and Tony were at the market, Jane passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          10490,
+          290,
+          16753,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          15984,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Sarah and Laura were at the market, Rachel passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          7939,
+          290,
+          12091,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          15378,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Kevin and Jane were at the market, Lisa passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          4995,
+          290,
+          7939,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          3362,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Mike and Kevin were at the market, Paul passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          9925,
+          290,
+          8239,
+          547,
+          379,
+          262,
+          1910,
+          11,
+          3977,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Patrick and Steven were at the market, William passed a ball to"
+      }
+    ],
+    "group": 2,
+    "id": "calibration-circuit-0002",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "ball",
+    "order": "ABBA",
+    "place": "market",
+    "recipient": {
+      "contrast_id": 4186,
+      "end": 13,
+      "ids": [
+        3633,
+        18966,
+        290,
+        4186,
+        547,
+        379,
+        262,
+        1910,
+        11,
+        4186,
+        3804,
+        257,
+        2613,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 9,
+      "target_id": 18966,
+      "text": "While Emma and Tom were at the market, Tom passed a ball to"
+    },
+    "selection_priority": "946e7d114d03760baf38e27154ad7a39307a9833997ef3afd4d78be66743c3fa",
+    "split": "calibration",
+    "stratum": "t2-o0",
+    "subject": "Tom",
+    "target": "Emma",
+    "template": 2
+  },
+  {
+    "donor_names": [
+      [
+        "Patrick",
+        "Laura",
+        "Daniel"
+      ],
+      [
+        "Wendy",
+        "Lucy",
+        "Kate"
+      ],
+      [
+        "Helen",
+        "Richard",
+        "Martin"
+      ],
+      [
+        "Susan",
+        "Michael",
+        "Sam"
+      ],
+      [
+        "Martin",
+        "Ben",
+        "Rachel"
+      ],
+      [
+        "Susan",
+        "Thomas",
+        "Emma"
+      ],
+      [
+        "Mary",
+        "Wendy",
+        "Jane"
+      ],
+      [
+        "Joe",
+        "Robert",
+        "Luke"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          8421,
+          9925,
+          290,
+          16753,
+          1364,
+          262,
+          7072,
+          11,
+          7806,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Patrick and Laura left the restaurant, Daniel offered a map to"
+      },
+      {
+        "ids": [
+          8421,
+          28314,
+          290,
+          22162,
+          1364,
+          262,
+          7072,
+          11,
+          16693,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Wendy and Lucy left the restaurant, Kate offered a map to"
+      },
+      {
+        "ids": [
+          8421,
+          22695,
+          290,
+          6219,
+          1364,
+          262,
+          7072,
+          11,
+          5780,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Helen and Richard left the restaurant, Martin offered a map to"
+      },
+      {
+        "ids": [
+          8421,
+          14919,
+          290,
+          3899,
+          1364,
+          262,
+          7072,
+          11,
+          3409,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Susan and Michael left the restaurant, Sam offered a map to"
+      },
+      {
+        "ids": [
+          8421,
+          5780,
+          290,
+          3932,
+          1364,
+          262,
+          7072,
+          11,
+          15984,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Martin and Ben left the restaurant, Rachel offered a map to"
+      },
+      {
+        "ids": [
+          8421,
+          14919,
+          290,
+          5658,
+          1364,
+          262,
+          7072,
+          11,
+          18966,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Susan and Thomas left the restaurant, Emma offered a map to"
+      },
+      {
+        "ids": [
+          8421,
+          5335,
+          290,
+          28314,
+          1364,
+          262,
+          7072,
+          11,
+          12091,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Mary and Wendy left the restaurant, Jane offered a map to"
+      },
+      {
+        "ids": [
+          8421,
+          5689,
+          290,
+          5199,
+          1364,
+          262,
+          7072,
+          11,
+          11336,
+          4438,
+          257,
+          3975,
+          284
+        ],
+        "text": "Before Joe and Robert left the restaurant, Luke offered a map to"
+      }
+    ],
+    "group": 3,
+    "id": "calibration-circuit-0003",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "map",
+    "order": "ABBA",
+    "place": "restaurant",
+    "recipient": {
+      "contrast_id": 8616,
+      "end": 12,
+      "ids": [
+        8421,
+        4995,
+        290,
+        8616,
+        1364,
+        262,
+        7072,
+        11,
+        8616,
+        4438,
+        257,
+        3975,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 8,
+      "target_id": 4995,
+      "text": "Before Mike and Henry left the restaurant, Henry offered a map to"
+    },
+    "selection_priority": "bc5a5a63d09ae02a804b5d2766f7c0daf85739326d954ce21be46e64dbac94d4",
+    "split": "calibration",
+    "stratum": "t3-o0",
+    "subject": "Henry",
+    "target": "Mike",
+    "template": 3
+  },
+  {
+    "donor_names": [
+      [
+        "Bob",
+        "Linda",
+        "Rose"
+      ],
+      [
+        "Victor",
+        "James",
+        "Maria"
+      ],
+      [
+        "Roger",
+        "Anna",
+        "Thomas"
+      ],
+      [
+        "John",
+        "Grace",
+        "Wendy"
+      ],
+      [
+        "Victor",
+        "Martin",
+        "Mark"
+      ],
+      [
+        "Daniel",
+        "Simon",
+        "Tom"
+      ],
+      [
+        "Victor",
+        "Kate",
+        "John"
+      ],
+      [
+        "Rebecca",
+        "Kate",
+        "James"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          2215,
+          5811,
+          290,
+          21776,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          8049,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When Bob and Linda went to the office, Rose gave a apple to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          3700,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          14200,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When Victor and James went to the office, Maria gave a apple to"
+      },
+      {
+        "ids": [
+          2215,
+          13637,
+          290,
+          11735,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          5658,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When Roger and Anna went to the office, Thomas gave a apple to"
+      },
+      {
+        "ids": [
+          2215,
+          1757,
+          290,
+          16156,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          28314,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When John and Grace went to the office, Wendy gave a apple to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          5780,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          2940,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When Victor and Martin went to the office, Mark gave a apple to"
+      },
+      {
+        "ids": [
+          2215,
+          7806,
+          290,
+          11288,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          4186,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When Daniel and Simon went to the office, Tom gave a apple to"
+      },
+      {
+        "ids": [
+          2215,
+          12622,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          1757,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When Victor and Kate went to the office, John gave a apple to"
+      },
+      {
+        "ids": [
+          2215,
+          23489,
+          290,
+          16693,
+          1816,
+          284,
+          262,
+          2607,
+          11,
+          3700,
+          2921,
+          257,
+          17180,
+          284
+        ],
+        "text": "When Rebecca and Kate went to the office, James gave a apple to"
+      }
+    ],
+    "group": 4,
+    "id": "calibration-circuit-0004",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "apple",
+    "order": "BABA",
+    "place": "office",
+    "recipient": {
+      "contrast_id": 5335,
+      "end": 13,
+      "ids": [
+        2215,
+        5335,
+        290,
+        10490,
+        1816,
+        284,
+        262,
+        2607,
+        11,
+        5335,
+        2921,
+        257,
+        17180,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 9,
+      "target_id": 10490,
+      "text": "When Mary and Sarah went to the office, Mary gave a apple to"
+    },
+    "selection_priority": "f4a9b7e0a6a71d6f6c2d19edffd0cd63850b5cc19befc119cb14ec237a777bbe",
+    "split": "calibration",
+    "stratum": "t0-o1",
+    "subject": "Mary",
+    "target": "Sarah",
+    "template": 0
+  },
+  {
+    "donor_names": [
+      [
+        "David",
+        "Roger",
+        "Walter"
+      ],
+      [
+        "Victor",
+        "Frank",
+        "Rachel"
+      ],
+      [
+        "Helen",
+        "Sophie",
+        "James"
+      ],
+      [
+        "Kate",
+        "Daniel",
+        "Nancy"
+      ],
+      [
+        "Tony",
+        "Victor",
+        "Carol"
+      ],
+      [
+        "Victor",
+        "Alice",
+        "Jack"
+      ],
+      [
+        "Bob",
+        "Kevin",
+        "Steven"
+      ],
+      [
+        "Wendy",
+        "Mike",
+        "Linda"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3260,
+          3271,
+          290,
+          13637,
+          8672,
+          262,
+          1910,
+          11,
+          15819,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After David and Roger visited the market, Walter handed a hat to"
+      },
+      {
+        "ids": [
+          3260,
+          12622,
+          290,
+          5278,
+          8672,
+          262,
+          1910,
+          11,
+          15984,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After Victor and Frank visited the market, Rachel handed a hat to"
+      },
+      {
+        "ids": [
+          3260,
+          22695,
+          290,
+          35331,
+          8672,
+          262,
+          1910,
+          11,
+          3700,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After Helen and Sophie visited the market, James handed a hat to"
+      },
+      {
+        "ids": [
+          3260,
+          16693,
+          290,
+          7806,
+          8672,
+          262,
+          1910,
+          11,
+          18496,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After Kate and Daniel visited the market, Nancy handed a hat to"
+      },
+      {
+        "ids": [
+          3260,
+          8832,
+          290,
+          12622,
+          8672,
+          262,
+          1910,
+          11,
+          5074,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After Tony and Victor visited the market, Carol handed a hat to"
+      },
+      {
+        "ids": [
+          3260,
+          12622,
+          290,
+          14862,
+          8672,
+          262,
+          1910,
+          11,
+          3619,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After Victor and Alice visited the market, Jack handed a hat to"
+      },
+      {
+        "ids": [
+          3260,
+          5811,
+          290,
+          7939,
+          8672,
+          262,
+          1910,
+          11,
+          8239,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After Bob and Kevin visited the market, Steven handed a hat to"
+      },
+      {
+        "ids": [
+          3260,
+          28314,
+          290,
+          4995,
+          8672,
+          262,
+          1910,
+          11,
+          21776,
+          10158,
+          257,
+          6877,
+          284
+        ],
+        "text": "After Wendy and Mike visited the market, Linda handed a hat to"
+      }
+    ],
+    "group": 5,
+    "id": "calibration-circuit-0005",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "hat",
+    "order": "BABA",
+    "place": "market",
+    "recipient": {
+      "contrast_id": 11288,
+      "end": 12,
+      "ids": [
+        3260,
+        11288,
+        290,
+        6542,
+        8672,
+        262,
+        1910,
+        11,
+        11288,
+        10158,
+        257,
+        6877,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 8,
+      "target_id": 6542,
+      "text": "After Simon and Steve visited the market, Simon handed a hat to"
+    },
+    "selection_priority": "76747b9fb116e8c53caf3017d611c179e3195ceb2c177453b6fcdfd9e6d2916b",
+    "split": "calibration",
+    "stratum": "t1-o1",
+    "subject": "Simon",
+    "target": "Steve",
+    "template": 1
+  },
+  {
+    "donor_names": [
+      [
+        "Victor",
+        "Tony",
+        "Simon"
+      ],
+      [
+        "Laura",
+        "Sophie",
+        "Joe"
+      ],
+      [
+        "Henry",
+        "Rebecca",
+        "Emma"
+      ],
+      [
+        "Rachel",
+        "Daniel",
+        "Tom"
+      ],
+      [
+        "Nick",
+        "Richard",
+        "Tom"
+      ],
+      [
+        "Ben",
+        "George",
+        "John"
+      ],
+      [
+        "Daniel",
+        "Mary",
+        "Martin"
+      ],
+      [
+        "Oliver",
+        "Luke",
+        "Linda"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3633,
+          12622,
+          290,
+          8832,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          11288,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Victor and Tony were at the museum, Simon passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          16753,
+          290,
+          35331,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          5689,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Laura and Sophie were at the museum, Joe passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          8616,
+          290,
+          23489,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          18966,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Henry and Rebecca were at the museum, Emma passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          15984,
+          290,
+          7806,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          4186,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Rachel and Daniel were at the museum, Tom passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          8047,
+          290,
+          6219,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          4186,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Nick and Richard were at the museum, Tom passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          3932,
+          290,
+          4502,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          1757,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Ben and George were at the museum, John passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          7806,
+          290,
+          5335,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          5780,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Daniel and Mary were at the museum, Martin passed a ball to"
+      },
+      {
+        "ids": [
+          3633,
+          15416,
+          290,
+          11336,
+          547,
+          379,
+          262,
+          13257,
+          11,
+          21776,
+          3804,
+          257,
+          2613,
+          284
+        ],
+        "text": "While Oliver and Luke were at the museum, Linda passed a ball to"
+      }
+    ],
+    "group": 6,
+    "id": "calibration-circuit-0006",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "ball",
+    "order": "BABA",
+    "place": "museum",
+    "recipient": {
+      "contrast_id": 6542,
+      "end": 13,
+      "ids": [
+        3633,
+        6542,
+        290,
+        22695,
+        547,
+        379,
+        262,
+        13257,
+        11,
+        6542,
+        3804,
+        257,
+        2613,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 9,
+      "target_id": 22695,
+      "text": "While Steve and Helen were at the museum, Steve passed a ball to"
+    },
+    "selection_priority": "f8400ae1f1140d96fe87eb224c75f0753e46f2146f1fc6f3c7672c9c4177d4ef",
+    "split": "calibration",
+    "stratum": "t2-o1",
+    "subject": "Steve",
+    "target": "Helen",
+    "template": 2
+  },
+  {
+    "donor_names": [
+      [
+        "Sam",
+        "Julia",
+        "Grace"
+      ],
+      [
+        "Robert",
+        "James",
+        "Roger"
+      ],
+      [
+        "Kevin",
+        "Walter",
+        "Carol"
+      ],
+      [
+        "Jane",
+        "Sam",
+        "Tony"
+      ],
+      [
+        "Walter",
+        "Laura",
+        "Daniel"
+      ],
+      [
+        "Kevin",
+        "Joe",
+        "William"
+      ],
+      [
+        "Rebecca",
+        "Linda",
+        "Sophie"
+      ],
+      [
+        "Jane",
+        "Joe",
+        "Wendy"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          8421,
+          3409,
+          290,
+          22300,
+          1364,
+          262,
+          13766,
+          11,
+          16156,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Sam and Julia left the theater, Grace offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          5199,
+          290,
+          3700,
+          1364,
+          262,
+          13766,
+          11,
+          13637,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Robert and James left the theater, Roger offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          7939,
+          290,
+          15819,
+          1364,
+          262,
+          13766,
+          11,
+          5074,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Kevin and Walter left the theater, Carol offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          12091,
+          290,
+          3409,
+          1364,
+          262,
+          13766,
+          11,
+          8832,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Jane and Sam left the theater, Tony offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          15819,
+          290,
+          16753,
+          1364,
+          262,
+          13766,
+          11,
+          7806,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Walter and Laura left the theater, Daniel offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          7939,
+          290,
+          5689,
+          1364,
+          262,
+          13766,
+          11,
+          3977,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Kevin and Joe left the theater, William offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          23489,
+          290,
+          21776,
+          1364,
+          262,
+          13766,
+          11,
+          35331,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Rebecca and Linda left the theater, Sophie offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          12091,
+          290,
+          5689,
+          1364,
+          262,
+          13766,
+          11,
+          28314,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Jane and Joe left the theater, Wendy offered a box to"
+      }
+    ],
+    "group": 7,
+    "id": "calibration-circuit-0007",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "box",
+    "order": "BABA",
+    "place": "theater",
+    "recipient": {
+      "contrast_id": 18496,
+      "end": 12,
+      "ids": [
+        8421,
+        18496,
+        290,
+        3271,
+        1364,
+        262,
+        13766,
+        11,
+        18496,
+        4438,
+        257,
+        3091,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 8,
+      "target_id": 3271,
+      "text": "Before Nancy and David left the theater, Nancy offered a box to"
+    },
+    "selection_priority": "b130f7bf7bd19a272e777809e93b27b4b3f2b8583f4a284f0ef5b38c910013c8",
+    "split": "calibration",
+    "stratum": "t3-o1",
+    "subject": "Nancy",
+    "target": "David",
+    "template": 3
+  },
+  {
+    "donor_names": [
+      [
+        "Robert",
+        "Sarah",
+        "Daniel"
+      ],
+      [
+        "Walter",
+        "Emma",
+        "Bob"
+      ],
+      [
+        "Laura",
+        "Helen",
+        "Rebecca"
+      ],
+      [
+        "Sophie",
+        "Patrick",
+        "Lisa"
+      ],
+      [
+        "Tony",
+        "Nick",
+        "Carol"
+      ],
+      [
+        "Mike",
+        "Thomas",
+        "Lucy"
+      ],
+      [
+        "Carol",
+        "Roger",
+        "Jane"
+      ],
+      [
+        "Roger",
+        "Paul",
+        "Ben"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          2215,
+          5199,
+          290,
+          10490,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          7806,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Robert and Sarah went to the hotel, Daniel gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          15819,
+          290,
+          18966,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          5811,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Walter and Emma went to the hotel, Bob gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          16753,
+          290,
+          22695,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          23489,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Laura and Helen went to the hotel, Rebecca gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          35331,
+          290,
+          9925,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          15378,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Sophie and Patrick went to the hotel, Lisa gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          8832,
+          290,
+          8047,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          5074,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Tony and Nick went to the hotel, Carol gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          4995,
+          290,
+          5658,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          22162,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Mike and Thomas went to the hotel, Lucy gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          5074,
+          290,
+          13637,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          12091,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Carol and Roger went to the hotel, Jane gave a ticket to"
+      },
+      {
+        "ids": [
+          2215,
+          13637,
+          290,
+          3362,
+          1816,
+          284,
+          262,
+          7541,
+          11,
+          3932,
+          2921,
+          257,
+          7846,
+          284
+        ],
+        "text": "When Roger and Paul went to the hotel, Ben gave a ticket to"
+      }
+    ],
+    "group": 8,
+    "id": "calibration-circuit-0008",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "ticket",
+    "order": "ABBA",
+    "place": "hotel",
+    "recipient": {
+      "contrast_id": 3409,
+      "end": 13,
+      "ids": [
+        2215,
+        21776,
+        290,
+        3409,
+        1816,
+        284,
+        262,
+        7541,
+        11,
+        3409,
+        2921,
+        257,
+        7846,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 9,
+      "target_id": 21776,
+      "text": "When Linda and Sam went to the hotel, Sam gave a ticket to"
+    },
+    "selection_priority": "5a83c089d4be477ba2f3956bbc0aba84dfff3a0b17177fa588b7990e34a1b03c",
+    "split": "calibration",
+    "stratum": "t0-o0",
+    "subject": "Sam",
+    "target": "Linda",
+    "template": 0
+  },
+  {
+    "donor_names": [
+      [
+        "Ben",
+        "Rebecca",
+        "Steve"
+      ],
+      [
+        "Martin",
+        "Sophie",
+        "Julia"
+      ],
+      [
+        "Steven",
+        "Mark",
+        "Steve"
+      ],
+      [
+        "Steven",
+        "Sophie",
+        "Tony"
+      ],
+      [
+        "Mark",
+        "Michael",
+        "Tony"
+      ],
+      [
+        "Sophie",
+        "Alice",
+        "Bob"
+      ],
+      [
+        "Thomas",
+        "Henry",
+        "Sam"
+      ],
+      [
+        "Robert",
+        "Grace",
+        "Walter"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3260,
+          3932,
+          290,
+          23489,
+          8672,
+          262,
+          7541,
+          11,
+          6542,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Ben and Rebecca visited the hotel, Steve handed a book to"
+      },
+      {
+        "ids": [
+          3260,
+          5780,
+          290,
+          35331,
+          8672,
+          262,
+          7541,
+          11,
+          22300,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Martin and Sophie visited the hotel, Julia handed a book to"
+      },
+      {
+        "ids": [
+          3260,
+          8239,
+          290,
+          2940,
+          8672,
+          262,
+          7541,
+          11,
+          6542,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Steven and Mark visited the hotel, Steve handed a book to"
+      },
+      {
+        "ids": [
+          3260,
+          8239,
+          290,
+          35331,
+          8672,
+          262,
+          7541,
+          11,
+          8832,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Steven and Sophie visited the hotel, Tony handed a book to"
+      },
+      {
+        "ids": [
+          3260,
+          2940,
+          290,
+          3899,
+          8672,
+          262,
+          7541,
+          11,
+          8832,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Mark and Michael visited the hotel, Tony handed a book to"
+      },
+      {
+        "ids": [
+          3260,
+          35331,
+          290,
+          14862,
+          8672,
+          262,
+          7541,
+          11,
+          5811,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Sophie and Alice visited the hotel, Bob handed a book to"
+      },
+      {
+        "ids": [
+          3260,
+          5658,
+          290,
+          8616,
+          8672,
+          262,
+          7541,
+          11,
+          3409,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Thomas and Henry visited the hotel, Sam handed a book to"
+      },
+      {
+        "ids": [
+          3260,
+          5199,
+          290,
+          16156,
+          8672,
+          262,
+          7541,
+          11,
+          15819,
+          10158,
+          257,
+          1492,
+          284
+        ],
+        "text": "After Robert and Grace visited the hotel, Walter handed a book to"
+      }
+    ],
+    "group": 9,
+    "id": "calibration-circuit-0009",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "book",
+    "order": "ABBA",
+    "place": "hotel",
+    "recipient": {
+      "contrast_id": 12091,
+      "end": 12,
+      "ids": [
+        3260,
+        15984,
+        290,
+        12091,
+        8672,
+        262,
+        7541,
+        11,
+        12091,
+        10158,
+        257,
+        1492,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 8,
+      "target_id": 15984,
+      "text": "After Rachel and Jane visited the hotel, Jane handed a book to"
+    },
+    "selection_priority": "04bf2d29b38ead4279ffddc6f0e1ef292a5da81b0cf53cd099126d3d1db51aed",
+    "split": "calibration",
+    "stratum": "t1-o0",
+    "subject": "Jane",
+    "target": "Rachel",
+    "template": 1
+  },
+  {
+    "donor_names": [
+      [
+        "David",
+        "Thomas",
+        "Tom"
+      ],
+      [
+        "Steve",
+        "Robert",
+        "Joe"
+      ],
+      [
+        "Steven",
+        "Martin",
+        "Laura"
+      ],
+      [
+        "Henry",
+        "Sarah",
+        "Emma"
+      ],
+      [
+        "Robert",
+        "Emma",
+        "Anna"
+      ],
+      [
+        "Peter",
+        "James",
+        "Maria"
+      ],
+      [
+        "William",
+        "James",
+        "Mark"
+      ],
+      [
+        "Mary",
+        "Helen",
+        "Sam"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3633,
+          3271,
+          290,
+          5658,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          4186,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While David and Thomas were at the restaurant, Tom passed a toy to"
+      },
+      {
+        "ids": [
+          3633,
+          6542,
+          290,
+          5199,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          5689,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While Steve and Robert were at the restaurant, Joe passed a toy to"
+      },
+      {
+        "ids": [
+          3633,
+          8239,
+          290,
+          5780,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          16753,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While Steven and Martin were at the restaurant, Laura passed a toy to"
+      },
+      {
+        "ids": [
+          3633,
+          8616,
+          290,
+          10490,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          18966,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While Henry and Sarah were at the restaurant, Emma passed a toy to"
+      },
+      {
+        "ids": [
+          3633,
+          5199,
+          290,
+          18966,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          11735,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While Robert and Emma were at the restaurant, Anna passed a toy to"
+      },
+      {
+        "ids": [
+          3633,
+          5613,
+          290,
+          3700,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          14200,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While Peter and James were at the restaurant, Maria passed a toy to"
+      },
+      {
+        "ids": [
+          3633,
+          3977,
+          290,
+          3700,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          2940,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While William and James were at the restaurant, Mark passed a toy to"
+      },
+      {
+        "ids": [
+          3633,
+          5335,
+          290,
+          22695,
+          547,
+          379,
+          262,
+          7072,
+          11,
+          3409,
+          3804,
+          257,
+          13373,
+          284
+        ],
+        "text": "While Mary and Helen were at the restaurant, Sam passed a toy to"
+      }
+    ],
+    "group": 10,
+    "id": "calibration-circuit-0010",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "toy",
+    "order": "ABBA",
+    "place": "restaurant",
+    "recipient": {
+      "contrast_id": 21776,
+      "end": 13,
+      "ids": [
+        3633,
+        18496,
+        290,
+        21776,
+        547,
+        379,
+        262,
+        7072,
+        11,
+        21776,
+        3804,
+        257,
+        13373,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 9,
+      "target_id": 18496,
+      "text": "While Nancy and Linda were at the restaurant, Linda passed a toy to"
+    },
+    "selection_priority": "e7345cda67f5e9412bf944466fc0f223e1a440e26d7d0106fc3176b99dd1ede6",
+    "split": "calibration",
+    "stratum": "t2-o0",
+    "subject": "Linda",
+    "target": "Nancy",
+    "template": 2
+  },
+  {
+    "donor_names": [
+      [
+        "Sophie",
+        "Joe",
+        "Sarah"
+      ],
+      [
+        "Michael",
+        "Laura",
+        "Edward"
+      ],
+      [
+        "Laura",
+        "Nancy",
+        "Steve"
+      ],
+      [
+        "Laura",
+        "Lisa",
+        "Joe"
+      ],
+      [
+        "George",
+        "Sophie",
+        "Wendy"
+      ],
+      [
+        "Kate",
+        "Nick",
+        "William"
+      ],
+      [
+        "Alice",
+        "Edward",
+        "Michael"
+      ],
+      [
+        "Roger",
+        "David",
+        "Grace"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          8421,
+          35331,
+          290,
+          5689,
+          1364,
+          262,
+          1910,
+          11,
+          10490,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Sophie and Joe left the market, Sarah offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          3899,
+          290,
+          16753,
+          1364,
+          262,
+          1910,
+          11,
+          10443,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Michael and Laura left the market, Edward offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          16753,
+          290,
+          18496,
+          1364,
+          262,
+          1910,
+          11,
+          6542,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Laura and Nancy left the market, Steve offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          16753,
+          290,
+          15378,
+          1364,
+          262,
+          1910,
+          11,
+          5689,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Laura and Lisa left the market, Joe offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          4502,
+          290,
+          35331,
+          1364,
+          262,
+          1910,
+          11,
+          28314,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before George and Sophie left the market, Wendy offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          16693,
+          290,
+          8047,
+          1364,
+          262,
+          1910,
+          11,
+          3977,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Kate and Nick left the market, William offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          14862,
+          290,
+          10443,
+          1364,
+          262,
+          1910,
+          11,
+          3899,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Alice and Edward left the market, Michael offered a box to"
+      },
+      {
+        "ids": [
+          8421,
+          13637,
+          290,
+          3271,
+          1364,
+          262,
+          1910,
+          11,
+          16156,
+          4438,
+          257,
+          3091,
+          284
+        ],
+        "text": "Before Roger and David left the market, Grace offered a box to"
+      }
+    ],
+    "group": 11,
+    "id": "calibration-circuit-0011",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "box",
+    "order": "ABBA",
+    "place": "market",
+    "recipient": {
+      "contrast_id": 8616,
+      "end": 12,
+      "ids": [
+        8421,
+        3362,
+        290,
+        8616,
+        1364,
+        262,
+        1910,
+        11,
+        8616,
+        4438,
+        257,
+        3091,
+        284
+      ],
+      "s1": 3,
+      "s1_plus1": 4,
+      "s2": 8,
+      "target_id": 3362,
+      "text": "Before Paul and Henry left the market, Henry offered a box to"
+    },
+    "selection_priority": "93dc90222c030601f7bd9c04a498d36ffb182a45f01469cd4ca590590e33a6da",
+    "split": "calibration",
+    "stratum": "t3-o0",
+    "subject": "Henry",
+    "target": "Paul",
+    "template": 3
+  },
+  {
+    "donor_names": [
+      [
+        "Daniel",
+        "Rachel",
+        "Thomas"
+      ],
+      [
+        "Steve",
+        "John",
+        "Jack"
+      ],
+      [
+        "George",
+        "Bob",
+        "Alice"
+      ],
+      [
+        "Edward",
+        "Jane",
+        "Rachel"
+      ],
+      [
+        "Tom",
+        "Bob",
+        "Linda"
+      ],
+      [
+        "Rose",
+        "Walter",
+        "Henry"
+      ],
+      [
+        "Oliver",
+        "Sarah",
+        "Robert"
+      ],
+      [
+        "Susan",
+        "Simon",
+        "William"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          2215,
+          7806,
+          290,
+          15984,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          5658,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When Daniel and Rachel went to the restaurant, Thomas gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          6542,
+          290,
+          1757,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          3619,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When Steve and John went to the restaurant, Jack gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          4502,
+          290,
+          5811,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          14862,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When George and Bob went to the restaurant, Alice gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          10443,
+          290,
+          12091,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          15984,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When Edward and Jane went to the restaurant, Rachel gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          4186,
+          290,
+          5811,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          21776,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When Tom and Bob went to the restaurant, Linda gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          8049,
+          290,
+          15819,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          8616,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When Rose and Walter went to the restaurant, Henry gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          15416,
+          290,
+          10490,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          5199,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When Oliver and Sarah went to the restaurant, Robert gave a cup to"
+      },
+      {
+        "ids": [
+          2215,
+          14919,
+          290,
+          11288,
+          1816,
+          284,
+          262,
+          7072,
+          11,
+          3977,
+          2921,
+          257,
+          6508,
+          284
+        ],
+        "text": "When Susan and Simon went to the restaurant, William gave a cup to"
+      }
+    ],
+    "group": 12,
+    "id": "calibration-circuit-0012",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "cup",
+    "order": "BABA",
+    "place": "restaurant",
+    "recipient": {
+      "contrast_id": 35331,
+      "end": 13,
+      "ids": [
+        2215,
+        35331,
+        290,
+        23489,
+        1816,
+        284,
+        262,
+        7072,
+        11,
+        35331,
+        2921,
+        257,
+        6508,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 9,
+      "target_id": 23489,
+      "text": "When Sophie and Rebecca went to the restaurant, Sophie gave a cup to"
+    },
+    "selection_priority": "7c8303c56d11d33442eebe4dfdeb50dd012c8db5122c27d62a05a271b8eb1a03",
+    "split": "calibration",
+    "stratum": "t0-o1",
+    "subject": "Sophie",
+    "target": "Rebecca",
+    "template": 0
+  },
+  {
+    "donor_names": [
+      [
+        "Mike",
+        "Lisa",
+        "Steven"
+      ],
+      [
+        "Nancy",
+        "Ben",
+        "Sophie"
+      ],
+      [
+        "Walter",
+        "Jack",
+        "Frank"
+      ],
+      [
+        "Victor",
+        "Bob",
+        "Maria"
+      ],
+      [
+        "Ben",
+        "Anna",
+        "William"
+      ],
+      [
+        "Julia",
+        "Lisa",
+        "Carol"
+      ],
+      [
+        "Alice",
+        "James",
+        "Paul"
+      ],
+      [
+        "Sam",
+        "Alice",
+        "John"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3260,
+          4995,
+          290,
+          15378,
+          8672,
+          262,
+          3650,
+          11,
+          8239,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Mike and Lisa visited the store, Steven handed a flower to"
+      },
+      {
+        "ids": [
+          3260,
+          18496,
+          290,
+          3932,
+          8672,
+          262,
+          3650,
+          11,
+          35331,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Nancy and Ben visited the store, Sophie handed a flower to"
+      },
+      {
+        "ids": [
+          3260,
+          15819,
+          290,
+          3619,
+          8672,
+          262,
+          3650,
+          11,
+          5278,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Walter and Jack visited the store, Frank handed a flower to"
+      },
+      {
+        "ids": [
+          3260,
+          12622,
+          290,
+          5811,
+          8672,
+          262,
+          3650,
+          11,
+          14200,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Victor and Bob visited the store, Maria handed a flower to"
+      },
+      {
+        "ids": [
+          3260,
+          3932,
+          290,
+          11735,
+          8672,
+          262,
+          3650,
+          11,
+          3977,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Ben and Anna visited the store, William handed a flower to"
+      },
+      {
+        "ids": [
+          3260,
+          22300,
+          290,
+          15378,
+          8672,
+          262,
+          3650,
+          11,
+          5074,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Julia and Lisa visited the store, Carol handed a flower to"
+      },
+      {
+        "ids": [
+          3260,
+          14862,
+          290,
+          3700,
+          8672,
+          262,
+          3650,
+          11,
+          3362,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Alice and James visited the store, Paul handed a flower to"
+      },
+      {
+        "ids": [
+          3260,
+          3409,
+          290,
+          14862,
+          8672,
+          262,
+          3650,
+          11,
+          1757,
+          10158,
+          257,
+          15061,
+          284
+        ],
+        "text": "After Sam and Alice visited the store, John handed a flower to"
+      }
+    ],
+    "group": 13,
+    "id": "calibration-circuit-0013",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "flower",
+    "order": "BABA",
+    "place": "store",
+    "recipient": {
+      "contrast_id": 16693,
+      "end": 12,
+      "ids": [
+        3260,
+        16693,
+        290,
+        10443,
+        8672,
+        262,
+        3650,
+        11,
+        16693,
+        10158,
+        257,
+        15061,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 8,
+      "target_id": 10443,
+      "text": "After Kate and Edward visited the store, Kate handed a flower to"
+    },
+    "selection_priority": "757f90aa89b302961d5440dc14c374d733205372db57bf80981ac13c1ab59884",
+    "split": "calibration",
+    "stratum": "t1-o1",
+    "subject": "Kate",
+    "target": "Edward",
+    "template": 1
+  },
+  {
+    "donor_names": [
+      [
+        "Jack",
+        "Robert",
+        "Linda"
+      ],
+      [
+        "John",
+        "Tony",
+        "Tom"
+      ],
+      [
+        "Daniel",
+        "Thomas",
+        "Ben"
+      ],
+      [
+        "Tom",
+        "Helen",
+        "Mary"
+      ],
+      [
+        "Peter",
+        "Lisa",
+        "Sarah"
+      ],
+      [
+        "Steven",
+        "Alice",
+        "Robert"
+      ],
+      [
+        "Mike",
+        "Sophie",
+        "Robert"
+      ],
+      [
+        "Nick",
+        "Rachel",
+        "Victor"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          3633,
+          3619,
+          290,
+          5199,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          21776,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While Jack and Robert were at the station, Linda passed a apple to"
+      },
+      {
+        "ids": [
+          3633,
+          1757,
+          290,
+          8832,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          4186,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While John and Tony were at the station, Tom passed a apple to"
+      },
+      {
+        "ids": [
+          3633,
+          7806,
+          290,
+          5658,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          3932,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While Daniel and Thomas were at the station, Ben passed a apple to"
+      },
+      {
+        "ids": [
+          3633,
+          4186,
+          290,
+          22695,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          5335,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While Tom and Helen were at the station, Mary passed a apple to"
+      },
+      {
+        "ids": [
+          3633,
+          5613,
+          290,
+          15378,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          10490,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While Peter and Lisa were at the station, Sarah passed a apple to"
+      },
+      {
+        "ids": [
+          3633,
+          8239,
+          290,
+          14862,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          5199,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While Steven and Alice were at the station, Robert passed a apple to"
+      },
+      {
+        "ids": [
+          3633,
+          4995,
+          290,
+          35331,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          5199,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While Mike and Sophie were at the station, Robert passed a apple to"
+      },
+      {
+        "ids": [
+          3633,
+          8047,
+          290,
+          15984,
+          547,
+          379,
+          262,
+          4429,
+          11,
+          12622,
+          3804,
+          257,
+          17180,
+          284
+        ],
+        "text": "While Nick and Rachel were at the station, Victor passed a apple to"
+      }
+    ],
+    "group": 14,
+    "id": "calibration-circuit-0014",
+    "name_positions": [
+      1,
+      3,
+      9
+    ],
+    "object": "apple",
+    "order": "BABA",
+    "place": "station",
+    "recipient": {
+      "contrast_id": 16156,
+      "end": 13,
+      "ids": [
+        3633,
+        16156,
+        290,
+        8616,
+        547,
+        379,
+        262,
+        4429,
+        11,
+        16156,
+        3804,
+        257,
+        17180,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 9,
+      "target_id": 8616,
+      "text": "While Grace and Henry were at the station, Grace passed a apple to"
+    },
+    "selection_priority": "edce7f2ae31e4b074138335a6900cd8801998f03890bf8418f5034760224c0aa",
+    "split": "calibration",
+    "stratum": "t2-o1",
+    "subject": "Grace",
+    "target": "Henry",
+    "template": 2
+  },
+  {
+    "donor_names": [
+      [
+        "Daniel",
+        "Simon",
+        "Alice"
+      ],
+      [
+        "Michael",
+        "Kate",
+        "Tony"
+      ],
+      [
+        "George",
+        "Lisa",
+        "Patrick"
+      ],
+      [
+        "Susan",
+        "Roger",
+        "Edward"
+      ],
+      [
+        "Anna",
+        "Susan",
+        "David"
+      ],
+      [
+        "David",
+        "Tom",
+        "Robert"
+      ],
+      [
+        "Maria",
+        "Sarah",
+        "Ben"
+      ],
+      [
+        "Lucy",
+        "Helen",
+        "Mark"
+      ]
+    ],
+    "donors": [
+      {
+        "ids": [
+          8421,
+          7806,
+          290,
+          11288,
+          1364,
+          262,
+          5888,
+          11,
+          14862,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before Daniel and Simon left the library, Alice offered a apple to"
+      },
+      {
+        "ids": [
+          8421,
+          3899,
+          290,
+          16693,
+          1364,
+          262,
+          5888,
+          11,
+          8832,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before Michael and Kate left the library, Tony offered a apple to"
+      },
+      {
+        "ids": [
+          8421,
+          4502,
+          290,
+          15378,
+          1364,
+          262,
+          5888,
+          11,
+          9925,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before George and Lisa left the library, Patrick offered a apple to"
+      },
+      {
+        "ids": [
+          8421,
+          14919,
+          290,
+          13637,
+          1364,
+          262,
+          5888,
+          11,
+          10443,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before Susan and Roger left the library, Edward offered a apple to"
+      },
+      {
+        "ids": [
+          8421,
+          11735,
+          290,
+          14919,
+          1364,
+          262,
+          5888,
+          11,
+          3271,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before Anna and Susan left the library, David offered a apple to"
+      },
+      {
+        "ids": [
+          8421,
+          3271,
+          290,
+          4186,
+          1364,
+          262,
+          5888,
+          11,
+          5199,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before David and Tom left the library, Robert offered a apple to"
+      },
+      {
+        "ids": [
+          8421,
+          14200,
+          290,
+          10490,
+          1364,
+          262,
+          5888,
+          11,
+          3932,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before Maria and Sarah left the library, Ben offered a apple to"
+      },
+      {
+        "ids": [
+          8421,
+          22162,
+          290,
+          22695,
+          1364,
+          262,
+          5888,
+          11,
+          2940,
+          4438,
+          257,
+          17180,
+          284
+        ],
+        "text": "Before Lucy and Helen left the library, Mark offered a apple to"
+      }
+    ],
+    "group": 15,
+    "id": "calibration-circuit-0015",
+    "name_positions": [
+      1,
+      3,
+      8
+    ],
+    "object": "apple",
+    "order": "BABA",
+    "place": "library",
+    "recipient": {
+      "contrast_id": 1757,
+      "end": 12,
+      "ids": [
+        8421,
+        1757,
+        290,
+        28314,
+        1364,
+        262,
+        5888,
+        11,
+        1757,
+        4438,
+        257,
+        17180,
+        284
+      ],
+      "s1": 1,
+      "s1_plus1": 2,
+      "s2": 8,
+      "target_id": 28314,
+      "text": "Before John and Wendy left the library, John offered a apple to"
+    },
+    "selection_priority": "e01e873c242f79ed556d6e5dc84beec54edc3e8b97b3b8e6547d8a7e9e5128c1",
+    "split": "calibration",
+    "stratum": "t3-o1",
+    "subject": "John",
+    "target": "Wendy",
+    "template": 3
+  }
+]

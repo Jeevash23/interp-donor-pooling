@@ -1,0 +1,22 @@
+{
+  "blimp_device": {
+    "gpt2-large": "cpu",
+    "gpt2-medium": "cpu",
+    "gpt2-small": "cpu",
+    "pythia-410m": "cuda",
+    "qwen3-0.6b": "cpu",
+    "tinyllama-1.1b": "cpu"
+  },
+  "cpu_models": [
+    "Intel(R) Core(TM) 5 210H"
+  ],
+  "direct_readout_device": "cpu",
+  "heads_device": "cuda",
+  "logical_cpu_count": 12,
+  "primary_device": "cuda",
+  "primary_gpu": "[6 GB NVIDIA GPU]",
+  "ram_memtotal": "15956508 kB",
+  "recorded_utc": "2026-09-12T05:52:08Z",
+  "runtime_note": "Some CPU and GPU runs overlap. Sum of per-run wall durations is not elapsed project time or measured energy use.",
+  "torch_threads_per_process": 4
+}

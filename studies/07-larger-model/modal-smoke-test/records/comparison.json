@@ -1,0 +1,174 @@
+{
+  "tolerance_logits": 0.001,
+  "max_abs_margin_error": 5.340576171875e-05,
+  "max_rel_spread_error": 5.9742107941676876e-05,
+  "spread_floor": 0.001,
+  "max_abs_spread_error_below_floor": 3.259492405930514e-08,
+  "passed": true,
+  "per_array": {
+    "s4": {
+      "baseline": {
+        "shape": [
+          2
+        ],
+        "max_abs": 7.62939453125e-06,
+        "max_rel": 2.464681119556752e-06,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "margins_attn": {
+        "shape": [
+          2,
+          12,
+          81
+        ],
+        "max_abs": 4.57763671875e-05,
+        "max_rel": 0.0005069708491761723,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "margins_head": {
+        "shape": [
+          2,
+          12,
+          12,
+          81
+        ],
+        "max_abs": 5.340576171875e-05,
+        "max_rel": 5.953975767318627e-05,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "margins_mlp": {
+        "shape": [
+          2,
+          12,
+          81
+        ],
+        "max_abs": 4.57763671875e-05,
+        "max_rel": 3.213863320820692e-05,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "margins_resid": {
+        "shape": [
+          2,
+          12,
+          81
+        ],
+        "max_abs": 4.57763671875e-05,
+        "max_rel": 0.013201320132013201,
+        "entries_below_floor": 2,
+        "max_abs_below_floor": 1.52587890625e-05
+      },
+      "spread_attn": {
+        "shape": [
+          2,
+          12,
+          17
+        ],
+        "max_abs": 0.00229269346732508,
+        "max_rel": 1.0336532183910037e-05,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "spread_head": {
+        "shape": [
+          2,
+          12,
+          12,
+          17
+        ],
+        "max_abs": 0.0012232240674734385,
+        "max_rel": 5.9742107941676876e-05,
+        "entries_below_floor": 123,
+        "max_abs_below_floor": 1.045421843342241e-08
+      },
+      "spread_mlp": {
+        "shape": [
+          2,
+          12,
+          17
+        ],
+        "max_abs": 0.0046902008671168005,
+        "max_rel": 7.703218521577063e-06,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "spread_resid": {
+        "shape": [
+          2,
+          12,
+          17
+        ],
+        "max_abs": 0.011778536471865664,
+        "max_rel": 6.347908123552369e-06,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      }
+    },
+    "s2": {
+      "baseline": {
+        "shape": [
+          2
+        ],
+        "max_abs": 8.58306884765625e-06,
+        "max_rel": 4.587357040114908e-06,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "margins": {
+        "shape": [
+          2,
+          28,
+          5,
+          89
+        ],
+        "max_abs": 2.956390380859375e-05,
+        "max_rel": 0.005424377791959157,
+        "entries_below_floor": 2,
+        "max_abs_below_floor": 1.9073486328125e-06
+      },
+      "position_names": {
+        "shape": [
+          5
+        ],
+        "equal": true
+      },
+      "positions": {
+        "shape": [
+          5
+        ],
+        "max_abs": 0.0,
+        "max_rel": 0.0,
+        "entries_below_floor": 0,
+        "max_abs_below_floor": null
+      },
+      "spread": {
+        "shape": [
+          2,
+          28,
+          5,
+          25
+        ],
+        "max_abs": 0.0763963938516099,
+        "max_rel": 4.306743946199146e-05,
+        "entries_below_floor": 1792,
+        "max_abs_below_floor": 3.259492405930514e-08
+      }
+    },
+    "gate": {
+      "saved_accuracy": 0.796875,
+      "modal_accuracy": 0.796875,
+      "groups": 64,
+      "correct": 51,
+      "smallest_abs_margin": 0.07891559600830078,
+      "equal": true
+    }
+  },
+  "compared_with": {
+    "s4": "studies/06-component-confirmation/results/test/sva-test-sva-000.npz",
+    "s2": "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/test/sva-test-sva-000.npz",
+    "gate": "studies/05-head-confirmation/results/qwen-gate/gate.json"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "bank_sizes": {
+    "N128": 128,
+    "N8": 8,
+    "NPO128": 128,
+    "NPO8": 8
+  },
+  "created_utc": "2026-10-05T11:52:23Z",
+  "exact_overlap_with_prior": 0,
+  "files": {
+    "ioi-calibration.json": "7d2ed42a168cc77893f251b55f1b86fa09d5709c458801ceeeaa8e6b964f3dfd",
+    "ioi-development.json": "3d94feb0f670576552bab69e23cdac21d0f19b1ee6292779d0fd19fb37fb88bb",
+    "ioi-screen.json": "d982b2ffccc6ccd50169a6122627d812c7ae9fe382b14c9ebc762825e0491722",
+    "ioi-sweep.json": "f2532fb0e306dc7b5e96699fe7f519b584358ebca6fe3475c38bec39559281ff",
+    "sva-calibration.json": "f3e3e0afc2f36e5cc30c3863349cddbdc12565653271e0e13f50b23e6362031d",
+    "sva-development.json": "7fea664b9e8e486018be3f7a4a7d221ee5fca00a28fbcc835a570b9f7eee795a",
+    "sva-test.json": "25c3c15652eee3c988093ccb77e06e939ace6e64f8d06fafdab2115f75b572ae"
+  },
+  "ioi_names": [
+    "Alice",
+    "Bob",
+    "Carol",
+    "David",
+    "Emma",
+    "Frank",
+    "Grace",
+    "Henry",
+    "Jack",
+    "James",
+    "Jane",
+    "John",
+    "Julia",
+    "Kate",
+    "Laura",
+    "Lucy",
+    "Luke",
+    "Mark",
+    "Mary",
+    "Michael",
+    "Mike",
+    "Nick",
+    "Oliver",
+    "Paul",
+    "Peter",
+    "Rachel",
+    "Richard",
+    "Robert",
+    "Rose",
+    "Sam",
+    "Sarah",
+    "Simon",
+    "Sophie",
+    "Steve",
+    "Susan",
+    "Thomas",
+    "Tom",
+    "Victor",
+    "William",
+    "Anna",
+    "Ben",
+    "Daniel",
+    "Edward",
+    "George",
+    "Helen",
+    "Joe",
+    "Kevin",
+    "Linda",
+    "Lisa",
+    "Maria",
+    "Martin",
+    "Nancy",
+    "Patrick",
+    "Rebecca",
+    "Roger",
+    "Steven",
+    "Tony",
+    "Walter",
+    "Wendy"
+  ],
+  "ioi_objects": [
+    "ring",
+    "kiss",
+    "bone",
+    "basketball",
+    "computer",
+    "necklace",
+    "drink",
+    "snack",
+    "book",
+    "ball",
+    "cup",
+    "bag",
+    "box",
+    "hat",
+    "map",
+    "toy",
+    "key",
+    "letter",
+    "flower",
+    "ticket",
+    "bottle"
+  ],
+  "ioi_places": [
+    "store",
+    "garden",
+    "restaurant",
+    "school",
+    "hospital",
+    "office",
+    "house",
+    "station",
+    "park",
+    "market",
+    "hotel",
+    "museum",
+    "library",
+    "beach",
+    "church",
+    "theater"
+  ],
+  "ioi_templates": {
+    "O0": "When {n1} and {n2} went to the {place}, {s} gave a {obj} to",
+    "O1": "After {n1} and {n2} visited the {place}, {s} handed a {obj} to",
+    "O2": "While {n1} and {n2} were at the {place}, {s} passed a {obj} to",
+    "O3": "Before {n1} and {n2} left the {place}, {s} offered a {obj} to",
+    "W0": "Then, {n1} and {n2} went to the {place}. {s} gave a {obj} to",
+    "W1": "Then, {n1} and {n2} had a lot of fun at the {place}. {s} gave a {obj} to",
+    "W10": "Afterwards, {n1} and {n2} went to the {place}. {s} gave a {obj} to",
+    "W11": "The {place} {n1} and {n2} went to had a {obj}. {s} gave it to",
+    "W12": "Friends {n1} and {n2} found a {obj} at the {place}. {s} gave it to",
+    "W2": "Then, {n1} and {n2} were working at the {place}. {s} decided to give a {obj} to",
+    "W3": "Then, {n1} and {n2} were thinking about going to the {place}. {s} wanted to give a {obj} to",
+    "W4": "After {n1} and {n2} went to the {place}, {s} gave a {obj} to",
+    "W5": "When {n1} and {n2} got a {obj} at the {place}, {s} decided to give it to",
+    "W6": "When {n1} and {n2} got a {obj} at the {place}, {s} decided to give the {obj} to",
+    "W7": "While {n1} and {n2} were working at the {place}, {s} gave a {obj} to",
+    "W8": "While {n1} and {n2} were commuting to the {place}, {s} gave a {obj} to",
+    "W9": "After the lunch, {n1} and {n2} went to the {place}. {s} gave a {obj} to"
+  },
+  "prior_files": [
+    "data/calibration.json",
+    "data/evaluation.json",
+    "submission-study/data/calibration.json",
+    "submission-study/data/development.json",
+    "submission-study/data/test.json",
+    "submission-study/data/blimp.json",
+    "followups/2026-10-pooling-consequences/token/data/calibration.json",
+    "followups/2026-10-pooling-consequences/token/data/development.json",
+    "followups/2026-10-pooling-consequences/token/data/test.json",
+    "followups/2026-10-pooling-consequences/circuit/data/calibration.json",
+    "followups/2026-10-pooling-consequences/circuit/data/development.json",
+    "followups/2026-10-pooling-consequences/circuit/data/screen.json"
+  ],
+  "prior_unique_strings": 98432,
+  "splits": {
+    "ioi-calibration/O": {
+      "rejections": {},
+      "rows": 8
+    },
+    "ioi-development/O": {
+      "rejections": {
+        "overlap": 1
+      },
+      "rows": 32
+    },
+    "ioi-development/W": {
+      "rejections": {},
+      "rows": 26
+    },
+    "ioi-screen/O": {
+      "rejections": {
+        "overlap": 75
+      },
+      "rows": 32768
+    },
+    "ioi-screen/W": {
+      "rejections": {
+        "overlap": 26
+      },
+      "rows": 32760
+    },
+    "ioi-sweep": {
+      "donors_per_row": 64,
+      "rows": 64
+    },
+    "sva-calibration": {
+      "groups": 4,
+      "rejections": {
+        "overlap": 1
+      }
+    },
+    "sva-development": {
+      "groups": 4,
+      "rejections": {
+        "overlap": 5
+      }
+    },
+    "sva-test": {
+      "groups": 64,
+      "rejections": {
+        "overlap": 62
+      }
+    }
+  },
+  "sva_adjectives": [
+    "quiet",
+    "calm",
+    "clever",
+    "tired",
+    "proud",
+    "kind",
+    "brave",
+    "polite",
+    "friendly",
+    "busy",
+    "careful",
+    "patient",
+    "curious",
+    "tall",
+    "short",
+    "new",
+    "eager",
+    "gentle",
+    "bright",
+    "honest",
+    "cheerful",
+    "modest",
+    "nervous",
+    "serious",
+    "silent",
+    "wealthy",
+    "hungry",
+    "thirsty",
+    "happy",
+    "sleepy",
+    "lonely",
+    "helpful",
+    "playful"
+  ],
+  "sva_nouns": [
+    "pilot",
+    "guard",
+    "teacher",
+    "doctor",
+    "farmer",
+    "lawyer",
+    "driver",
+    "nurse",
+    "singer",
+    "artist",
+    "dancer",
+    "sailor",
+    "worker",
+    "actor",
+    "student",
+    "soldier",
+    "chef",
+    "player",
+    "writer",
+    "friend",
+    "cousin",
+    "officer",
+    "leader",
+    "captain",
+    "owner",
+    "author",
+    "reader",
+    "parent",
+    "boy",
+    "girl",
+    "guest"
+  ],
+  "sva_templates": [
+    "At the station, the {adj} {head} near the {distr}",
+    "At the office, the {adj} {head} beside the {distr}"
+  ],
+  "uses_model_outputs": false
+}

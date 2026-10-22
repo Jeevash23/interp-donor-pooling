@@ -1,0 +1,8 @@
+{
+  "copied_utc": "2026-09-12T04:41:30Z",
+  "files": {
+    "pilot-calibration.json": "c0c0e38fc114be6aaf98bc8bcde21bccb6e49437b372eb9bacdebb738b5935b3",
+    "pilot-evaluation.json": "820c7305b5996d8565ac330b4068bc2cccb3ee73b7db130ff87538661649fe92"
+  },
+  "purpose": "Portable regeneration of the exact pre-existing prompt exclusion set; not new outcomes."
+}

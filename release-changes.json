@@ -1,0 +1,1671 @@
+{
+ "release": "donor-pooling",
+ "changed_files": {
+  "paper/make_figures.py": {
+   "kind": "adapted",
+   "original_sha256": "272407ffd75b5515c013a976142c42c3f7d5b01e6a4014bb292a8b55c3f9e684",
+   "release_sha256": "9ea54241f06dd22fc6d341c7ea604cb186c7eed624a72c264c700e267b8fb580",
+   "reasons": [
+    "figure legends use the manuscript's bibliography number when no LaTeX build is present"
+   ]
+  },
+  "paper/make_numbers.py": {
+   "kind": "adapted",
+   "original_sha256": "22d9d61404e48437b3ea6d6e13a1ae3c7f7075c83632d5914fa8b9f463e99adc",
+   "release_sha256": "9ac3f4f84e1b697dd6962d88f0b2ecfae8d26ab76eddb2806e981a1b5e1a99c3",
+   "reasons": [
+    "P2 is read from submission-study/ (the release ships no links)"
+   ]
+  },
+  "studies/01-pilot/REPRODUCIBILITY.md": {
+   "kind": "redacted",
+   "original_sha256": "a8555f3214b02fd5959ae8b9ebc471c590c7cf9dbf8a4a0b1b31f25f314175cc",
+   "release_sha256": "ec38971bf4bf3681d2123535f061721906f914b9253de99f397225c5642c6567",
+   "redactions": {
+    "sibling project": 5
+   }
+  },
+  "studies/01-pilot/results/data-audit.json": {
+   "kind": "redacted",
+   "original_sha256": "cec4365d250ccbdfb8ffdadd1fae8d7c314d24133c42fe8c4c8df2ae8456d7f3",
+   "release_sha256": "b1c9be2892e4b76c8745131919920fdb44e17106f847c6ec51122c69eb454c30",
+   "redactions": {
+    "sibling project": 77
+   },
+   "archive": "data/saved-outputs/p1-pilot.tar.xz"
+  },
+  "studies/01-pilot/scripts/audit.py": {
+   "kind": "adapted",
+   "original_sha256": "ec6052244ecf21fcb543cd060d382f98b43150a786c27d70738d55bfc275691c",
+   "release_sha256": "4a4a64b29c2cb85564444ed78e459d77d4aebc5bfd09b1b524899fdcab0ecd23",
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/01-pilot/scripts/diagnose_readout.py": {
+   "kind": "adapted",
+   "original_sha256": "24f5ecef3c93fb699503e1eb49f57f309b1b182b5af48eeba554f6928c2a412e",
+   "release_sha256": "7550f9c8a612b08b38be047585af4d0ba1f19e2a64b8d54844c713a0112147ac",
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/01-pilot/scripts/experiment.py": {
+   "kind": "adapted",
+   "original_sha256": "32b0e7ab59c465a2a2c7af3ddf28edea888369432460a0301130ec517bf0cde9",
+   "release_sha256": "cb132e4e89369de1e8aca99bd4c30a34821df24f168e0cb8657b7e92cb3536d9",
+   "frozen_in": [
+    "studies/01-pilot/data/freeze.json"
+   ],
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/01-pilot/scripts/reproduce.py": {
+   "kind": "adapted",
+   "original_sha256": "592dc99f6312dede3d6b6eeffc74a015a3261b67ac6729d034e781a958347e5a",
+   "release_sha256": "0c81f28d63487ac0bef2fd11f9a1284e5707a689a98a391d3ee6703e9d1130f3",
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/03-grouping-and-circuit/REPRODUCIBILITY.md": {
+   "kind": "redacted",
+   "original_sha256": "286ceba6e3acc618c049ade6e90d6cccce9f7af12c8be851a67eb0aadba833dc",
+   "release_sha256": "22bac1c4803edd5f34875bbe51bf58ca67eb2d70c431dde01f824d48d06e45a9",
+   "redactions": {
+    "project path": 1,
+    "machine details": 1
+   }
+  },
+  "studies/03-grouping-and-circuit/circuit/README.md": {
+   "kind": "redacted",
+   "original_sha256": "859b4c55ca6ef3cbe515f6a79c5222169aa56d2497b3b888a429693e1c77738e",
+   "release_sha256": "e0461da5312cea2034379ffdb3316cc31ed149fd50d1030a06cd7efc2e0b4d9d",
+   "redactions": {
+    "environment path": 7,
+    "project path": 7,
+    "machine details": 1
+   }
+  },
+  "studies/03-grouping-and-circuit/circuit/check_portable_launcher.py": {
+   "kind": "adapted",
+   "original_sha256": "a7761e5ca91f0c06d8f0ee5a782e4374530f228dc533f149cfcfb81f0573ccc4",
+   "release_sha256": "8625424a538b35af3c678d8c52085dc226327ee9c8598d34ffa1dc114ea03915",
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/03-grouping-and-circuit/circuit/experiment.py": {
+   "kind": "adapted",
+   "original_sha256": "e6d0ce1c183f861078e52e6899d1d2b53422dcb7d609f8314752603cf3445ce7",
+   "release_sha256": "3a42295e15f7e8e88ac97db7b0c5289909a7c6eaec1327b52486d492816250a6",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/circuit/data/freeze.json"
+   ],
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/03-grouping-and-circuit/circuit/results/analysis.json": {
+   "kind": "redacted",
+   "original_sha256": "b77062538f41e6d66f90cc1db10510eac526432e341ce1de1df4968cac423104",
+   "release_sha256": "e16459f1e9dbc1971c62e3ded191ccfa538e4adfd9dca8a77cd041684b37b04f",
+   "redactions": {
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/circuit/results/calibration-initial-f32-projection-failed.json": {
+   "kind": "redacted",
+   "original_sha256": "20f80fcd554bd2f88f361b8e7c75e50c71747cbdf6bde806c98ec683865a2342",
+   "release_sha256": "a77e272d4676c90c266db7227954e8220347c1636f573dfa4cc954d9acf3c526",
+   "redactions": {
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/circuit/data/freeze.json"
+   ]
+  },
+  "studies/03-grouping-and-circuit/circuit/results/calibration.json": {
+   "kind": "redacted",
+   "original_sha256": "d5c5e2a648d7e99681fc12d7ff579ca1d0ade00c1ab0f89ae6c2f80c04007d4b",
+   "release_sha256": "83c5a6f19273a1525e68888f4a5f73125bcceb8caeb66b84fba184bf5fceb36c",
+   "redactions": {
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/circuit/data/freeze.json"
+   ]
+  },
+  "studies/03-grouping-and-circuit/circuit/results/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "cb2db96e89e753d0b78b24a070fd486981f5b60182bd1919c894cdd361ad8aba",
+   "release_sha256": "fbe3ec5ab96e9d0f758f7cd5e85f50d1a974904bd3b25359e83b514fd7d8a415",
+   "redactions": {
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/circuit/data/freeze.json"
+   ]
+  },
+  "studies/03-grouping-and-circuit/circuit/results/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "aa4de095d515500dde37b3e3af039a30969dcc79a6b1770ce6fe6644ce2a1f12",
+   "release_sha256": "55dc8fb3c56e1abb69cd7bbeb291e797bd2e3fef084e3afec76d844c10313482",
+   "redactions": {
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/circuit/results/screen-selection.json": {
+   "kind": "redacted",
+   "original_sha256": "68ec80262153fd032cb59b57dddb5edacb23db4edcb4876ed5c8e935590a4a4f",
+   "release_sha256": "631db37cc3d519d93a631344696e001e62a489115cc24fd6f93bb5cc21108845",
+   "redactions": {
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/circuit/results/source-before-projection-remedy.py": {
+   "kind": "redacted",
+   "original_sha256": "30790142d3c1807862fdf74c4ff5e07305b2c06f22e91120381fcee42d030853",
+   "release_sha256": "fcf04152738ceccb040f63f526199b0a526f8725e8b8317bf97745d998365fa2",
+   "redactions": {
+    "model path": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/circuit/data/freeze.json"
+   ]
+  },
+  "studies/03-grouping-and-circuit/circuit/results/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "4c6b3ed1b53f99049cfdff5f528612012cf7db78636131a7c101445099f8d7e2",
+   "release_sha256": "a33056368c4187fda6213ca717d4d7526173b55e474d85bd518601c373b5c488",
+   "redactions": {
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/results/environment-and-inputs.json": {
+   "kind": "redacted",
+   "original_sha256": "292082a69e521c074c829ebc968adb610b300f22f54a21814d71d99cd8ce9ced",
+   "release_sha256": "ba75cf8df959aeee22fe3f821996c429b6a5f23094eaa3ce2593ba3820f4bed0",
+   "redactions": {
+    "platform string": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/token/data/freeze.json",
+    "studies/07-larger-model/data/protocol-freeze.json",
+    "studies/07-larger-model/data/input-freeze.json"
+   ]
+  },
+  "studies/03-grouping-and-circuit/scripts/verify_revision.py": {
+   "kind": "adapted",
+   "original_sha256": "4091ae50497120fbbcfc0a945992c8248f1a2887834bfbb86ede485101446583",
+   "release_sha256": "86a8281a17350e39bf97acd4dcb58b625048b24dcf40df5e4451f8038fb8a833",
+   "reasons": [
+    "frozen-file checks accept the changes documented in release-changes.json"
+   ]
+  },
+  "studies/03-grouping-and-circuit/token/README.md": {
+   "kind": "redacted",
+   "original_sha256": "cbdf1c619f6d06b3cb80ba84c442c6bb569f2136c12f2f915b7360019347a19f",
+   "release_sha256": "39efa4c819929588c51f3aacbfc81bb70b70d0ef6cfae33b7a88d1314b1ed728",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/token/data/freeze.json"
+   ],
+   "redactions": {
+    "environment path": 1,
+    "project path": 1
+   }
+  },
+  "studies/03-grouping-and-circuit/token/common.py": {
+   "kind": "adapted",
+   "original_sha256": "8c1ec549b089ca2399004b5df223ef9dda61ce29814baa7195b3445ec1ffe564",
+   "release_sha256": "5e3bbf1b41e7c23df831d476b8d4869e6ce0c7701b83a8c97530b146b0ca5797",
+   "frozen_in": [
+    "studies/03-grouping-and-circuit/token/data/freeze.json"
+   ],
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/03-grouping-and-circuit/token/docs/DATA-AND-ESTIMAND.md": {
+   "kind": "redacted",
+   "original_sha256": "db8552e089646b6672b78d122f1e24dbce7e4dc04f053d671b79ed2cd0d22a90",
+   "release_sha256": "1beab85a44b4823747043c07fa2625160a261fc05f0398a393644dc568fc713b",
+   "redactions": {
+    "AI tool": 1
+   }
+  },
+  "studies/03-grouping-and-circuit/token/docs/TRACEABILITY-AND-REPRODUCTION.md": {
+   "kind": "redacted",
+   "original_sha256": "b24975fc9db2e6e1700071aa799c7cc446e20aa02bdd94038f25f906cb78b435",
+   "release_sha256": "88aed467853e0aed86ea1d756bc5c41e9c33282ee8f7db20b96f3f2b48a5b40b",
+   "redactions": {
+    "environment path": 1,
+    "model path": 2,
+    "project path": 1,
+    "AI tool": 3,
+    "machine details": 1
+   }
+  },
+  "studies/03-grouping-and-circuit/token/results/analysis-development/gpt2-small.json": {
+   "kind": "redacted",
+   "original_sha256": "959ad0ce607087b4ceb2ffd3e354ee0613562e37a3154353c42a81ad9fd54e46",
+   "release_sha256": "242ec505d53674c13ac308c9df043e5ceb33c6e3685d751a7fde377bec604223",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/analysis-development/qwen3-0.6b.json": {
+   "kind": "redacted",
+   "original_sha256": "76585bb31eeaa0f849088e390ac2ef612aeba1e39ae7693d9ef79b855e9d3d52",
+   "release_sha256": "ecb2facd8dd1b46ef148706e2ac54e7820140426086667d225fe9e2a541f2028",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/analysis-test/gpt2-small.json": {
+   "kind": "redacted",
+   "original_sha256": "967f0adb54771af5b8553208c25c74e85c532bf9ecf743e6304da0e10de4d02d",
+   "release_sha256": "efae84595ffb2706f010710288ad8f3c994d01013d7d5e30471af4ea068c94e3",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/analysis-test/qwen3-0.6b.json": {
+   "kind": "redacted",
+   "original_sha256": "5dc688ee7d7b5a145827dd1220dffbe6e43c0b793fb7526b6608da197b5d0e45",
+   "release_sha256": "721e93b305c7494db1c063df4bd5d5f9441a53e96b5f9767fe67a96524826a11",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/gpt2-small/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "b5f35ddda7b92cdbf30c24d9ab71f620930a47d06d98ded42a3a1d0019384ebd",
+   "release_sha256": "e7d2178e2bfb75ec93d6a36792feb61502fa71752be53b5d259e239252746fb6",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/gpt2-small/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "13a537f948dc8a152ba512fccb924209890ab964282d8e6a6accdad310f23c79",
+   "release_sha256": "18334b252e3f3044ed9342a794d53dac73924be57c9a08c35cc94078c4b2447c",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/gpt2-small/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "65fda80d077419a6fbbb73084392fd751c363693e44cd9cb70e26d5b50cf17f3",
+   "release_sha256": "6c3778db51eee0e406ccbc408453409b809245f9e48979441bca0cd2f8af0cc7",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/gpt2-small/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "9027a60f3dfe71437a7325e85d707606283d8fa5cd9a5a6847164a2558dc584d",
+   "release_sha256": "3c7ebdc6b52bbc7ff339ecf704f28ddf42d3c350186e23bbe1f03a74e856046a",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/qwen3-0.6b/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "a22151b00ba53721efb4d8fc6cea2a0b5d9a1b1a1b1570414b4da0a013828d35",
+   "release_sha256": "022beb6e2fb9c5a8c2828c0208266cd93442aa01138d188429e4ba771d2756b3",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/qwen3-0.6b/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "78cb4e6710ee11454890abb00f58c39413627f6da6cf671098922651d879725b",
+   "release_sha256": "beb6ecce1c0c0a1e80b5377b8ce91dcad7537d21207867e9db8579d4b1f5a19d",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/qwen3-0.6b/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "2ccb9045923ab76a574187c1ebcbbe7dbc397654159ad9de3726f813c136e00f",
+   "release_sha256": "4ea1ee216ff5c16aa0631f5c142361929d36680da59a4def4129a62f701036af",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/03-grouping-and-circuit/token/results/qwen3-0.6b/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "47a64c3d15112c5985bb14deba201d9ff579be3fd61d7c53918d27c505d0e345",
+   "release_sha256": "1d3dfdeba9e7d212b1f5edcd50eb320269b9768d5e076da536451d7e258cf223",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study1-grouping-and-circuit.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/common.py": {
+   "kind": "adapted",
+   "original_sha256": "90a3c4480b8e7321d2895009b922bef48f9a8b90e369bab69c82462a6f23a2ee",
+   "release_sha256": "2d7fa3a2d5cdb6d6a69f278cfc4a8f161e1c5d0defadcc931342784bc9cc7c9c",
+   "frozen_in": [
+    "studies/04-reference-and-sweeps/data/freeze.json",
+    "studies/07-larger-model/data/protocol-freeze.json",
+    "studies/07-larger-model/data/input-freeze.json"
+   ],
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/04-reference-and-sweeps/results/posthoc/random-circuits/design.json": {
+   "kind": "redacted",
+   "original_sha256": "7008b4711a4ff9971a5d404552edd36b897a850ceefdf5126c0e91ba2e637acb",
+   "release_sha256": "4653b2ee4fc5345a34081e1cf793abb9120c231542c5cc8c248c02e66f977527",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "276241b831d0a982049a6f82bae5c5be788867e9f8f25b4d1dc8a9541f0209ae",
+   "release_sha256": "a43a61df5af14178b42892e3c91cdd32040cd5be2550acb9fa71a34487073284",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz",
+   "frozen_in": [
+    "studies/04-reference-and-sweeps/data/freeze.json"
+   ]
+  },
+  "studies/04-reference-and-sweeps/results/reference/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "35f4c20f58fd9659180241c147ebf076baa9758f9aaae8b94d79b6a07e8b68da",
+   "release_sha256": "80320b7dac8af5ebd6cc8ee6d2d052f667688e4053ba8dfdb5bb357a436f1971",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "b16b65b88d28987a303a5392593c2d6ebd7d3e8571255310cc0b10d361e7de94",
+   "release_sha256": "ee4ff87f1099a14780ca3e27471a99cf5a77b9b070288d84371d85195c97cc8d",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "a3c2c0e8fee4b9dc6180b7cebb85afb5642084f03d456f17d37b332c66158456",
+   "release_sha256": "b6eff35536e34c1587213af1374bc577833ab39ef45608db6d2a30df6e763420",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/environment-screen.json": {
+   "kind": "redacted",
+   "original_sha256": "dfbc1c0159e3895b87d33e9117d2b6cb0cf21163aa5b3663f7adfe9eb5c2291e",
+   "release_sha256": "cb8d546c82e8398ab499a216ab1f4cd411b8e12629ca1508f9cea1af8247f561",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "caaff5f72f6709c0850ab4dc5e12a5f92e0ca7ec38ef3f35ebcafaa0eb7884b3",
+   "release_sha256": "edfca7200aabf16fdddcaf643fa6633b4acac835f3435d84b1d96e4598fe60e8",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "17fd83f14afdc725c016230abe95439caf65c71df89f51d8f26e9aef3a1399d7",
+   "release_sha256": "fb924ed3837a8990a471dcdf25ff33d9b86b80fdeb56455566548084ec3342c3",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/screen-selection.json": {
+   "kind": "redacted",
+   "original_sha256": "e4e9d4425dfaa0ed1d086a92a19e3fc02d4f832e93866fc80ee6e2510a0b0f20",
+   "release_sha256": "c4386e109eabc09b4f1e7000b7f5232def4aea1a1164c4d951da0a901d45fe60",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/reference/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "f68efaccc581104618d14cd008d63b13fb3c4e659714add1cada4c5b1e07ed8b",
+   "release_sha256": "3fcea24b10fdb9878bfbf9701e59758b302dcc6c97100abbcd42def5f1ebed62",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/ioi-gpt2-small/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "8b6737a7d6178c3e8b28ff4875ead4cfd7909fa1103285ab68986f2d6aafca09",
+   "release_sha256": "b4634afc7492d9557274116d88a947f55a604e008ddd207731a01c12c2403a88",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz",
+   "frozen_in": [
+    "studies/04-reference-and-sweeps/data/freeze.json"
+   ]
+  },
+  "studies/04-reference-and-sweeps/results/sweep/ioi-gpt2-small/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "eead99228745a58634b68340995e7241d8459aeed528c98655c2e22cd7356723",
+   "release_sha256": "797d24bd361bfe25c336a8d34930dbbf6a37322c86ebf930c76284da31f58629",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/ioi-gpt2-small/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "c41599644859e45d75eea0e5a7f270deaafcae176aaf713cfc4558eda15a37ba",
+   "release_sha256": "e32f3b80d6d0e166e1bbd243d7beeff00c1d3fc52286c60a5d17d7605d19ce20",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/ioi-gpt2-small/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "1e7d4591e4ada66e890441a1a2e2ba6b0f0ed5e1ed4d6f6aca20e1f0a30ea1df",
+   "release_sha256": "d4fee175d32f01cee1baf8340d3047f3d81f2a36228897b8625182e430fb81d5",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/ioi-gpt2-small/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "ca6119289c40367bfa9817c7730172d4625380ad998715659aa2cb4218488d2c",
+   "release_sha256": "9f9cea533b3beffe66f144e33e28fdd8b9b7b397d30c0f101371a6e19c9e8830",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/ioi-gpt2-small/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "3ad5fe0d26f81ce745cc4caa54b07a2a1134a6718b576bb997c732b1373a2e96",
+   "release_sha256": "881c1b45a0ee2e818da130521c00aef3d185addbce6e9b816da366c22fe270a9",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/ioi-gpt2-small/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "167f2e3c1ea77d08ce1046405c13180c5c06b765f002ae0cd65ddad6683e5ca0",
+   "release_sha256": "c39a1bbf2eec7e09ae2f31971d2291fe38df49641bdd1d5237c2800e1f2369b4",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-gpt2-small/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "fec879b30c434e8ad04df78a5a691fa73e1b4348a45f084a5cd98e5c6208221e",
+   "release_sha256": "a613995e6f4b089d2dc7efe5fb749d1a934b8fdf6328405d3aa54c6108417905",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz",
+   "frozen_in": [
+    "studies/04-reference-and-sweeps/data/freeze.json"
+   ]
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-gpt2-small/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "2defa87e2f595301c82bf59c86ca4061eecbf4cf89f1620a3c7345e40462d9c3",
+   "release_sha256": "2729255d753fdd66bdd8c774adb46f16d67b1ceeb7991c1b2c1b4dd5f3ca94ec",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-gpt2-small/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "ff409e739d23bc03f1852719206671ec8825032983255d06ff3f4fbc992c688c",
+   "release_sha256": "6fc1af667ce615410172fa07cbfadbf885168e657ad29b2f75c6492aaed6c93c",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-gpt2-small/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "29ddf5092e10fd1e14b6f2b1dc001bdd1f9f27e0398aeda03f4d21b0e9bb4f7c",
+   "release_sha256": "d773633b451ca04b5a1cb0b7ffc8ee4151a0f99639cf40293b1335db7b2c6f50",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-gpt2-small/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "9dcc0b3db69feca21968d0fdb6667ac7794767f26bab30be3b9385442c7229f7",
+   "release_sha256": "71d8f9694e356e5173f90fc5283615cd2aae2eb5bb573c044a064ba9fd97bbbc",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-gpt2-small/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "5deaef26f8b36491d0df87926725ef734c8412da46bf5eede8b70b75c78f3f1b",
+   "release_sha256": "134e3d686e4a9a84c1f23d1d10ab7278e5bf65a8285c039a0c77ca59371c85a2",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-gpt2-small/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "111420fe59b22817495650a9e14a23278d75a905df90aa9d2cd552d00606d830",
+   "release_sha256": "adee994971d03f9eb2049e7f653ece76ed9e08d10e8cf275fb751088794556bd",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "f19e8c03d55db9c18f85f4079640cf7c6de5b89225b1c0fddf375c78a032cf60",
+   "release_sha256": "4de4db5588f7d6c09e4a5a986943afd105318874cca0a9eae7adfdd51373e6b1",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz",
+   "frozen_in": [
+    "studies/04-reference-and-sweeps/data/freeze.json"
+   ]
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "1a4e6bd2566a0e35be9357b1fe3196a43786a90ff25a2a84450984dd2c18c3bd",
+   "release_sha256": "598c9924f6864442c34a537bf5af1a1d99f8cff5c591e9a487b6347e603aa23f",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "4a9d0dc43df4dee3e522d9d67a134851202e82a1fce81d7262dfa13457b407d9",
+   "release_sha256": "8533c0e3cec2dce9b625945d5b50f4baf645beacb1e6b3f545fdfae89a4220ac",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "d6c796dabe7915393171e440d728eb4795f4be91e3c7c3b439eb6f461856719f",
+   "release_sha256": "bd7e221f2c0c3178f3d980e27c042b15f1780c382b5e312caeb920bfb9ac8d7f",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "0bb00270f79517a253a946c9483b551f963413fd9e195dd9a38d19a1c9d5563e",
+   "release_sha256": "c750769f44a8e3459c608659d1390fb674a676033a3b6d40b672ad30b10f847c",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "849aae787ae0c0077b7c659db7c96dde3fd0732999b2ca61cd1963d8da79cb14",
+   "release_sha256": "c028b93da802cd89abff59c2900284659db0d6de274cf108bd5bc4f0cbf525bd",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/results/sweep/sva-qwen3-0.6b/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "4bc04e2274354d85ad041cc61ac299bb947f8f65f4a45e69b3d7dec4d3817820",
+   "release_sha256": "2e6506c05e42226beb8af7261c187b3e9cea92984e94f41cea451732aaf462a6",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study2-reference-and-sweeps.tar.xz"
+  },
+  "studies/04-reference-and-sweeps/verify.py": {
+   "kind": "adapted",
+   "original_sha256": "044eb61a81e84c76d7bb3c8278ba14cfbe1743f141afef3abf193d22c07c235c",
+   "release_sha256": "ffc8e761ee402115036c02528c88bb7c21558210118dcc923495ae707a4ab5d8",
+   "reasons": [
+    "frozen-file checks accept the changes documented in release-changes.json"
+   ]
+  },
+  "studies/05-head-confirmation/common.py": {
+   "kind": "adapted",
+   "original_sha256": "9585539f71eaddb400758038998aaae97620d9dc65c4feb7b7152c32f8fff171",
+   "release_sha256": "e0a41c18d27ebfacc1cb7b7ffd9002fcf4dc712d0f4e13cd37401973c795c03d",
+   "frozen_in": [
+    "studies/05-head-confirmation/data/freeze.json",
+    "studies/07-larger-model/data/protocol-freeze.json",
+    "studies/07-larger-model/data/input-freeze.json"
+   ],
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/05-head-confirmation/results/ioi-end-gpt2-small/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "6533c0c115fe22253d9e4f2ea74b50e3cc3722150247a78eaf895317266bd4f4",
+   "release_sha256": "d3d8e2d4f37da37d0e7574a0314f1a0f54dd3cb2de35d22590f4bcea29f17304",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz",
+   "frozen_in": [
+    "studies/05-head-confirmation/data/freeze.json"
+   ]
+  },
+  "studies/05-head-confirmation/results/ioi-end-gpt2-small/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "5884dbf1fffe6a3ea26e7b1a7c7775024765aed9948453d193aca5b8f7f50a34",
+   "release_sha256": "3cdff717442e787939eb84e9a6c828975acb17cb2604be50383fab08869448b4",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-end-gpt2-small/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "6a74d8f8c7cf1ec4bd541db20620a95e3ee0b2910fc1b854554b97eb3d4f46b3",
+   "release_sha256": "7b2f39dc79edd19bc2fae461fe4b830c9664e9407cebc4c93a3538f41de6be7d",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-end-gpt2-small/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "b38e167373e4a1c21cb57fa6bf6385533f1b8c4d162eb3363c9ec2aa0ed6d5ec",
+   "release_sha256": "ed3754c9093b3c6cc823ef18f9b8eb3097ed510061add98840a1bc05d165ef6d",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-end-gpt2-small/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "9b4924cbeb9aa03d8739c52c4a73ae1f248d716c92aeb5c742b7f8946301739f",
+   "release_sha256": "ca3aded4644f7aa15d4032849524a70275b1d96da4ce9067d60c69bd57d0a47b",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-end-gpt2-small/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "b5ceba29d4cbd33697679c2f81af82e52f6fe14bf6adb0477757f0e478648d34",
+   "release_sha256": "95f14e252107a90eaef2ca4065c3602f6238a4afedf80f27023c8077d4dc0b8f",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-end-gpt2-small/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "a77413d82f43634efc7b1bfe21f34c01f271db277b7010cb769c582f13c4ad6f",
+   "release_sha256": "784169f58a954ba88a40bf84bdcb1ab11a0bb981c0882bf005720afb2f9efa03",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-s2-gpt2-small/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "4e6faa5ba972a03ce58e4f1d594f40e2c6142b4b92f94574425411a5dabf27dd",
+   "release_sha256": "dcf798419c9158a5e651bab802c7032b6d9f1f81798fe59499334c737249d484",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz",
+   "frozen_in": [
+    "studies/05-head-confirmation/data/freeze.json"
+   ]
+  },
+  "studies/05-head-confirmation/results/ioi-s2-gpt2-small/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "ac5927c1c62bf5dabf3c111dfc335ce2298dfd92a54959657721d404301cb528",
+   "release_sha256": "be66ffe0d5c9671cb7f804021554a865f7fa298e0f06ff7def509b614ea5ada1",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-s2-gpt2-small/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "40002710be43c5c1e39535d5c22212f5f279bcf01e996cc9e2e98faa2aa32061",
+   "release_sha256": "7285bf9288232495222b300cd4bd76912665c60e86d71550d96fccb738b7f289",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-s2-gpt2-small/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "85d25ca0e8f7711275e769b9ea488ceba6ba0e85b767fdceccc52183e382d746",
+   "release_sha256": "60c2751f349f61d60b05b33a0e52d66b3ce5344171e7949046e409185da9220b",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-s2-gpt2-small/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "2775b32bb15078c5749905f267388099bf9b184edcac6bb9cc4e333612cb1415",
+   "release_sha256": "fe1a375291d5c33750d350a78316e3cf6a0d82dcc8a09de7f1142b22d75cd316",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-s2-gpt2-small/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "37ef85e83d9024f67ca1a9c72f7184547eb13a5231be84b852f11e885fd81cb1",
+   "release_sha256": "cb7991866e5790f1a133fd34a5f422e61f18c23d33882d8094f632cdffd4acbd",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/ioi-s2-gpt2-small/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "109f77b4eb03d87db4beb2e36b35ca6caa6ceb4f15820cb45124f2e1cce38bde",
+   "release_sha256": "8325d1f86e514c14ace176110a83daba5578de8e307f69bd929d6da4a415fdcf",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/qwen-gate/environment-gate.json": {
+   "kind": "redacted",
+   "original_sha256": "711c29367a129fda113e9d265cd103f06218409665553dc5e4c0985c1158d4c4",
+   "release_sha256": "1213dba50c18312caacf4bab8a0af4b088b3b3bdd19ef724ddba015e3b8a39cd",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/sva-end-gpt2-small/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "03a5efd89337ab22372925d48ab14d0db0600effb44012bdde8a8667ebc9066a",
+   "release_sha256": "d722a5a6daceaab2e57bf24e7661aafe067009cbc91f3977fc529afd338349ac",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz",
+   "frozen_in": [
+    "studies/05-head-confirmation/data/freeze.json"
+   ]
+  },
+  "studies/05-head-confirmation/results/sva-end-gpt2-small/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "896272ec7a10f946d6b0f49dfb9bd06786bdfae450d3672b6aa7b3f8ed1f80f7",
+   "release_sha256": "bea947756e4e629b1ba265048551e567269dc133778ca789ee09885e6e375b87",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/sva-end-gpt2-small/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "cc58de5169d3da4777240e38dcab438d99729efb877e95259fc8193a442cf4de",
+   "release_sha256": "080ce75556d883bdf356ee09049706c20bf4b9ee3bd3582d8a1288ff8db451e7",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/sva-end-gpt2-small/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "24432005038f746bd8adb3e717e0e0e80d08caffbcc8b0bbb986cb455f3dff12",
+   "release_sha256": "7f02879ca359242f61db1a111b35b5f82a2783a2f950534f94435194c9ec3b31",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/sva-end-gpt2-small/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "72e7307788fcbc4c5e2b82e892eeca065bb4beff9efdb12c8abc827271ffff7d",
+   "release_sha256": "377cde6fa3520690fd39a1286dbcf2229826c39581e698e82ff439ba635b626c",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/sva-end-gpt2-small/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "914c383f6c7a61247b27421f3470865c877c70fe259fda5e2455c04f033565ea",
+   "release_sha256": "4e6dc7c7e38e816cc1e6790e50c60e6665721e7fe5e163ad12f25d22c35ecd04",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/sva-end-gpt2-small/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "88ebbc832fd2c625662c24a4a24ce7dee7e2d6496487231aa7c81a1ec9635d71",
+   "release_sha256": "751bf37189f6e4e5dd95b6c527ebb4e6044b743c348c741453d2fa98c71681d8",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/results/sva-end-qwen3-0.6b/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "1be52778888eee37fd8b2f719e3ba824972f4bebe02034718e69dbb7761866cf",
+   "release_sha256": "72c9b2a0e466333b646415c562c7af5dec83894a9a7bdfec0c89b8dff5c1f2c3",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study3-head-confirmation.tar.xz"
+  },
+  "studies/05-head-confirmation/verify.py": {
+   "kind": "adapted",
+   "original_sha256": "461a6443009d48ffa58cdd8610c9b324c02988f0cd1ce0218b1b5d0ce2f06d5e",
+   "release_sha256": "baed7f14eddddacec8ed65725c9037c2813d1ee6d0669620a06cc44679984d77",
+   "reasons": [
+    "frozen-file checks accept the changes documented in release-changes.json"
+   ]
+  },
+  "studies/06-component-confirmation/common.py": {
+   "kind": "adapted",
+   "original_sha256": "38865b0962c219f56fb4368ddde5e9828779436d7a96c638f85fe3a12b632c40",
+   "release_sha256": "6276f231b9aad31806b7a861aa61e5cdb3b9e2d7cbfd3aa02ce0c3745aeeb20b",
+   "frozen_in": [
+    "studies/06-component-confirmation/data/freeze.json",
+    "studies/07-larger-model/data/protocol-freeze.json",
+    "studies/07-larger-model/data/input-freeze.json"
+   ],
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/06-component-confirmation/results/development-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "4d2cf6bfd651894061f61db682a050fda0cc1b0a98ab8e1018a75a7a4b8f2f91",
+   "release_sha256": "65271bbd294f75975d07df2ba1cd66579e21d39e96d4c8209137863d3ebd2a27",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study4-component-confirmation.tar.xz",
+   "frozen_in": [
+    "studies/06-component-confirmation/data/freeze.json"
+   ]
+  },
+  "studies/06-component-confirmation/results/environment-calibrate.json": {
+   "kind": "redacted",
+   "original_sha256": "c66b3548679b0d7b43c9fed4f82a9f59f1f0328aa90322187aecb969eb792940",
+   "release_sha256": "8c07c1361ef8d98e4805d4d032338934fc9ae18f9b880c105c3232c22454fd1b",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study4-component-confirmation.tar.xz"
+  },
+  "studies/06-component-confirmation/results/environment-development.json": {
+   "kind": "redacted",
+   "original_sha256": "d14ec0efeed1c86d1ec02b2a9965abda68888397abf70f1af60184cd87beefdf",
+   "release_sha256": "5af00005b26bf6fc401286611e3963cc0dbdfd831ff874e4b8615e0be877ea78",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study4-component-confirmation.tar.xz"
+  },
+  "studies/06-component-confirmation/results/environment-replay.json": {
+   "kind": "redacted",
+   "original_sha256": "37872770ce91e6c3dd3be649ea82a80ff06c9aa207246ff72a5048f5936babaa",
+   "release_sha256": "86869359594c81dbee4ba299285b95eb59fdaca0078120de0747879105d1185c",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study4-component-confirmation.tar.xz"
+  },
+  "studies/06-component-confirmation/results/environment-test.json": {
+   "kind": "redacted",
+   "original_sha256": "0cd08dc77ab8b0b3c1ad71af7090c19eff494e9476366043e9f88e178c6eaa39",
+   "release_sha256": "c1061df21f0ec4bff484552ab00a5fb7ad207ba58a8d87e57e0d41afcdc3b422",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study4-component-confirmation.tar.xz"
+  },
+  "studies/06-component-confirmation/results/replay-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "78a20931393f929f2e38bfb17c1e034345df6337b499b0756f1cfa9464b10fa4",
+   "release_sha256": "582862c72b274fe9a149d6b1f88aecb7ef2a45289ef2073d46a2ae598c3e7c36",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study4-component-confirmation.tar.xz"
+  },
+  "studies/06-component-confirmation/results/test-completion.json": {
+   "kind": "redacted",
+   "original_sha256": "fae21822ead0c7e1b619171502f06f014327881bfc04be2982210bc627fc6288",
+   "release_sha256": "1da8c852f496cb1e4827b8d3dc192c98d50fe8062c9953d45921597026f1e6a2",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/study4-component-confirmation.tar.xz"
+  },
+  "studies/06-component-confirmation/verify.py": {
+   "kind": "adapted",
+   "original_sha256": "224a9b13070dc2c84b1b6b394ab0def16b80a84d3e78a1554dacabab7edb9dca",
+   "release_sha256": "fc59a310d4badd8c35866017f3448e36ae0c7c6f3ccdf7c719013bc2b5b93923",
+   "reasons": [
+    "frozen-file checks accept the changes documented in release-changes.json"
+   ]
+  },
+  "studies/07-larger-model/AMENDMENTS.md": {
+   "kind": "redacted",
+   "original_sha256": "8d96bc6466ef034ef7e14b491f802b5ae53830b7f614625db87c2597578800be",
+   "release_sha256": "101720dc760d236761d3ec05054944a275400201a055ed25beb4d96b6a44f17a",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze-amendment-1.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ],
+   "redactions": {
+    "Modal object id": 1,
+    "connection details": 1,
+    "machine details": 3
+   }
+  },
+  "studies/07-larger-model/AUTHOR-APPROVAL.txt": {
+   "kind": "redacted",
+   "original_sha256": "8aa61cbec9eff1911e74ffa071a2fe3478904ded61d7258114dc2acdd611660c",
+   "release_sha256": "9e7b07376e9993f4ae91279637453c0e1be5b3b06c2089ed5530f35f5cfb8e9e",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "AI tool": 1
+   }
+  },
+  "studies/07-larger-model/NOTES-AFTER-TEST.md": {
+   "kind": "redacted",
+   "original_sha256": "b4c3e40317fb6d9ae5fc6d504174b88dd45f7160a755537df8954aca2f53b790",
+   "release_sha256": "e9281d6d48f7aa6f9ec4d9e157760851bac6c18d973fcaedb109da79b4ea47e5",
+   "redactions": {
+    "AI tool": 1
+   }
+  },
+  "studies/07-larger-model/PREDICTIONS.md": {
+   "kind": "redacted",
+   "original_sha256": "a9fd515ab9d0d5b3aee70ec943475002cca5df181538782e4f98677f9e9d66c9",
+   "release_sha256": "b519c661470e7a50c4e223a8edb94b87a8108db556d7b5bf9d3c90cb453e117a",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "AI tool": 1
+   }
+  },
+  "studies/07-larger-model/PROTOCOL.md": {
+   "kind": "redacted",
+   "original_sha256": "d37f19435db9bc645edf2bb03986168eaac27cb3171218205bbbd5216dd5ca58",
+   "release_sha256": "8890ec459b7cd9da790da56ab493da10099f40315a8251b67a89a940fb2ba15c",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "connection details": 1,
+    "approval wording": 2,
+    "related write-up": 1,
+    "machine details": 3
+   }
+  },
+  "studies/07-larger-model/README.md": {
+   "kind": "redacted",
+   "original_sha256": "8181eefe9bf83b4720703ae52e29a0b1fe486ec68ad25b010fbfb5c1b854da61",
+   "release_sha256": "f997a51d1e08ad5c170bc8ee4c6e95b10547cf96644853e6107717359a6cb7e4",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "connection details": 2,
+    "machine details": 2
+   }
+  },
+  "studies/07-larger-model/RESULTS.md": {
+   "kind": "redacted",
+   "original_sha256": "b537629c6144f2c548ae5a865ed516e93c1969ae47405e20811fed6ea988ed1a",
+   "release_sha256": "4738dad5b2c55f9dd7ab0b3dac45ed682c29a509d3ba606bcbe9afde96a1720b",
+   "redactions": {
+    "connection details": 1
+   }
+  },
+  "studies/07-larger-model/common.py": {
+   "kind": "adapted and redacted",
+   "original_sha256": "cc49db5a30fb755d67846ea8262bd61aa00ac38ebc6d397145285a16cff69950",
+   "release_sha256": "bc963f9a515b52f550ab8192ef69dfac2e0674c2b192cc09234472476f7b4037",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze.json"
+   ],
+   "redactions": {
+    "machine details": 2
+   },
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  },
+  "studies/07-larger-model/data/input-freeze-amendment-1.json": {
+   "kind": "redacted",
+   "original_sha256": "982f2eb11c1394444ba371bfe4040bee929f14dd298a15c1ff26b508d4d0fa77",
+   "release_sha256": "05cee41681660c7c9d483dc914d3ab4df7a79f9549eb7b5661ce23b27ef8b76d",
+   "redactions": {
+    "project path": 6
+   }
+  },
+  "studies/07-larger-model/data/input-freeze-amendment-2.json": {
+   "kind": "redacted",
+   "original_sha256": "b4990c394e9cbea76ceb50fcb83f39cf101de97ebe1476d1328ca4e739b031e6",
+   "release_sha256": "d3f8ca60278cc4dc07d2273beaa60dc116ebd3e0753fa4e1e1ab9250163b8513",
+   "redactions": {
+    "project path": 6
+   }
+  },
+  "studies/07-larger-model/data/input-freeze-amendment-3.json": {
+   "kind": "redacted",
+   "original_sha256": "a29fbadcbfb2087194833c7052416b46aaeb50f441c72abe8509ff63dc74bc1f",
+   "release_sha256": "80288ea3520c51344e53236c60e63bc64cce69d20b7399204cd4d17757a9eb0e",
+   "redactions": {
+    "project path": 6
+   }
+  },
+  "studies/07-larger-model/data/input-freeze.json": {
+   "kind": "redacted",
+   "original_sha256": "5ddb19d71a6af5cb8bd56c922d905582d26b248b99e83b103322f628a7548567",
+   "release_sha256": "1889eb7d0c590e0b3fade97cf27b18002141d8b403e29257014fc9adf3539122",
+   "redactions": {
+    "project path": 44,
+    "sibling project": 2
+   }
+  },
+  "studies/07-larger-model/data/protocol-freeze.json": {
+   "kind": "redacted",
+   "original_sha256": "866aea19a0a7693360b2d259cc80c090d75b25631b70cec29abda85228f1e4cd",
+   "release_sha256": "86438165c93a1242905575abb78a741a73ff6e7731de5130796816374b75eab8",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze.json"
+   ],
+   "redactions": {
+    "project path": 46,
+    "sibling project": 2
+   }
+  },
+  "studies/07-larger-model/data/stage4-freeze.json": {
+   "kind": "redacted",
+   "original_sha256": "25eba17bc04950ebcaf26c05fc016a7459f0f2a85532f4ebbc3370e0826d6412",
+   "release_sha256": "49cba2a159de4f245f0d402f6eb08aaff3e94af8ee2bebd8415f0b8d46ca8ddb",
+   "redactions": {
+    "project path": 35
+   }
+  },
+  "studies/07-larger-model/freeze.py": {
+   "kind": "adapted",
+   "original_sha256": "053f7d72c8dbfebb7f7ad88f958f140f50ee93ce8adc74f84503f9427a422f0e",
+   "release_sha256": "575273b5cd7638cf9682569439126a2a03629c86a1bdc0fd5c78d1dd707a28b9",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze.json",
+    "studies/07-larger-model/data/input-freeze-amendment-1.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ],
+   "reasons": [
+    "frozen-file checks accept the changes documented in release-changes.json"
+   ]
+  },
+  "studies/07-larger-model/modal-smoke-test/README.md": {
+   "kind": "redacted",
+   "original_sha256": "3db1f787320887e4867d1dd50aca8774ff998cc2d42026a5e2c214d3998773dd",
+   "release_sha256": "870d0f3a25b5fc33c4d55acce005a315e38dd39c3682dfd488ba1f63acb84173",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "environment path": 1,
+    "machine details": 5
+   }
+  },
+  "studies/07-larger-model/modal-smoke-test/compare_smoke.py": {
+   "kind": "adapted",
+   "original_sha256": "916a56638b2c38c2f72727b90846c3af354f924353f6507b8882533baf891266",
+   "release_sha256": "c90aae66f28a2aa075c13b43a765336ff8f97008ebe4db88badea9128018ca30",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "reasons": [
+    "docstring: run with the release's environment"
+   ]
+  },
+  "studies/07-larger-model/modal-smoke-test/modal_profile.py": {
+   "kind": "adapted",
+   "original_sha256": "b1434ffd130ece6a7aebb553c231ed479c5fb47a97aa93f1eb44764cf1f3ee79",
+   "release_sha256": "1ac98b5970544c9646974c0c6b7f35c99464e2b1760a50bbc3541aca448648ba",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "reasons": [
+    "Modal names and paths no longer name the original project; the CLI comes from PATH"
+   ]
+  },
+  "studies/07-larger-model/modal-smoke-test/modal_smoke.py": {
+   "kind": "adapted and redacted",
+   "original_sha256": "06615b56c225fce87bfbfa21c367502b12d6d11f7e305e9921b7eed1d2eb5742",
+   "release_sha256": "d78c2ea16475d8390d5d4dfc473f16309bca3e119efdaaee8da0ebf855e59464",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "machine details": 2
+   },
+   "reasons": [
+    "Modal names and paths no longer name the original project; the CLI comes from PATH"
+   ]
+  },
+  "studies/07-larger-model/modal-smoke-test/records/billing-report.json": {
+   "kind": "redacted",
+   "original_sha256": "41371d299fb8f8570261c080e49e1d096d23b7375335d2d36cf0415f3128fa21",
+   "release_sha256": "36f10cc827a40f540a3565a29a2854209c3fb44dff6fd2d8287fe1a1dd07eb04",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "Modal object id": 2
+   }
+  },
+  "studies/07-larger-model/modal-smoke-test/records/remote-record.json": {
+   "kind": "redacted",
+   "original_sha256": "76642d98ded907e44525f4248e402af4544b768a21816521113ef32487d99933",
+   "release_sha256": "864073498a241d2145768ced0c85f3254e9ee45260108f468bb0b87016b10e8a",
+   "frozen_in": [
+    "studies/07-larger-model/data/protocol-freeze.json"
+   ],
+   "redactions": {
+    "sibling project": 1,
+    "machine details": 1
+   }
+  },
+  "studies/07-larger-model/modal_app.py": {
+   "kind": "adapted and redacted",
+   "original_sha256": "91d98f738fc4436991f7d67263d298858ffd7210f3a595198a5b6344d698621a",
+   "release_sha256": "74257671ee54fcbe826056a840ffd589f347a95b720f4e53855d20a512f39c21",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ],
+   "redactions": {
+    "connection details": 2
+   },
+   "reasons": [
+    "Modal names and paths no longer name the original project; the CLI comes from PATH"
+   ]
+  },
+  "studies/07-larger-model/posthoc/replay_noise.py": {
+   "kind": "adapted",
+   "original_sha256": "1b0cdedd16278385b630b98c0d05711efa84891e31371c8adf149fa00ef705bc",
+   "release_sha256": "f216aa0c86886dc7ecc29c413d55c2b1e287d442f153253ec2f5e4a72f098f3c",
+   "reasons": [
+    "docstring: run with the release's environment"
+   ]
+  },
+  "studies/07-larger-model/provenance/README-at-protocol-freeze.md": {
+   "kind": "redacted",
+   "original_sha256": "89773c6bdd4f0348f0074fb6d1482dbaccf5a4e4b2d004279ce6694db7a778f9",
+   "release_sha256": "d0ec75ab2a49fd82d8a8b75e2ea902b0deb2f46e4867f5cbc71e3e672b7b9e25",
+   "redactions": {
+    "connection details": 2,
+    "machine details": 1
+   }
+  },
+  "studies/07-larger-model/run_stage.sh": {
+   "kind": "adapted and redacted",
+   "original_sha256": "dc600e5d0ddf978b71bd2213aa44ea522479beeccfc4b41021e2872b0c8a8f07",
+   "release_sha256": "0f66ce32e757289cecaebfb175a969757d920dddb9bb5e615fc79353efd3be45",
+   "redactions": {
+    "connection details": 1
+   },
+   "reasons": [
+    "Modal names and paths no longer name the original project; the CLI comes from PATH"
+   ]
+  },
+  "studies/07-larger-model/test_analysis.py": {
+   "kind": "adapted",
+   "original_sha256": "8836703b251663be6bb8adcf400e54d838db284b2170ba65632dd2f6f1eac4aa",
+   "release_sha256": "26b7706a96878ec9ad0405ca0b6f90cd273b252aa12952ead3f7e12db433df45",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze.json"
+   ],
+   "reasons": [
+    "docstring: run with the release's environment"
+   ]
+  },
+  "studies/07-larger-model/test_cpu.py": {
+   "kind": "adapted",
+   "original_sha256": "249c1ced7ae2e059a47a64cd9fb849c2a9baffc4ecc6c9bbe4611bd69db7fdda",
+   "release_sha256": "df410cbc26577af74f73f480c554575df7ab1166fe2881fa4344e07953d86620",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze.json"
+   ],
+   "reasons": [
+    "docstring: run with the release's environment"
+   ]
+  },
+  "studies/07-larger-model/verify.py": {
+   "kind": "adapted and redacted",
+   "original_sha256": "fcc84a4d39829d7df896b626b0560bcc9dd4c36c57f71d109a72de7cbe690a9f",
+   "release_sha256": "538e6aefa9d1a1cd0d95f9313d83a28a8801ae0e9d13335c2292eb7903958698",
+   "frozen_in": [
+    "studies/07-larger-model/data/input-freeze.json",
+    "studies/07-larger-model/data/input-freeze-amendment-1.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ],
+   "redactions": {
+    "machine details": 1
+   },
+   "reasons": [
+    "frozen-file checks accept the changes documented in release-changes.json"
+   ]
+  },
+  "studies/07-larger-model/watch_billing.sh": {
+   "kind": "adapted",
+   "original_sha256": "7ed5f71ccf08b78b94ec8739e6722651d3ea33c1d96b275afe7ab42933bf121f",
+   "release_sha256": "c99e262d29d36eccffcacef8a9c4e4c747d0b8348257a04ba788c5c392fe9f6e",
+   "reasons": [
+    "Modal names and paths no longer name the original project; the CLI comes from PATH"
+   ]
+  },
+  "studies/07-larger-model/write_results.py": {
+   "kind": "adapted and redacted",
+   "original_sha256": "221ee52654d13437dfc3bf3bb12a6c8ee133862711f0dbe80ed8f7c84d63618f",
+   "release_sha256": "9853747be88f824d4af817083680e66d2ade95f1b59ef8160ef879366e28e48b",
+   "redactions": {
+    "connection details": 1
+   },
+   "reasons": [
+    "docstring: run with the release's environment"
+   ]
+  },
+  "submission-study/REPRODUCIBILITY.md": {
+   "kind": "redacted",
+   "original_sha256": "6cbb204c266543d321ac4b6b4dbd3dbd974847440f29b455f908b8009ec5efa7",
+   "release_sha256": "b8ff229133ceda7d9ac1b3f6cce3ab343af7f617d87123ae050c63dcfd1f6fbc",
+   "redactions": {
+    "sibling project": 1
+   }
+  },
+  "submission-study/data/checkpoints.json": {
+   "kind": "redacted",
+   "original_sha256": "1fefc92dd428331257c0906076317a12b3739ab3c869055afc583fc89aef4afc",
+   "release_sha256": "8c8627fba51fb247e62b962a64435eb5c2b09cea8ee04bea12daf2a00f621721",
+   "frozen_in": [
+    "submission-study/data/freeze.json"
+   ],
+   "redactions": {
+    "model path": 7
+   }
+  },
+  "submission-study/data/hardware.json": {
+   "kind": "redacted",
+   "original_sha256": "564a01991511b3025fcf04d0d9ae376cb2b6a0cae2b7427c6ee28761fb4d6b0a",
+   "release_sha256": "9ef7567b02e304daf9860dc92a6ee7371e7473c7ddd0322d6c6d105a1a9486d9",
+   "redactions": {
+    "machine details": 1
+   }
+  },
+  "submission-study/results/analysis/gpt2-large.json": {
+   "kind": "redacted",
+   "original_sha256": "83819971f38c23da93837db62891fda3e7db2981a0fdf13eec7b1998445c211b",
+   "release_sha256": "4d18a9781d6ac832a020d364605099cc73b7bab2bfca4cfb78f1b17f607e84bb",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/p2-six-model-audit.tar.xz"
+  },
+  "submission-study/results/analysis/gpt2-medium.json": {
+   "kind": "redacted",
+   "original_sha256": "d35822bf81cd1def584c17e5a8cc26d5b90a6a0be7baa80c51a29a383caa9b38",
+   "release_sha256": "c390f81f5bdebab42ac99cb4efc6c2897da8304011c7311d768e12d5a51d26ba",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/p2-six-model-audit.tar.xz"
+  },
+  "submission-study/results/analysis/gpt2-small.json": {
+   "kind": "redacted",
+   "original_sha256": "efeea31fc7593d9de5588e6959335c5fd26c2c3da0f7db1e6860db0d5a7da6cb",
+   "release_sha256": "5b71736fe695f622c261b9f378196e7b59b1b115530f4b620578f63531971b4b",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/p2-six-model-audit.tar.xz"
+  },
+  "submission-study/results/analysis/pythia-410m.json": {
+   "kind": "redacted",
+   "original_sha256": "124fbc44a5723ffd1333df9b10a0e616c3e784a39b7fcbc68cff33caea6c420d",
+   "release_sha256": "4fc5a5c9617d1d3f7982d7c835a72f493a2a0d37c58214c529df2ca13e67a0ae",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/p2-six-model-audit.tar.xz"
+  },
+  "submission-study/results/analysis/qwen3-0.6b.json": {
+   "kind": "redacted",
+   "original_sha256": "e036faa0c554cf3e3262bcd7667727351cbea456838926e707ecf938bce6416e",
+   "release_sha256": "ddc1a1834a326fa20d748c8ad89b14848ec83b432f364dbf2a623d5425d0a745",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/p2-six-model-audit.tar.xz"
+  },
+  "submission-study/results/analysis/qwen3-1.7b-scale.json": {
+   "kind": "redacted",
+   "original_sha256": "b103ebfdb2403e9893605a28a067b43e2e563483c15d6b4c577d2394ae64a1e1",
+   "release_sha256": "e1b01ab66c9c40ae5209894370a20cedb6e9fa7829fef60aa47e5d4739fa1b3c",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/p2-six-model-audit.tar.xz"
+  },
+  "submission-study/results/analysis/tinyllama-1.1b.json": {
+   "kind": "redacted",
+   "original_sha256": "8af0c4d501c222f10e08a7a82bf9514b285bf2b1d07ecf4be67e827f9609f332",
+   "release_sha256": "f4ff49d8e827e69ca106bb8c6909c73aebe4e2ad354184cf13068cce9778f607",
+   "redactions": {
+    "platform string": 1,
+    "machine details": 1
+   },
+   "archive": "data/saved-outputs/p2-six-model-audit.tar.xz"
+  },
+  "submission-study/scripts/common.py": {
+   "kind": "adapted",
+   "original_sha256": "ffda0ebe07e71e01f1fc878d80250a41b3f8c7e0144bf7eab45eb35dd0ad4f28",
+   "release_sha256": "adb16c2952aa41424b376720905961d60e54e45dc70a6a7db2d657bc8fd898fa",
+   "frozen_in": [
+    "submission-study/data/freeze.json"
+   ],
+   "reasons": [
+    "model checkpoints come from MODELS_DIR (default models/ in the release)"
+   ]
+  }
+ },
+ "frozen_files_not_shipped": {
+  "<environment-project>/pyproject.toml": {
+   "original_sha256": "85164236502fd4d74f4676ef98bfe132016acdb073a7302e1cabdaa52347c631",
+   "reason": "environment file of the original runs (it names the original project); this release's pyproject.toml and uv.lock pin the same versions"
+  },
+  "<environment-project>/uv.lock": {
+   "original_sha256": "c3fab4b8a662d9749a930f970d92adf5e444de77e4a0e7295b88123f19c5517e",
+   "reason": "environment file of the original runs (it names the original project); this release's pyproject.toml and uv.lock pin the same versions"
+  },
+  "provenance/environment-2026-10-09.md": {
+   "original_sha256": "3b325b897697ca3e0d075838e13e4a4a33b88a957320c486bcf18b71c87b44e0",
+   "reason": "project provenance history; not part of the release"
+  },
+  "studies/07-larger-model/logs/test_analysis.log": {
+   "original_sha256": "f9379ad1f60c7186e4410114a95142568c435cd37836c5109b530774f088c114",
+   "reason": "log file; logs are not part of the release"
+  },
+  "studies/07-larger-model/logs/test_cpu-amendment1.log": {
+   "original_sha256": "f9b7157f34c8f3c75603b35f24964c766e36c40d752343d2c0d72d1b1afd61aa",
+   "reason": "log file; logs are not part of the release"
+  },
+  "studies/07-larger-model/logs/test_cpu-first.log": {
+   "original_sha256": "9b67256ec5a3464679ce825a4afbb9d0020c2262a587e9656210ff1e8171cea8",
+   "reason": "log file; logs are not part of the release"
+  },
+  "studies/07-larger-model/logs/test_cpu-gates.log": {
+   "original_sha256": "df8bcd4cf65a0d467020c3adb62bbb413a601a85209766fdf902ff83bfa033f3",
+   "reason": "log file; logs are not part of the release"
+  },
+  "studies/07-larger-model/logs/test_cpu-second-stopped.log": {
+   "original_sha256": "e67614f93de947ab3037eb27a3d5019bc3149b0dd57878de6bf2873ccd16c987",
+   "reason": "log file; logs are not part of the release"
+  },
+  "studies/07-larger-model/modal-smoke-test/profile-run.log": {
+   "original_sha256": "03ca917a6f0b2d7ee586794f6b303d474e3b399be7b61a4381401967dd9bfe14",
+   "reason": "log file; logs are not part of the release"
+  },
+  "studies/07-larger-model/modal-smoke-test/run.log": {
+   "original_sha256": "268f649354b186fe401a3041194a006009ac2b12d8ef38ff0accc496d40bf65a",
+   "reason": "log file; logs are not part of the release"
+  }
+ },
+ "freeze_records": [
+  {
+   "path": "studies/01-pilot/data/freeze.json",
+   "base": "studies/01-pilot",
+   "relocations": "studies/01-pilot/data/consolidation-source-relocations.json"
+  },
+  {
+   "path": "submission-study/data/freeze.json",
+   "base": "submission-study",
+   "relocations": "submission-study/data/consolidation-source-relocations.json"
+  },
+  {
+   "path": "submission-study/data/supplement-freeze.json",
+   "base": "submission-study"
+  },
+  {
+   "path": "submission-study/data/cpu-assay-freeze.json",
+   "base": "submission-study"
+  },
+  {
+   "path": "submission-study/data/bfloat16-batching-amendment.json",
+   "base": "submission-study"
+  },
+  {
+   "path": "submission-study/data/bfloat16-readout-amendment.json",
+   "base": "submission-study"
+  },
+  {
+   "path": "studies/03-grouping-and-circuit/token/data/freeze.json",
+   "base": "studies/03-grouping-and-circuit/token"
+  },
+  {
+   "path": "studies/03-grouping-and-circuit/circuit/data/freeze.json",
+   "base": "studies/03-grouping-and-circuit/circuit"
+  },
+  {
+   "path": "studies/04-reference-and-sweeps/data/freeze.json",
+   "base": "studies/04-reference-and-sweeps",
+   "amendments": "studies/04-reference-and-sweeps/AMENDMENTS.json"
+  },
+  {
+   "path": "studies/05-head-confirmation/data/freeze.json",
+   "base": "studies/05-head-confirmation"
+  },
+  {
+   "path": "studies/06-component-confirmation/data/freeze.json",
+   "base": "studies/06-component-confirmation"
+  },
+  {
+   "path": "studies/07-larger-model/data/protocol-freeze.json",
+   "base": ".",
+   "copies": {
+    "<project>/studies/07-larger-model/README.md": "studies/07-larger-model/provenance/README-at-protocol-freeze.md"
+   }
+  },
+  {
+   "path": "studies/07-larger-model/data/input-freeze.json",
+   "base": ".",
+   "copies": {
+    "<project>/studies/07-larger-model/README.md": "studies/07-larger-model/provenance/README-at-protocol-freeze.md"
+   },
+   "superseded_by": [
+    "studies/07-larger-model/data/input-freeze-amendment-1.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ]
+  },
+  {
+   "path": "studies/07-larger-model/data/stage4-freeze.json",
+   "base": ".",
+   "copies": {
+    "<project>/studies/07-larger-model/README.md": "studies/07-larger-model/provenance/README-at-protocol-freeze.md"
+   }
+  },
+  {
+   "path": "studies/07-larger-model/data/input-freeze-amendment-1.json",
+   "base": ".",
+   "copies": {
+    "<project>/studies/07-larger-model/README.md": "studies/07-larger-model/provenance/README-at-protocol-freeze.md"
+   },
+   "superseded_by": [
+    "studies/07-larger-model/data/input-freeze-amendment-1.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ]
+  },
+  {
+   "path": "studies/07-larger-model/data/input-freeze-amendment-2.json",
+   "base": ".",
+   "copies": {
+    "<project>/studies/07-larger-model/README.md": "studies/07-larger-model/provenance/README-at-protocol-freeze.md"
+   },
+   "superseded_by": [
+    "studies/07-larger-model/data/input-freeze-amendment-1.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ]
+  },
+  {
+   "path": "studies/07-larger-model/data/input-freeze-amendment-3.json",
+   "base": ".",
+   "copies": {
+    "<project>/studies/07-larger-model/README.md": "studies/07-larger-model/provenance/README-at-protocol-freeze.md"
+   },
+   "superseded_by": [
+    "studies/07-larger-model/data/input-freeze-amendment-1.json",
+    "studies/07-larger-model/data/input-freeze-amendment-2.json",
+    "studies/07-larger-model/data/input-freeze-amendment-3.json"
+   ]
+  }
+ ]
+}

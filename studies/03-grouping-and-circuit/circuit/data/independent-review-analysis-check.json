@@ -1,0 +1,8 @@
+{
+  "scope": "SYNTHETIC DATA ONLY, no empirical outcome claim",
+  "source_sha256": "e6d0ce1c183f861078e52e6899d1d2b53422dcb7d609f8314752603cf3445ce7",
+  "weighted_margin_mean_checked": true,
+  "pair_endpoint_distinct_from_top1_checked": true,
+  "ratio_of_weighted_means_checked": true,
+  "passed": true
+}
