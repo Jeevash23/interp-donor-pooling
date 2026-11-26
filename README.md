@@ -1,6 +1,6 @@
 # How donors are chosen and combined changes activation-patching conclusions
 
-Code and results for the preprint *How donors are chosen and combined changes activation-patching conclusions*, by Richard Jeevash (link to be added when it is posted).
+Code and results for the study *How donors are chosen and combined changes activation-patching conclusions*, by Richard Jeevash. The study is Chapter 3 of the thesis [*What activation patching shows*](https://doi.org/10.5281/zenodo.24555440), which is the version to read and cite.
 
 This repository holds the code, frozen inputs, study records and saved outputs behind it; the saved outputs and the
 frozen protocols are attached to its v1.0 release (see [Release files](#release-files)). Everything the manuscript
@@ -273,7 +273,7 @@ In the working records shipped here, the names of software tools were replaced b
 
 ## Citation
 
-Please cite the preprint (the link will be added here when it is posted) and, for the code and results, this
+Please cite the thesis *What activation patching shows* (Chapter 3, [doi:10.5281/zenodo.24555440](https://doi.org/10.5281/zenodo.24555440)) and, for the code and results, this
 repository; [CITATION.cff](CITATION.cff) has the details.
 
 ```bibtex
@@ -281,7 +281,7 @@ repository; [CITATION.cff](CITATION.cff) has the details.
   author  = {Jeevash, Richard},
   title   = {{How donors are chosen and combined changes activation-patching conclusions: code and results}},
   year    = {2026},
-  version = {1.0.0},
+  version = {1.1.0},
   url     = {https://github.com/Jeevash23/interp-donor-pooling}
 }
 ```
